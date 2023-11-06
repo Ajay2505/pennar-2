@@ -1,0 +1,341 @@
+.elementor-3132 .elementor-element.elementor-element-653e974d>.elementor-container {
+    max-width: 1060px;
+    min-height: 230px
+}
+
+.elementor-3132 .elementor-element.elementor-element-653e974d>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center
+}
+
+.elementor-3132 .elementor-element.elementor-element-653e974d:not(.elementor-motion-effects-element-type-background),
+.elementor-3132 .elementor-element.elementor-element-653e974d>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-3132 .elementor-element.elementor-element-653e974d {
+    border-style: solid;
+    border-width: 1px 0;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 3.15vh 30px
+}
+
+.elementor-3132 .elementor-element.elementor-element-653e974d>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-3132 .elementor-element.elementor-element-64d56f01>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 1px 0 0;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 10% 18% 10% 0%
+}
+
+.elementor-3132 .elementor-element.elementor-element-64d56f01>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-3132 .elementor-element.elementor-element-7881f86f {
+    color: var( --e-global-color-vamtam_accent_6);
+    font-family: var( --e-global-typography-vamtam_h5-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_h5-font-size);
+    font-weight: var( --e-global-typography-vamtam_h5-font-weight);
+    text-transform: var( --e-global-typography-vamtam_h5-text-transform);
+    font-style: var( --e-global-typography-vamtam_h5-font-style);
+    line-height: var( --e-global-typography-vamtam_h5-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_h5-letter-spacing);
+    width: var( --container-widget-width, 215px);
+    max-width: 215px;
+    --container-widget-width: 215px;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-3132 .elementor-element.elementor-element-7881f86f>.elementor-widget-container {
+    margin: 0 0 20px
+}
+
+.elementor-3132 .elementor-element.elementor-element-3c9b347 .elementor-button-icon {
+    font-size: 13px
+}
+
+.elementor-3132 .elementor-element.elementor-element-3c9b347 .elementor-button .elementor-align-icon-right {
+    margin-left: 20px
+}
+
+.elementor-3132 .elementor-element.elementor-element-3c9b347 .elementor-button .elementor-align-icon-left {
+    margin-right: 20px
+}
+
+.elementor-3132 .elementor-element.elementor-element-3c9b347 .elementor-button {
+    fill: var( --e-global-color-vamtam_accent_6);
+    color: var( --e-global-color-vamtam_accent_6);
+    background-color: #02010100;
+    --vamtam-bg-color: #02010100;
+    border-style: none;
+    border-radius: 0 0 0 0;
+    padding: 0
+}
+
+.elementor-bc-flex-widget .elementor-3132 .elementor-element.elementor-element-7c96672d.elementor-column .elementor-widget-wrap {
+    align-items: flex-start
+}
+
+.elementor-3132 .elementor-element.elementor-element-7c96672d.elementor-column.elementor-element[data-element_type=column]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: flex-start;
+    align-items: flex-start
+}
+
+.elementor-3132 .elementor-element.elementor-element-7c96672d.elementor-column>.elementor-widget-wrap {
+    justify-content: flex-start
+}
+
+.elementor-3132 .elementor-element.elementor-element-7c96672d>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 1px 0 0;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 10%
+}
+
+.elementor-3132 .elementor-element.elementor-element-7c96672d>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-3132 .elementor-element.elementor-element-52607eb5 .elementor-menu-toggle {
+    margin: 0 auto
+}
+
+.elementor-3132 .elementor-element.elementor-element-52607eb5 .elementor-nav-menu .elementor-item {
+    font-family: var( --e-global-typography-vamtam_primary_font-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+    font-weight: var( --e-global-typography-vamtam_primary_font-font-weight);
+    text-transform: var( --e-global-typography-vamtam_primary_font-text-transform);
+    font-style: var( --e-global-typography-vamtam_primary_font-font-style);
+    line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+    word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+}
+
+.elementor-3132 .elementor-element.elementor-element-52607eb5 .elementor-nav-menu--main .elementor-item {
+    color: var( --e-global-color-vamtam_accent_3);
+    fill: var( --e-global-color-vamtam_accent_3);
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 5px;
+    padding-bottom: 5px
+}
+
+.elementor-3132 .elementor-element.elementor-element-52607eb5 {
+    --vamtam-menu-color: var( --e-global-color-vamtam_accent_3);
+    --vamtam-menu-color-hover: var( --e-global-color-vamtam_accent_1);
+    --vamtam-menu-color-active: var( --e-global-color-vamtam_accent_1);
+    width: var( --container-widget-width, 50%);
+    max-width: 50%;
+    --container-widget-width: 50%;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-3132 .elementor-element.elementor-element-52607eb5 .elementor-nav-menu--main .elementor-item:hover,
+.elementor-3132 .elementor-element.elementor-element-52607eb5 .elementor-nav-menu--main .elementor-item.elementor-item-active,
+.elementor-3132 .elementor-element.elementor-element-52607eb5 .elementor-nav-menu--main .elementor-item.highlighted,
+.elementor-3132 .elementor-element.elementor-element-52607eb5 .elementor-nav-menu--main .elementor-item:focus {
+    color: var( --e-global-color-vamtam_accent_1);
+    fill: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-3132 .elementor-element.elementor-element-52607eb5 .elementor-nav-menu--main .elementor-item.elementor-item-active {
+    color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-3132 .elementor-element.elementor-element-52607eb5>.elementor-widget-container {
+    margin: 0% 10% 0% 0%
+}
+
+.elementor-3132 .elementor-element.elementor-element-2e340b0b .elementor-menu-toggle {
+    margin: 0 auto
+}
+
+.elementor-3132 .elementor-element.elementor-element-2e340b0b .elementor-nav-menu .elementor-item {
+    font-family: var( --e-global-typography-vamtam_primary_font-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+    font-weight: var( --e-global-typography-vamtam_primary_font-font-weight);
+    text-transform: var( --e-global-typography-vamtam_primary_font-text-transform);
+    font-style: var( --e-global-typography-vamtam_primary_font-font-style);
+    line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+    word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+}
+
+.elementor-3132 .elementor-element.elementor-element-2e340b0b .elementor-nav-menu--main .elementor-item {
+    color: var( --e-global-color-vamtam_accent_3);
+    fill: var( --e-global-color-vamtam_accent_3);
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 5px;
+    padding-bottom: 5px
+}
+
+.elementor-3132 .elementor-element.elementor-element-2e340b0b {
+    --vamtam-menu-color: var( --e-global-color-vamtam_accent_3);
+    --vamtam-menu-color-hover: var( --e-global-color-vamtam_accent_1);
+    --vamtam-menu-color-active: var( --e-global-color-vamtam_accent_1);
+    width: var( --container-widget-width, 50%);
+    max-width: 50%;
+    --container-widget-width: 50%;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-3132 .elementor-element.elementor-element-2e340b0b .elementor-nav-menu--main .elementor-item:hover,
+.elementor-3132 .elementor-element.elementor-element-2e340b0b .elementor-nav-menu--main .elementor-item.elementor-item-active,
+.elementor-3132 .elementor-element.elementor-element-2e340b0b .elementor-nav-menu--main .elementor-item.highlighted,
+.elementor-3132 .elementor-element.elementor-element-2e340b0b .elementor-nav-menu--main .elementor-item:focus {
+    color: var( --e-global-color-vamtam_accent_1);
+    fill: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-3132 .elementor-element.elementor-element-2e340b0b .elementor-nav-menu--main .elementor-item.elementor-item-active {
+    color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-3132 .elementor-element.elementor-element-2e340b0b>.elementor-widget-container {
+    margin: 0% 10% 0% 0%
+}
+
+.elementor-bc-flex-widget .elementor-3132 .elementor-element.elementor-element-7ab421b1.elementor-column .elementor-widget-wrap {
+    align-items: flex-end
+}
+
+.elementor-3132 .elementor-element.elementor-element-7ab421b1.elementor-column.elementor-element[data-element_type=column]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: flex-end;
+    align-items: flex-end
+}
+
+.elementor-3132 .elementor-element.elementor-element-7ab421b1:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-3132 .elementor-element.elementor-element-7ab421b1>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url(https://fabrik.vamtam.com/wp-content/uploads/2023/08/david-birozy-sWGevRzzsuU-unsplash.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.elementor-3132 .elementor-element.elementor-element-7ab421b1>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 1px 0 0;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 0 0 0 30px
+}
+
+.elementor-3132 .elementor-element.elementor-element-7ab421b1>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-3132 .elementor-element.elementor-element-450f4d53 .elementor-button-icon {
+    font-size: 13px
+}
+
+.elementor-3132 .elementor-element.elementor-element-450f4d53 .elementor-button .elementor-align-icon-right {
+    margin-left: 20px
+}
+
+.elementor-3132 .elementor-element.elementor-element-450f4d53 .elementor-button .elementor-align-icon-left {
+    margin-right: 20px
+}
+
+.elementor-3132 .elementor-element.elementor-element-450f4d53 .elementor-button {
+    background-color: var( --e-global-color-vamtam_accent_4);
+    --vamtam-bg-color: var( --e-global-color-vamtam_accent_4);
+    --vamtam-bg-color-hover: var( --e-global-color-vamtam_accent_1);
+    padding: 20px 23px
+}
+
+.elementor-3132 .elementor-element.elementor-element-450f4d53 .elementor-button:hover,
+.elementor-3132 .elementor-element.elementor-element-450f4d53 .elementor-button:focus {
+    background-color: var( --e-global-color-vamtam_accent_1)
+}
+
+#elementor-popup-modal-3132 .dialog-message {
+    width: 100vw;
+    height: auto
+}
+
+#elementor-popup-modal-3132 {
+    justify-content: center;
+    align-items: flex-start
+}
+
+#elementor-popup-modal-3132 .dialog-widget-content {
+    margin: 87px 0 0
+}
+
+@media(min-width:768px) {
+    .elementor-3132 .elementor-element.elementor-element-64d56f01 {
+        width: 25%
+    }
+    .elementor-3132 .elementor-element.elementor-element-7c96672d {
+        width: 46%
+    }
+    .elementor-3132 .elementor-element.elementor-element-7ab421b1 {
+        width: 29%
+    }
+}
+
+@media(max-width:1024px) {
+    .elementor-3132 .elementor-element.elementor-element-64d56f01>.elementor-element-populated {
+        margin: 0% 5% 0% 0%;
+        --e-column-margin-right: 5%;
+        --e-column-margin-left: 0%;
+        padding: 0% 5%
+    }
+    .elementor-3132 .elementor-element.elementor-element-7881f86f {
+        font-size: var( --e-global-typography-vamtam_h5-font-size);
+        line-height: var( --e-global-typography-vamtam_h5-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h5-letter-spacing)
+    }
+    .elementor-3132 .elementor-element.elementor-element-7c96672d>.elementor-element-populated {
+        margin: 0% 5% 0% 0%;
+        --e-column-margin-right: 5%;
+        --e-column-margin-left: 0%;
+        padding: 0% 5%
+    }
+    .elementor-3132 .elementor-element.elementor-element-52607eb5 .elementor-nav-menu .elementor-item {
+        font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+        line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+        word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+    }
+    .elementor-3132 .elementor-element.elementor-element-2e340b0b .elementor-nav-menu .elementor-item {
+        font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+        line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+        word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+    }
+    .elementor-3132 .elementor-element.elementor-element-7ab421b1>.elementor-element-populated {
+        margin: 0% 5% 0% 0%;
+        --e-column-margin-right: 5%;
+        --e-column-margin-left: 0%;
+        padding: 0% 5%
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-3132 .elementor-element.elementor-element-7881f86f {
+        font-size: var( --e-global-typography-vamtam_h5-font-size);
+        line-height: var( --e-global-typography-vamtam_h5-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h5-letter-spacing)
+    }
+    .elementor-3132 .elementor-element.elementor-element-52607eb5 .elementor-nav-menu .elementor-item {
+        font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+        line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+        word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+    }
+    .elementor-3132 .elementor-element.elementor-element-2e340b0b .elementor-nav-menu .elementor-item {
+        font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+        line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+        word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+    }
+}

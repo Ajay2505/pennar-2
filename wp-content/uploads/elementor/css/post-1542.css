@@ -1,0 +1,287 @@
+.elementor-1542 .elementor-element.elementor-element-c70776f>.elementor-container {
+    max-width: 1060px;
+    min-height: 230px
+}
+
+.elementor-1542 .elementor-element.elementor-element-c70776f>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center
+}
+
+.elementor-1542 .elementor-element.elementor-element-c70776f:not(.elementor-motion-effects-element-type-background),
+.elementor-1542 .elementor-element.elementor-element-c70776f>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-1542 .elementor-element.elementor-element-c70776f {
+    border-style: solid;
+    border-width: 1px 0;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 3.15vh 30px
+}
+
+.elementor-1542 .elementor-element.elementor-element-c70776f>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-1542 .elementor-element.elementor-element-3ff7d1f>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 1px 0 0;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 0% 18% 0% 0%
+}
+
+.elementor-1542 .elementor-element.elementor-element-3ff7d1f>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-1542 .elementor-element.elementor-element-6a05072 {
+    color: var( --e-global-color-vamtam_accent_6);
+    font-family: var( --e-global-typography-vamtam_h5-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_h5-font-size);
+    font-weight: var( --e-global-typography-vamtam_h5-font-weight);
+    text-transform: var( --e-global-typography-vamtam_h5-text-transform);
+    font-style: var( --e-global-typography-vamtam_h5-font-style);
+    line-height: var( --e-global-typography-vamtam_h5-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_h5-letter-spacing);
+    width: var( --container-widget-width, 215px);
+    max-width: 215px;
+    --container-widget-width: 215px;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-1542 .elementor-element.elementor-element-6a05072>.elementor-widget-container {
+    margin: 0 0 -1em
+}
+
+.elementor-bc-flex-widget .elementor-1542 .elementor-element.elementor-element-dd83c71.elementor-column .elementor-widget-wrap {
+    align-items: center
+}
+
+.elementor-1542 .elementor-element.elementor-element-dd83c71.elementor-column.elementor-element[data-element_type=column]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center
+}
+
+.elementor-1542 .elementor-element.elementor-element-dd83c71>.elementor-element-populated {
+    border-style: none;
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 0% 10%
+}
+
+.elementor-1542 .elementor-element.elementor-element-dd83c71>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-1542 .elementor-element.elementor-element-ba35341 .elementor-nav-menu .elementor-item {
+    font-family: var( --e-global-typography-vamtam_primary_font-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+    font-weight: var( --e-global-typography-vamtam_primary_font-font-weight);
+    text-transform: var( --e-global-typography-vamtam_primary_font-text-transform);
+    font-style: var( --e-global-typography-vamtam_primary_font-font-style);
+    line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+    word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+}
+
+.elementor-1542 .elementor-element.elementor-element-ba35341 .elementor-nav-menu--main .elementor-item {
+    color: var( --e-global-color-vamtam_accent_3);
+    fill: var( --e-global-color-vamtam_accent_3);
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 5px;
+    padding-bottom: 5px
+}
+
+.elementor-1542 .elementor-element.elementor-element-ba35341 {
+    --vamtam-menu-color: var( --e-global-color-vamtam_accent_3);
+    --vamtam-menu-color-hover: var( --e-global-color-vamtam_accent_1);
+    --vamtam-menu-color-active: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-1542 .elementor-element.elementor-element-ba35341 .elementor-nav-menu--main .elementor-item:hover,
+.elementor-1542 .elementor-element.elementor-element-ba35341 .elementor-nav-menu--main .elementor-item.elementor-item-active,
+.elementor-1542 .elementor-element.elementor-element-ba35341 .elementor-nav-menu--main .elementor-item.highlighted,
+.elementor-1542 .elementor-element.elementor-element-ba35341 .elementor-nav-menu--main .elementor-item:focus {
+    color: var( --e-global-color-vamtam_accent_1);
+    fill: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-1542 .elementor-element.elementor-element-ba35341 .elementor-nav-menu--main .elementor-item.elementor-item-active {
+    color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-bc-flex-widget .elementor-1542 .elementor-element.elementor-element-e92a8d1.elementor-column .elementor-widget-wrap {
+    align-items: space-between
+}
+
+.elementor-1542 .elementor-element.elementor-element-e92a8d1.elementor-column.elementor-element[data-element_type=column]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: space-between;
+    align-items: space-between
+}
+
+.elementor-1542 .elementor-element.elementor-element-e92a8d1:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-1542 .elementor-element.elementor-element-e92a8d1>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-1542 .elementor-element.elementor-element-e92a8d1>.elementor-element-populated {
+    border-style: none;
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 0
+}
+
+.elementor-1542 .elementor-element.elementor-element-e92a8d1>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-1542 .elementor-element.elementor-element-e92a8d1 .elementor-element-populated .elementor-heading-title {
+    color: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-1542 .elementor-element.elementor-element-bc0ccfd {
+    padding: 20px
+}
+
+.elementor-1542 .elementor-element.elementor-element-35203cc>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0
+}
+
+.elementor-1542 .elementor-element.elementor-element-c9e4da8 {
+    z-index: 2
+}
+
+.elementor-1542 .elementor-element.elementor-element-b4e6fe9 {
+    z-index: 2
+}
+
+.elementor-1542 .elementor-element.elementor-element-b44aa19 {
+    padding: 0 20px 0 0
+}
+
+.elementor-1542 .elementor-element.elementor-element-8ae30ae .elementor-button-icon {
+    font-size: 13px
+}
+
+.elementor-1542 .elementor-element.elementor-element-8ae30ae .elementor-button .elementor-align-icon-right {
+    margin-left: 0
+}
+
+.elementor-1542 .elementor-element.elementor-element-8ae30ae .elementor-button .elementor-align-icon-left {
+    margin-right: 0
+}
+
+.elementor-1542 .elementor-element.elementor-element-8ae30ae .elementor-button {
+    fill: var( --e-global-color-vamtam_accent_1);
+    color: var( --e-global-color-vamtam_accent_1);
+    background-color: var( --e-global-color-vamtam_accent_5);
+    --vamtam-bg-color: var( --e-global-color-vamtam_accent_5);
+    --vamtam-bg-color-hover: var( --e-global-color-vamtam_accent_6);
+    padding: 23px 23px 23px 55px
+}
+
+.elementor-1542 .elementor-element.elementor-element-8ae30ae .elementor-button:hover,
+.elementor-1542 .elementor-element.elementor-element-8ae30ae .elementor-button:focus {
+    color: var( --e-global-color-vamtam_accent_5);
+    background-color: var( --e-global-color-vamtam_accent_6)
+}
+
+.elementor-1542 .elementor-element.elementor-element-8ae30ae .elementor-button:hover svg,
+.elementor-1542 .elementor-element.elementor-element-8ae30ae .elementor-button:focus svg {
+    fill: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-1542 .elementor-element.elementor-element-8ae30ae>.elementor-widget-container {
+    margin: 0
+}
+
+.elementor-1542 .elementor-element.elementor-element-8ae30ae {
+    z-index: 2
+}
+
+.elementor-1542 .elementor-element.elementor-element-af6626d.elementor-column>.elementor-widget-wrap {
+    justify-content: flex-end
+}
+
+.elementor-1542 .elementor-element.elementor-element-d596d5e {
+    text-align: right;
+    z-index: 2
+}
+
+.elementor-1542 .elementor-element.elementor-element-d596d5e .elementor-heading-title {
+    text-decoration: line-through
+}
+
+#elementor-popup-modal-1542 .dialog-message {
+    width: 100vw;
+    height: auto
+}
+
+#elementor-popup-modal-1542 {
+    justify-content: center;
+    align-items: flex-start
+}
+
+#elementor-popup-modal-1542 .dialog-widget-content {
+    margin: 87px 0 0
+}
+
+@media(min-width:768px) {
+    .elementor-1542 .elementor-element.elementor-element-3ff7d1f {
+        width: 25%
+    }
+    .elementor-1542 .elementor-element.elementor-element-dd83c71 {
+        width: 46%
+    }
+    .elementor-1542 .elementor-element.elementor-element-e92a8d1 {
+        width: 29%
+    }
+}
+
+@media(max-width:1024px) {
+    .elementor-1542 .elementor-element.elementor-element-3ff7d1f>.elementor-element-populated {
+        margin: 0% 5% 0% 0%;
+        --e-column-margin-right: 5%;
+        --e-column-margin-left: 0%;
+        padding: 0% 5%
+    }
+    .elementor-1542 .elementor-element.elementor-element-6a05072 {
+        font-size: var( --e-global-typography-vamtam_h5-font-size);
+        line-height: var( --e-global-typography-vamtam_h5-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h5-letter-spacing)
+    }
+    .elementor-1542 .elementor-element.elementor-element-dd83c71>.elementor-element-populated {
+        margin: 0% 5% 0% 0%;
+        --e-column-margin-right: 5%;
+        --e-column-margin-left: 0%;
+        padding: 0% 5%
+    }
+    .elementor-1542 .elementor-element.elementor-element-ba35341 .elementor-nav-menu .elementor-item {
+        font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+        line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+        word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+    }
+    .elementor-1542 .elementor-element.elementor-element-e92a8d1>.elementor-element-populated {
+        margin: 0% 5% 0% 0%;
+        --e-column-margin-right: 5%;
+        --e-column-margin-left: 0%;
+        padding: 0% 5%
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-1542 .elementor-element.elementor-element-6a05072 {
+        font-size: var( --e-global-typography-vamtam_h5-font-size);
+        line-height: var( --e-global-typography-vamtam_h5-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h5-letter-spacing)
+    }
+    .elementor-1542 .elementor-element.elementor-element-ba35341 .elementor-nav-menu .elementor-item {
+        font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+        line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+        word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+    }
+}

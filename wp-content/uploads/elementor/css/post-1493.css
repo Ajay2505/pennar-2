@@ -1,0 +1,330 @@
+.elementor-1493 .elementor-element.elementor-element-96bc93e>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: space-between;
+    align-items: space-between
+}
+
+.elementor-1493 .elementor-element.elementor-element-96bc93e {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding: 0
+}
+
+.elementor-bc-flex-widget .elementor-1493 .elementor-element.elementor-element-3e837dc.elementor-column .elementor-widget-wrap {
+    align-items: space-between
+}
+
+.elementor-1493 .elementor-element.elementor-element-3e837dc.elementor-column.elementor-element[data-element_type=column]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: space-between;
+    align-items: space-between
+}
+
+.elementor-1493 .elementor-element.elementor-element-3e837dc>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0
+}
+
+.elementor-1493 .elementor-element.elementor-element-3e837dc>.elementor-element-populated {
+    margin: 0;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px
+}
+
+.elementor-1493 .elementor-element.elementor-element-9353657 {
+    padding: 0 80px
+}
+
+.elementor-1493 .elementor-element.elementor-element-165dec6>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0
+}
+
+.elementor-1493 .elementor-element.elementor-element-2d713ec {
+    --spacer-size: 10vh
+}
+
+.elementor-1493 .elementor-element.elementor-element-68841f1 {
+    --spacer-size: 22vh;
+    width: var( --container-widget-width, 26vh);
+    max-width: 26vh;
+    --container-widget-width: 26vh;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-1493 .elementor-element.elementor-element-68841f1>.elementor-widget-container {
+    margin: 0;
+    background-image: url(https://fabrik.vamtam.com/wp-content/uploads/2023/08/the-blowup-VJz0Dq-5DtQ-unsplash-1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.elementor-1493 .elementor-element.elementor-element-68841f1:not( .elementor-widget-image) .elementor-widget-container {
+    -webkit-mask-image: url(https://fabrik.vamtam.com/wp-content/uploads/2023/08/mask.svg);
+    -webkit-mask-size: contain;
+    -webkit-mask-position: center center;
+    -webkit-mask-repeat: no-repeat
+}
+
+.elementor-1493 .elementor-element.elementor-element-68841f1.elementor-widget-image .elementor-widget-container img {
+    -webkit-mask-image: url(https://fabrik.vamtam.com/wp-content/uploads/2023/08/mask.svg);
+    -webkit-mask-size: contain;
+    -webkit-mask-position: center center;
+    -webkit-mask-repeat: no-repeat
+}
+
+.elementor-1493 .elementor-element.elementor-element-e1302de {
+    --spacer-size: 5vh
+}
+
+.elementor-1493 .elementor-element.elementor-element-a305fed .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+    padding-bottom: calc(0px/2)
+}
+
+.elementor-1493 .elementor-element.elementor-element-a305fed .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+    margin-top: calc(0px/2)
+}
+
+.elementor-1493 .elementor-element.elementor-element-a305fed .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+    margin-right: calc(0px/2);
+    margin-left: calc(0px/2)
+}
+
+.elementor-1493 .elementor-element.elementor-element-a305fed .elementor-icon-list-items.elementor-inline-items {
+    margin-right: calc(-0px/2);
+    margin-left: calc(-0px/2)
+}
+
+body.rtl .elementor-1493 .elementor-element.elementor-element-a305fed .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    left: calc(-0px/2)
+}
+
+body:not(.rtl) .elementor-1493 .elementor-element.elementor-element-a305fed .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    right: calc(-0px/2)
+}
+
+.elementor-1493 .elementor-element.elementor-element-a305fed .elementor-icon-list-icon i {
+    color: var( --e-global-color-vamtam_accent_1);
+    transition: color .3s
+}
+
+.elementor-1493 .elementor-element.elementor-element-a305fed .elementor-icon-list-icon svg {
+    fill: var( --e-global-color-vamtam_accent_1);
+    transition: fill .3s
+}
+
+.elementor-1493 .elementor-element.elementor-element-a305fed {
+    --e-icon-list-icon-size: 13px;
+    --e-icon-list-icon-align: right;
+    --e-icon-list-icon-margin: 0 0 0 calc(var(--e-icon-list-icon-size, 1em) * 0.25);
+    --icon-vertical-align: flex-start;
+    --icon-vertical-offset: 4px
+}
+
+.elementor-1493 .elementor-element.elementor-element-a305fed .elementor-icon-list-icon {
+    padding-right: 0
+}
+
+.elementor-1493 .elementor-element.elementor-element-a305fed .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-1493 .elementor-element.elementor-element-a305fed .elementor-icon-list-item>a {
+    font-family: var( --e-global-typography-vamtam_primary_font-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+    font-weight: var( --e-global-typography-vamtam_primary_font-font-weight);
+    text-transform: var( --e-global-typography-vamtam_primary_font-text-transform);
+    font-style: var( --e-global-typography-vamtam_primary_font-font-style);
+    line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+    word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+}
+
+.elementor-1493 .elementor-element.elementor-element-a305fed .elementor-icon-list-text {
+    transition: color .3s
+}
+
+.elementor-1493 .elementor-element.elementor-element-a305fed>.elementor-widget-container {
+    margin: 0 0 10px -13px;
+    padding: 0
+}
+
+.elementor-1493 .elementor-element.elementor-element-68f42d0>.elementor-widget-container {
+    margin: 0
+}
+
+.elementor-1493 .elementor-element.elementor-element-9156fe6>.elementor-widget-container {
+    margin: 0
+}
+
+.elementor-1493 .elementor-element.elementor-element-458d833 {
+    --spacer-size: 3vh
+}
+
+.elementor-1493 .elementor-element.elementor-element-cdca3cf>.elementor-widget-container {
+    margin: 0% 30% 0% 0%
+}
+
+.elementor-1493 .elementor-element.elementor-element-95f71c7 {
+    --spacer-size: 1vh
+}
+
+.elementor-1493 .elementor-element.elementor-element-ae0741f .elementor-button {
+    font-family: manrope, Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: none;
+    line-height: 1.4em;
+    letter-spacing: .1px;
+    fill: var( --e-global-color-vamtam_accent_3);
+    color: var( --e-global-color-vamtam_accent_3);
+    background-color: #02010100;
+    --vamtam-bg-color: #02010100;
+    --vamtam-bg-color-hover: #02010100;
+    border-style: none;
+    border-radius: 0 0 0 0;
+    padding: 0
+}
+
+.elementor-1493 .elementor-element.elementor-element-ae0741f .elementor-button:hover,
+.elementor-1493 .elementor-element.elementor-element-ae0741f .elementor-button:focus {
+    color: var( --e-global-color-vamtam_accent_1);
+    background-color: #02010100
+}
+
+.elementor-1493 .elementor-element.elementor-element-ae0741f .elementor-button:hover svg,
+.elementor-1493 .elementor-element.elementor-element-ae0741f .elementor-button:focus svg {
+    fill: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-1493 .elementor-element.elementor-element-ae0741f>.elementor-widget-container {
+    margin: 0 0 5px
+}
+
+.elementor-1493 .elementor-element.elementor-element-18c4fa2 .elementor-button {
+    font-family: manrope, Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: none;
+    line-height: 1.4em;
+    letter-spacing: .1px;
+    fill: var( --e-global-color-vamtam_accent_3);
+    color: var( --e-global-color-vamtam_accent_3);
+    background-color: #02010100;
+    --vamtam-bg-color: #02010100;
+    --vamtam-bg-color-hover: #02010100;
+    border-style: none;
+    border-radius: 0 0 0 0;
+    padding: 0
+}
+
+.elementor-1493 .elementor-element.elementor-element-18c4fa2 .elementor-button:hover,
+.elementor-1493 .elementor-element.elementor-element-18c4fa2 .elementor-button:focus {
+    color: var( --e-global-color-vamtam_accent_1);
+    background-color: #02010100
+}
+
+.elementor-1493 .elementor-element.elementor-element-18c4fa2 .elementor-button:hover svg,
+.elementor-1493 .elementor-element.elementor-element-18c4fa2 .elementor-button:focus svg {
+    fill: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-1493 .elementor-element.elementor-element-18c4fa2>.elementor-widget-container {
+    margin: 0
+}
+
+.elementor-1493 .elementor-element.elementor-element-e19ef97 {
+    --spacer-size: 6vh
+}
+
+.elementor-1493 .elementor-element.elementor-element-f9a537b .elementor-button {
+    fill: var( --e-global-color-vamtam_accent_5);
+    color: var( --e-global-color-vamtam_accent_5);
+    background-color: var( --e-global-color-vamtam_accent_4);
+    --vamtam-bg-color: var( --e-global-color-vamtam_accent_4);
+    --vamtam-bg-color-hover: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-1493 .elementor-element.elementor-element-f9a537b .elementor-button:hover,
+.elementor-1493 .elementor-element.elementor-element-f9a537b .elementor-button:focus {
+    color: var( --e-global-color-vamtam_accent_5);
+    background-color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-1493 .elementor-element.elementor-element-f9a537b .elementor-button:hover svg,
+.elementor-1493 .elementor-element.elementor-element-f9a537b .elementor-button:focus svg {
+    fill: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-1493 .elementor-element.elementor-element-f9a537b>.elementor-widget-container {
+    margin: 0% 20% 0% 0%
+}
+
+#elementor-popup-modal-1493 .dialog-message {
+    width: 570px;
+    height: 100vh;
+    align-items: flex-start
+}
+
+#elementor-popup-modal-1493 {
+    justify-content: flex-end;
+    align-items: flex-start;
+    pointer-events: all;
+    background-color: #00000080
+}
+
+#elementor-popup-modal-1493 .dialog-close-button {
+    display: flex;
+    top: 40px;
+    font-size: 20px
+}
+
+#elementor-popup-modal-1493 .dialog-widget-content {
+    animation-duration: .6s;
+    box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, .2)
+}
+
+body:not(.rtl) #elementor-popup-modal-1493 .dialog-close-button {
+    right: 40px
+}
+
+body.rtl #elementor-popup-modal-1493 .dialog-close-button {
+    left: 40px
+}
+
+@media(max-width:1024px) {
+    .elementor-1493 .elementor-element.elementor-element-96bc93e {
+        padding: 0 30px
+    }
+    .elementor-1493 .elementor-element.elementor-element-3e837dc>.elementor-element-populated {
+        margin: 0;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+        padding: 80px 0 0
+    }
+    .elementor-1493 .elementor-element.elementor-element-a305fed .elementor-icon-list-item>.elementor-icon-list-text,
+    .elementor-1493 .elementor-element.elementor-element-a305fed .elementor-icon-list-item>a {
+        font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+        line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+        word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-1493 .elementor-element.elementor-element-96bc93e {
+        padding: 0 20px
+    }
+    .elementor-1493 .elementor-element.elementor-element-3e837dc>.elementor-element-populated {
+        padding: 60px 0 0
+    }
+    .elementor-1493 .elementor-element.elementor-element-a305fed .elementor-icon-list-item>.elementor-icon-list-text,
+    .elementor-1493 .elementor-element.elementor-element-a305fed .elementor-icon-list-item>a {
+        font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+        line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+        word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+    }
+    .elementor-1493 .elementor-element.elementor-element-ae0741f .elementor-button {
+        font-size: 16px;
+        line-height: 1.5em
+    }
+    .elementor-1493 .elementor-element.elementor-element-18c4fa2 .elementor-button {
+        font-size: 16px;
+        line-height: 1.5em
+    }
+}

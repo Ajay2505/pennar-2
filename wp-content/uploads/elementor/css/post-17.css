@@ -1,0 +1,4285 @@
+.elementor-17 .elementor-element.elementor-element-9444da1>.elementor-container {
+    min-height: 15vh
+}
+
+.elementor-17 .elementor-element.elementor-element-9444da1 {
+    overflow: hidden;
+    margin-top: 0;
+    margin-bottom: 0
+}
+
+.elementor-bc-flex-widget .elementor-17 .elementor-element.elementor-element-7b13ec0.elementor-column .elementor-widget-wrap {
+    align-items: flex-end
+}
+
+.elementor-17 .elementor-element.elementor-element-7b13ec0.elementor-column.elementor-element[data-element_type=column]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: flex-end;
+    align-items: flex-end
+}
+
+.elementor-17 .elementor-element.elementor-element-7b13ec0>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 8px
+}
+
+.elementor-17 .elementor-element.elementor-element-7b13ec0>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 0 30px 40px
+}
+
+.elementor-17 .elementor-element.elementor-element-7b13ec0>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-09d16c5 {
+    --divider-border-style: solid;
+    --divider-color: var( --e-global-color-vamtam_accent_7);
+    --divider-border-width: 1px;
+    top: 50%;
+    --e-transform-origin-x: center;
+    --e-transform-origin-y: top
+}
+
+.elementor-17 .elementor-element.elementor-element-09d16c5 .elementor-divider-separator {
+    width: 500%
+}
+
+.elementor-17 .elementor-element.elementor-element-09d16c5 .elementor-divider {
+    padding-top: 0;
+    padding-bottom: 0
+}
+
+body:not(.rtl) .elementor-17 .elementor-element.elementor-element-09d16c5 {
+    left: 16.8%
+}
+
+body.rtl .elementor-17 .elementor-element.elementor-element-09d16c5 {
+    right: 16.8%
+}
+
+.elementor-17 .elementor-element.elementor-element-09d16c5>.elementor-widget-container {
+    --e-transform-rotateZ: 90deg
+}
+
+.elementor-17 .elementor-element.elementor-element-2884db9 {
+    --divider-border-style: solid;
+    --divider-color: var( --e-global-color-vamtam_accent_7);
+    --divider-border-width: 1px;
+    top: 50%;
+    --e-transform-origin-x: center;
+    --e-transform-origin-y: top
+}
+
+.elementor-17 .elementor-element.elementor-element-2884db9 .elementor-divider-separator {
+    width: 500%
+}
+
+.elementor-17 .elementor-element.elementor-element-2884db9 .elementor-divider {
+    padding-top: 0;
+    padding-bottom: 0
+}
+
+body:not(.rtl) .elementor-17 .elementor-element.elementor-element-2884db9 {
+    left: -16.666%
+}
+
+body.rtl .elementor-17 .elementor-element.elementor-element-2884db9 {
+    right: -16.666%
+}
+
+.elementor-17 .elementor-element.elementor-element-2884db9>.elementor-widget-container {
+    --e-transform-rotateZ: 90deg
+}
+
+.elementor-17 .elementor-element.elementor-element-575411f {
+    --spacer-size: 6vh
+}
+
+.elementor-17 .elementor-element.elementor-element-30919cb .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+    padding-bottom: calc(0px/2)
+}
+
+.elementor-17 .elementor-element.elementor-element-30919cb .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+    margin-top: calc(0px/2)
+}
+
+.elementor-17 .elementor-element.elementor-element-30919cb .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+    margin-right: calc(0px/2);
+    margin-left: calc(0px/2)
+}
+
+.elementor-17 .elementor-element.elementor-element-30919cb .elementor-icon-list-items.elementor-inline-items {
+    margin-right: calc(-0px/2);
+    margin-left: calc(-0px/2)
+}
+
+body.rtl .elementor-17 .elementor-element.elementor-element-30919cb .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    left: calc(-0px/2)
+}
+
+body:not(.rtl) .elementor-17 .elementor-element.elementor-element-30919cb .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    right: calc(-0px/2)
+}
+
+.elementor-17 .elementor-element.elementor-element-30919cb .elementor-icon-list-icon i {
+    color: var( --e-global-color-vamtam_accent_1);
+    transition: color .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-30919cb .elementor-icon-list-icon svg {
+    fill: var( --e-global-color-vamtam_accent_1);
+    transition: fill .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-30919cb {
+    --e-icon-list-icon-size: 13px;
+    --e-icon-list-icon-align: right;
+    --e-icon-list-icon-margin: 0 0 0 calc(var(--e-icon-list-icon-size, 1em) * 0.25);
+    --icon-vertical-align: flex-start;
+    --icon-vertical-offset: 4px
+}
+
+.elementor-17 .elementor-element.elementor-element-30919cb .elementor-icon-list-icon {
+    padding-right: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-30919cb .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-17 .elementor-element.elementor-element-30919cb .elementor-icon-list-item>a {
+    font-family: var( --e-global-typography-vamtam_primary_font-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+    font-weight: var( --e-global-typography-vamtam_primary_font-font-weight);
+    text-transform: var( --e-global-typography-vamtam_primary_font-text-transform);
+    font-style: var( --e-global-typography-vamtam_primary_font-font-style);
+    line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+    word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+}
+
+.elementor-17 .elementor-element.elementor-element-30919cb .elementor-icon-list-text {
+    transition: color .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-30919cb>.elementor-widget-container {
+    margin: 0 0 0 -13px;
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-4d5a904 {
+    width: var( --container-widget-width, 750px);
+    max-width: 750px;
+    --container-widget-width: 750px;
+    --container-widget-flex-grow: 0;
+    z-index: 5
+}
+
+.elementor-17 .elementor-element.elementor-element-5c6e2e9>.elementor-container {
+    min-height: 68.5vh
+}
+
+.elementor-17 .elementor-element.elementor-element-5c6e2e9 {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-1ed395b:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-17 .elementor-element.elementor-element-1ed395b>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: var(--e-bg-lazyload-loaded);
+    --e-bg-lazyload: url("https://www.pennarindia.com/img/business/projects.jpg");
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.elementor-17 .elementor-element.elementor-element-1ed395b>.elementor-element-populated {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-1ed395b>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-a8dafdd:not(.elementor-motion-effects-element-type-background),
+.elementor-17 .elementor-element.elementor-element-a8dafdd>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: transparent;
+    background-image: linear-gradient(90deg, #02010100 66.666%, var( --e-global-color-vamtam_accent_5) 66.666%)
+}
+
+.elementor-17 .elementor-element.elementor-element-a8dafdd {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-a8dafdd>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-2f1b69d .elementor-button-icon {
+    font-size: 13px
+}
+
+.elementor-17 .elementor-element.elementor-element-2f1b69d .elementor-button .elementor-align-icon-right {
+    margin-left: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-2f1b69d .elementor-button .elementor-align-icon-left {
+    margin-right: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-2f1b69d .elementor-button {
+    background-color: var( --e-global-color-vamtam_accent_4);
+    --vamtam-bg-color: var( --e-global-color-vamtam_accent_4);
+    --vamtam-bg-color-hover: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-2f1b69d .elementor-button:hover,
+.elementor-17 .elementor-element.elementor-element-2f1b69d .elementor-button:focus {
+    background-color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-2f1b69d {
+    width: var( --container-widget-width, 170.08%);
+    max-width: 170.08%;
+    --container-widget-width: 170.08%;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-8e55c2e {
+    --spacer-size: 50px
+}
+
+.elementor-17 .elementor-element.elementor-element-141ab11>.elementor-container {
+    min-height: 355px
+}
+
+.elementor-17 .elementor-element.elementor-element-eda2995>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 0 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 75px 50px 55px 30px
+}
+
+.elementor-17 .elementor-element.elementor-element-eda2995>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-9cec01d {
+    color: var( --e-global-color-vamtam_accent_6);
+    font-family: var( --e-global-typography-vamtam_h6-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_h6-font-size);
+    font-weight: var( --e-global-typography-vamtam_h6-font-weight);
+    text-transform: var( --e-global-typography-vamtam_h6-text-transform);
+    font-style: var( --e-global-typography-vamtam_h6-font-style);
+    line-height: var( --e-global-typography-vamtam_h6-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+}
+
+.elementor-17 .elementor-element.elementor-element-9cec01d>.elementor-widget-container {
+    margin: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-fddaee9>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-fddaee9>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 0 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 75px 30px 55px
+}
+
+.elementor-17 .elementor-element.elementor-element-fddaee9>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-6a7145f>.elementor-widget-container {
+    padding: 0% 20% 0% 0%
+}
+
+.elementor-17 .elementor-element.elementor-element-3e2bfc0>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-3e2bfc0>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 75px 30px 55px
+}
+
+.elementor-17 .elementor-element.elementor-element-3e2bfc0>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-af12e5b>.elementor-widget-container {
+    padding: 0% 20% 0% 0%
+}
+
+.elementor-17 .elementor-element.elementor-element-a429069>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-a429069>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 0 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 0 20px 0 0
+}
+
+.elementor-17 .elementor-element.elementor-element-a429069>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-2d965cc .elementor-flip-box__front {
+    background-color: var( --e-global-color-vamtam_accent_2);
+    border-style: solid;
+    border-width: 30px 0 0;
+    border-color: var( --e-global-color-vamtam_accent_2)
+}
+
+.elementor-17 .elementor-element.elementor-element-2d965cc .elementor-flip-box__back {
+    background-color: var( --e-global-color-vamtam_accent_1);
+    border-style: solid;
+    border-width: 30px 0 0;
+    border-color: #253d97
+}
+
+.elementor-17 .elementor-element.elementor-element-2d965cc .elementor-flip-box {
+    height: 379px
+}
+
+.elementor-17 .elementor-element.elementor-element-2d965cc .elementor-flip-box__front .elementor-flip-box__layer__overlay {
+    padding: 0;
+    text-align: left;
+    justify-content: flex-end
+}
+
+.elementor-17 .elementor-element.elementor-element-2d965cc .elementor-icon i {
+    transform: rotate(0deg)
+}
+
+.elementor-17 .elementor-element.elementor-element-2d965cc .elementor-icon svg {
+    transform: rotate(0deg)
+}
+
+.elementor-17 .elementor-element.elementor-element-2d965cc .elementor-flip-box__back .elementor-flip-box__layer__overlay {
+    padding: 0;
+    text-align: left;
+    justify-content: flex-end
+}
+
+.elementor-17 .elementor-element.elementor-element-2d965cc .elementor-flip-box__button {
+    margin-left: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-1b15476>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-1b15476>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 0 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 0 20px 0 0
+}
+
+.elementor-17 .elementor-element.elementor-element-1b15476>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-fd1c66a .elementor-flip-box__front {
+    background-color: var( --e-global-color-vamtam_accent_2);
+    background-image: var(--e-bg-lazyload-loaded);
+    --e-bg-lazyload: url("https://fabrik.vamtam.com/wp-content/uploads/2023/07/GettyImages-1220652468.png");
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-style: solid;
+    border-width: 30px 0 0;
+    border-color: var( --e-global-color-vamtam_accent_2)
+}
+
+.elementor-17 .elementor-element.elementor-element-fd1c66a .elementor-flip-box__back {
+    background-color: var( --e-global-color-vamtam_accent_1);
+    background-image: url(https://fabrik.vamtam.com/wp-content/uploads/2023/07/GettyImages-1220652468.png);
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-style: solid;
+    border-width: 30px 0 0;
+    border-color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-fd1c66a .elementor-flip-box {
+    height: 379px
+}
+
+.elementor-17 .elementor-element.elementor-element-fd1c66a .elementor-flip-box__front .elementor-flip-box__layer__overlay {
+    padding: 0;
+    text-align: left;
+    justify-content: flex-end
+}
+
+.elementor-17 .elementor-element.elementor-element-fd1c66a .elementor-flip-box__back .elementor-flip-box__layer__overlay {
+    padding: 0;
+    text-align: left;
+    justify-content: flex-end
+}
+
+.elementor-17 .elementor-element.elementor-element-fd1c66a .elementor-flip-box__button {
+    margin-left: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-ab8fca0>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-ab8fca0>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 0 20px 0 0
+}
+
+.elementor-17 .elementor-element.elementor-element-ab8fca0>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-5a36e1c .elementor-flip-box__front {
+    background-color: var( --e-global-color-vamtam_accent_2);
+    border-style: solid;
+    border-width: 30px 0 0;
+    border-color: #02010100
+}
+
+.elementor-17 .elementor-element.elementor-element-5a36e1c .elementor-flip-box__back {
+    background-color: var( --e-global-color-vamtam_accent_1);
+    border-style: solid;
+    border-width: 30px 0 0;
+    border-color: #253d97
+}
+
+.elementor-17 .elementor-element.elementor-element-5a36e1c .elementor-flip-box {
+    height: 379px
+}
+
+.elementor-17 .elementor-element.elementor-element-5a36e1c .elementor-flip-box__front .elementor-flip-box__layer__overlay {
+    padding: 0;
+    text-align: left;
+    justify-content: flex-end
+}
+
+.elementor-17 .elementor-element.elementor-element-5a36e1c .elementor-flip-box__back .elementor-flip-box__layer__overlay {
+    padding: 0;
+    text-align: left;
+    justify-content: flex-end
+}
+
+.elementor-17 .elementor-element.elementor-element-5a36e1c .elementor-flip-box__button {
+    margin-left: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-3309a68>.elementor-container {
+    min-height: 330px
+}
+
+.elementor-17 .elementor-element.elementor-element-5c9c653>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 0 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 130px 30px 95px
+}
+
+.elementor-17 .elementor-element.elementor-element-5c9c653>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-dae75c9>.elementor-widget-container {
+    margin: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-608bf14>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 0 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 130px 30px 65px
+}
+
+.elementor-17 .elementor-element.elementor-element-608bf14>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-8e78ffc {
+    --spacer-size: 50px
+}
+
+.elementor-17 .elementor-element.elementor-element-f09537a>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 130px 30px 40px
+}
+
+.elementor-17 .elementor-element.elementor-element-f09537a>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-c1e1c51>.elementor-container {
+    min-height: 65vh
+}
+
+.elementor-17 .elementor-element.elementor-element-c1e1c51 {
+    margin-top: 0;
+    margin-bottom: 0
+}
+
+.elementor-bc-flex-widget .elementor-17 .elementor-element.elementor-element-f86ec14.elementor-column .elementor-widget-wrap {
+    align-items: space-between
+}
+
+.elementor-17 .elementor-element.elementor-element-f86ec14.elementor-column.elementor-element[data-element_type=column]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: space-between;
+    align-items: space-between
+}
+
+.elementor-17 .elementor-element.elementor-element-f86ec14:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-17 .elementor-element.elementor-element-f86ec14>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: var(--e-bg-lazyload-loaded);
+    --e-bg-lazyload: url("https://www.pennarindia.com/img/business/products.jpg");
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.elementor-17 .elementor-element.elementor-element-f86ec14>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-f86ec14>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-eb5b784 .elementor-button-icon {
+    font-size: 13px
+}
+
+.elementor-17 .elementor-element.elementor-element-eb5b784 .elementor-button .elementor-align-icon-right {
+    margin-left: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-eb5b784 .elementor-button .elementor-align-icon-left {
+    margin-right: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-eb5b784 .elementor-button {
+    background-color: var( --e-global-color-vamtam_accent_4);
+    --vamtam-bg-color: var( --e-global-color-vamtam_accent_4);
+    --vamtam-bg-color-hover: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-eb5b784 .elementor-button:hover,
+.elementor-17 .elementor-element.elementor-element-eb5b784 .elementor-button:focus {
+    background-color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-eb5b784>.elementor-widget-container {
+    padding: 0% 0% 0% 66.7%
+}
+
+.elementor-17 .elementor-element.elementor-element-f3794b0 {
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-e6f6281:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-17 .elementor-element.elementor-element-e6f6281>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-17 .elementor-element.elementor-element-e6f6281>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 0 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 30px
+}
+
+.elementor-17 .elementor-element.elementor-element-e6f6281>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-25121e7 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+    padding-bottom: calc(0px/2)
+}
+
+.elementor-17 .elementor-element.elementor-element-25121e7 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+    margin-top: calc(0px/2)
+}
+
+.elementor-17 .elementor-element.elementor-element-25121e7 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+    margin-right: calc(0px/2);
+    margin-left: calc(0px/2)
+}
+
+.elementor-17 .elementor-element.elementor-element-25121e7 .elementor-icon-list-items.elementor-inline-items {
+    margin-right: calc(-0px/2);
+    margin-left: calc(-0px/2)
+}
+
+body.rtl .elementor-17 .elementor-element.elementor-element-25121e7 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    left: calc(-0px/2)
+}
+
+body:not(.rtl) .elementor-17 .elementor-element.elementor-element-25121e7 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    right: calc(-0px/2)
+}
+
+.elementor-17 .elementor-element.elementor-element-25121e7 .elementor-icon-list-icon i {
+    color: var( --e-global-color-vamtam_accent_1);
+    transition: color .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-25121e7 .elementor-icon-list-icon svg {
+    fill: var( --e-global-color-vamtam_accent_1);
+    transition: fill .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-25121e7 {
+    --e-icon-list-icon-size: 13px;
+    --e-icon-list-icon-align: right;
+    --e-icon-list-icon-margin: 0 0 0 calc(var(--e-icon-list-icon-size, 1em) * 0.25);
+    --icon-vertical-align: flex-start;
+    --icon-vertical-offset: 4px
+}
+
+.elementor-17 .elementor-element.elementor-element-25121e7 .elementor-icon-list-icon {
+    padding-right: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-25121e7 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-17 .elementor-element.elementor-element-25121e7 .elementor-icon-list-item>a {
+    font-family: var( --e-global-typography-vamtam_primary_font-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+    font-weight: var( --e-global-typography-vamtam_primary_font-font-weight);
+    text-transform: var( --e-global-typography-vamtam_primary_font-text-transform);
+    font-style: var( --e-global-typography-vamtam_primary_font-font-style);
+    line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+    word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+}
+
+.elementor-17 .elementor-element.elementor-element-25121e7 .elementor-icon-list-text {
+    transition: color .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-25121e7>.elementor-widget-container {
+    margin: 0 0 0 -13px;
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-599c7df:not(.elementor-motion-effects-element-type-background),
+.elementor-17 .elementor-element.elementor-element-599c7df>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-17 .elementor-element.elementor-element-599c7df {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-599c7df>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-8e179ae>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 0 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 40px 30px 130px
+}
+
+.elementor-17 .elementor-element.elementor-element-8e179ae>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-5beb111>.elementor-container {
+    min-height: 140px
+}
+
+.elementor-17 .elementor-element.elementor-element-5beb111>.elementor-background-overlay {
+    background-image: var(--e-bg-lazyload-loaded);
+    --e-bg-lazyload: url("https://fabrik.vamtam.com/wp-content/uploads/2023/08/pexels-mike-van-schoonderwalt-5503875.jpg");
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: 110px auto;
+    opacity: 0;
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-5beb111:hover>.elementor-background-overlay {
+    background-image: url(https://fabrik.vamtam.com/wp-content/uploads/2023/08/pexels-mike-van-schoonderwalt-5503875.jpg);
+    opacity: 1
+}
+
+.elementor-17 .elementor-element.elementor-element-5beb111 {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-86a0caa>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 15px
+}
+
+.elementor-17 .elementor-element.elementor-element-807d94b .elementor-button-icon {
+    font-size: 13px
+}
+
+.elementor-17 .elementor-element.elementor-element-807d94b .elementor-button .elementor-align-icon-right {
+    margin-left: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-807d94b .elementor-button .elementor-align-icon-left {
+    margin-right: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-807d94b .elementor-button {
+    font-family: var( --e-global-typography-vamtam_h6-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_h6-font-size);
+    font-weight: var( --e-global-typography-vamtam_h6-font-weight);
+    text-transform: var( --e-global-typography-vamtam_h6-text-transform);
+    font-style: var( --e-global-typography-vamtam_h6-font-style);
+    line-height: var( --e-global-typography-vamtam_h6-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing);
+    fill: var( --e-global-color-vamtam_accent_6);
+    color: var( --e-global-color-vamtam_accent_6);
+    background-color: #02010100;
+    --vamtam-bg-color: #02010100;
+    --vamtam-bg-color-hover: #FC522000;
+    border-style: none;
+    border-radius: 0 0 0 0;
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-807d94b .elementor-button:hover,
+.elementor-17 .elementor-element.elementor-element-807d94b .elementor-button:focus {
+    color: var( --e-global-color-vamtam_accent_1);
+    background-color: #fc522000
+}
+
+.elementor-17 .elementor-element.elementor-element-807d94b .elementor-button:hover svg,
+.elementor-17 .elementor-element.elementor-element-807d94b .elementor-button:focus svg {
+    fill: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-807d94b>.elementor-widget-container {
+    margin: 0 130px 0 0
+}
+
+.elementor-17 .elementor-element.elementor-element-b013f16 .elementor-button-icon {
+    font-size: 13px
+}
+
+.elementor-17 .elementor-element.elementor-element-b013f16 .elementor-button .elementor-align-icon-right {
+    margin-left: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-b013f16 .elementor-button .elementor-align-icon-left {
+    margin-right: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-b013f16 .elementor-button {
+    font-family: var( --e-global-typography-vamtam_h6-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_h6-font-size);
+    font-weight: var( --e-global-typography-vamtam_h6-font-weight);
+    text-transform: var( --e-global-typography-vamtam_h6-text-transform);
+    font-style: var( --e-global-typography-vamtam_h6-font-style);
+    line-height: var( --e-global-typography-vamtam_h6-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing);
+    fill: var( --e-global-color-vamtam_accent_6);
+    color: var( --e-global-color-vamtam_accent_6);
+    background-color: #02010100;
+    --vamtam-bg-color: #02010100;
+    --vamtam-bg-color-hover: #FC522000;
+    border-style: none;
+    border-radius: 0 0 0 0;
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-b013f16 .elementor-button:hover,
+.elementor-17 .elementor-element.elementor-element-b013f16 .elementor-button:focus {
+    color: var( --e-global-color-vamtam_accent_1);
+    background-color: #fc522000
+}
+
+.elementor-17 .elementor-element.elementor-element-b013f16 .elementor-button:hover svg,
+.elementor-17 .elementor-element.elementor-element-b013f16 .elementor-button:focus svg {
+    fill: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-b013f16>.elementor-widget-container {
+    margin: 0 130px 0 0
+}
+
+.elementor-17 .elementor-element.elementor-element-867dbd6 .elementor-button-icon {
+    font-size: 13px
+}
+
+.elementor-17 .elementor-element.elementor-element-867dbd6 .elementor-button .elementor-align-icon-right {
+    margin-left: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-867dbd6 .elementor-button .elementor-align-icon-left {
+    margin-right: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-867dbd6 .elementor-button {
+    font-family: var( --e-global-typography-vamtam_h6-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_h6-font-size);
+    font-weight: var( --e-global-typography-vamtam_h6-font-weight);
+    text-transform: var( --e-global-typography-vamtam_h6-text-transform);
+    font-style: var( --e-global-typography-vamtam_h6-font-style);
+    line-height: var( --e-global-typography-vamtam_h6-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing);
+    fill: var( --e-global-color-vamtam_accent_6);
+    color: var( --e-global-color-vamtam_accent_6);
+    background-color: #02010100;
+    --vamtam-bg-color: #02010100;
+    --vamtam-bg-color-hover: #FC522000;
+    border-style: none;
+    border-radius: 0 0 0 0;
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-867dbd6 .elementor-button:hover,
+.elementor-17 .elementor-element.elementor-element-867dbd6 .elementor-button:focus {
+    color: var( --e-global-color-vamtam_accent_1);
+    background-color: #fc522000
+}
+
+.elementor-17 .elementor-element.elementor-element-867dbd6 .elementor-button:hover svg,
+.elementor-17 .elementor-element.elementor-element-867dbd6 .elementor-button:focus svg {
+    fill: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-867dbd6>.elementor-widget-container {
+    margin: 0 130px 0 0
+}
+
+.elementor-17 .elementor-element.elementor-element-c56689e .elementor-button-icon {
+    font-size: 13px
+}
+
+.elementor-17 .elementor-element.elementor-element-c56689e .elementor-button .elementor-align-icon-right {
+    margin-left: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-c56689e .elementor-button .elementor-align-icon-left {
+    margin-right: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-c56689e .elementor-button {
+    font-family: var( --e-global-typography-vamtam_h6-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_h6-font-size);
+    font-weight: var( --e-global-typography-vamtam_h6-font-weight);
+    text-transform: var( --e-global-typography-vamtam_h6-text-transform);
+    font-style: var( --e-global-typography-vamtam_h6-font-style);
+    line-height: var( --e-global-typography-vamtam_h6-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing);
+    fill: var( --e-global-color-vamtam_accent_6);
+    color: var( --e-global-color-vamtam_accent_6);
+    background-color: #02010100;
+    --vamtam-bg-color: #02010100;
+    --vamtam-bg-color-hover: #FC522000;
+    border-style: none;
+    border-radius: 0 0 0 0;
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-c56689e .elementor-button:hover,
+.elementor-17 .elementor-element.elementor-element-c56689e .elementor-button:focus {
+    color: var( --e-global-color-vamtam_accent_1);
+    background-color: #fc522000
+}
+
+.elementor-17 .elementor-element.elementor-element-c56689e .elementor-button:hover svg,
+.elementor-17 .elementor-element.elementor-element-c56689e .elementor-button:focus svg {
+    fill: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-c56689e>.elementor-widget-container {
+    margin: 0 130px 0 0
+}
+
+.elementor-17 .elementor-element.elementor-element-2d666a5>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-2d666a5>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 0 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 40px 30px 130px
+}
+
+.elementor-17 .elementor-element.elementor-element-2d666a5>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-825e883>.elementor-container {
+    min-height: 140px
+}
+
+.elementor-17 .elementor-element.elementor-element-825e883>.elementor-background-overlay {
+    background-image: var(--e-bg-lazyload-loaded);
+    --e-bg-lazyload: url("https://fabrik.vamtam.com/wp-content/uploads/2023/08/pexels-ave-calvar-martinez-3010250.jpg");
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: 110px auto;
+    opacity: 0;
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-825e883:hover>.elementor-background-overlay {
+    background-image: url(https://fabrik.vamtam.com/wp-content/uploads/2023/08/pexels-ave-calvar-martinez-3010250.jpg);
+    opacity: 1
+}
+
+.elementor-17 .elementor-element.elementor-element-825e883 {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-6ad1838>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 15px
+}
+
+.elementor-17 .elementor-element.elementor-element-6ad1838>.elementor-element-populated {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-6ad1838>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-b1ef08b .elementor-button-icon {
+    font-size: 13px
+}
+
+.elementor-17 .elementor-element.elementor-element-b1ef08b .elementor-button .elementor-align-icon-right {
+    margin-left: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-b1ef08b .elementor-button .elementor-align-icon-left {
+    margin-right: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-b1ef08b .elementor-button {
+    font-family: var( --e-global-typography-vamtam_h6-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_h6-font-size);
+    font-weight: var( --e-global-typography-vamtam_h6-font-weight);
+    text-transform: var( --e-global-typography-vamtam_h6-text-transform);
+    font-style: var( --e-global-typography-vamtam_h6-font-style);
+    line-height: var( --e-global-typography-vamtam_h6-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing);
+    fill: var( --e-global-color-vamtam_accent_6);
+    color: var( --e-global-color-vamtam_accent_6);
+    background-color: #02010100;
+    --vamtam-bg-color: #02010100;
+    --vamtam-bg-color-hover: #FC522000;
+    border-style: none;
+    border-radius: 0 0 0 0;
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-b1ef08b .elementor-button:hover,
+.elementor-17 .elementor-element.elementor-element-b1ef08b .elementor-button:focus {
+    color: var( --e-global-color-vamtam_accent_1);
+    background-color: #fc522000
+}
+
+.elementor-17 .elementor-element.elementor-element-b1ef08b .elementor-button:hover svg,
+.elementor-17 .elementor-element.elementor-element-b1ef08b .elementor-button:focus svg {
+    fill: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-b1ef08b>.elementor-widget-container {
+    margin: 0 130px 0 0
+}
+
+.elementor-17 .elementor-element.elementor-element-d2c3a41 .elementor-button-icon {
+    font-size: 13px
+}
+
+.elementor-17 .elementor-element.elementor-element-d2c3a41 .elementor-button .elementor-align-icon-right {
+    margin-left: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-d2c3a41 .elementor-button .elementor-align-icon-left {
+    margin-right: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-d2c3a41 .elementor-button {
+    font-family: var( --e-global-typography-vamtam_h6-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_h6-font-size);
+    font-weight: var( --e-global-typography-vamtam_h6-font-weight);
+    text-transform: var( --e-global-typography-vamtam_h6-text-transform);
+    font-style: var( --e-global-typography-vamtam_h6-font-style);
+    line-height: var( --e-global-typography-vamtam_h6-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing);
+    fill: var( --e-global-color-vamtam_accent_6);
+    color: var( --e-global-color-vamtam_accent_6);
+    background-color: #02010100;
+    --vamtam-bg-color: #02010100;
+    --vamtam-bg-color-hover: #FC522000;
+    border-style: none;
+    border-radius: 0 0 0 0;
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-d2c3a41 .elementor-button:hover,
+.elementor-17 .elementor-element.elementor-element-d2c3a41 .elementor-button:focus {
+    color: var( --e-global-color-vamtam_accent_1);
+    background-color: #fc522000
+}
+
+.elementor-17 .elementor-element.elementor-element-d2c3a41 .elementor-button:hover svg,
+.elementor-17 .elementor-element.elementor-element-d2c3a41 .elementor-button:focus svg {
+    fill: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-d2c3a41>.elementor-widget-container {
+    margin: 0 130px 0 0
+}
+
+.elementor-17 .elementor-element.elementor-element-389d1cb .elementor-button-icon {
+    font-size: 13px
+}
+
+.elementor-17 .elementor-element.elementor-element-389d1cb .elementor-button .elementor-align-icon-right {
+    margin-left: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-389d1cb .elementor-button .elementor-align-icon-left {
+    margin-right: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-389d1cb .elementor-button {
+    font-family: var( --e-global-typography-vamtam_h6-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_h6-font-size);
+    font-weight: var( --e-global-typography-vamtam_h6-font-weight);
+    text-transform: var( --e-global-typography-vamtam_h6-text-transform);
+    font-style: var( --e-global-typography-vamtam_h6-font-style);
+    line-height: var( --e-global-typography-vamtam_h6-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing);
+    fill: var( --e-global-color-vamtam_accent_6);
+    color: var( --e-global-color-vamtam_accent_6);
+    background-color: #02010100;
+    --vamtam-bg-color: #02010100;
+    --vamtam-bg-color-hover: #FC522000;
+    border-style: none;
+    border-radius: 0 0 0 0;
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-389d1cb .elementor-button:hover,
+.elementor-17 .elementor-element.elementor-element-389d1cb .elementor-button:focus {
+    color: var( --e-global-color-vamtam_accent_1);
+    background-color: #fc522000
+}
+
+.elementor-17 .elementor-element.elementor-element-389d1cb .elementor-button:hover svg,
+.elementor-17 .elementor-element.elementor-element-389d1cb .elementor-button:focus svg {
+    fill: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-389d1cb>.elementor-widget-container {
+    margin: 0 130px 0 0
+}
+
+.elementor-17 .elementor-element.elementor-element-ce674c4 .elementor-button-icon {
+    font-size: 13px
+}
+
+.elementor-17 .elementor-element.elementor-element-ce674c4 .elementor-button .elementor-align-icon-right {
+    margin-left: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-ce674c4 .elementor-button .elementor-align-icon-left {
+    margin-right: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-ce674c4 .elementor-button {
+    font-family: var( --e-global-typography-vamtam_h6-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_h6-font-size);
+    font-weight: var( --e-global-typography-vamtam_h6-font-weight);
+    text-transform: var( --e-global-typography-vamtam_h6-text-transform);
+    font-style: var( --e-global-typography-vamtam_h6-font-style);
+    line-height: var( --e-global-typography-vamtam_h6-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing);
+    fill: var( --e-global-color-vamtam_accent_6);
+    color: var( --e-global-color-vamtam_accent_6);
+    background-color: #02010100;
+    --vamtam-bg-color: #02010100;
+    --vamtam-bg-color-hover: #FC522000;
+    border-style: none;
+    border-radius: 0 0 0 0;
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-ce674c4 .elementor-button:hover,
+.elementor-17 .elementor-element.elementor-element-ce674c4 .elementor-button:focus {
+    color: var( --e-global-color-vamtam_accent_1);
+    background-color: #fc522000
+}
+
+.elementor-17 .elementor-element.elementor-element-ce674c4 .elementor-button:hover svg,
+.elementor-17 .elementor-element.elementor-element-ce674c4 .elementor-button:focus svg {
+    fill: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-ce674c4>.elementor-widget-container {
+    margin: 0 130px 0 0
+}
+
+.elementor-17 .elementor-element.elementor-element-74c290d>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-74c290d>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 40px 30px 130px
+}
+
+.elementor-17 .elementor-element.elementor-element-74c290d>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-515b89b>.elementor-container {
+    min-height: 140px
+}
+
+.elementor-17 .elementor-element.elementor-element-515b89b>.elementor-background-overlay {
+    background-image: var(--e-bg-lazyload-loaded);
+    --e-bg-lazyload: url("https://fabrik.vamtam.com/wp-content/uploads/2023/08/pexels-los-muertos-crew-8853507-1.jpg");
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: 110px auto;
+    opacity: 0;
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-515b89b:hover>.elementor-background-overlay {
+    background-image: url(https://fabrik.vamtam.com/wp-content/uploads/2023/08/pexels-los-muertos-crew-8853507-1.jpg);
+    opacity: 1
+}
+
+.elementor-17 .elementor-element.elementor-element-515b89b {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-c50879c>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 15px
+}
+
+.elementor-17 .elementor-element.elementor-element-09ee913 .elementor-button-icon {
+    font-size: 13px
+}
+
+.elementor-17 .elementor-element.elementor-element-09ee913 .elementor-button .elementor-align-icon-right {
+    margin-left: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-09ee913 .elementor-button .elementor-align-icon-left {
+    margin-right: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-09ee913 .elementor-button {
+    font-family: var( --e-global-typography-vamtam_h6-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_h6-font-size);
+    font-weight: var( --e-global-typography-vamtam_h6-font-weight);
+    text-transform: var( --e-global-typography-vamtam_h6-text-transform);
+    font-style: var( --e-global-typography-vamtam_h6-font-style);
+    line-height: var( --e-global-typography-vamtam_h6-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing);
+    fill: var( --e-global-color-vamtam_accent_6);
+    color: var( --e-global-color-vamtam_accent_6);
+    background-color: #02010100;
+    --vamtam-bg-color: #02010100;
+    --vamtam-bg-color-hover: #FC522000;
+    border-style: none;
+    border-radius: 0 0 0 0;
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-09ee913 .elementor-button:hover,
+.elementor-17 .elementor-element.elementor-element-09ee913 .elementor-button:focus {
+    color: var( --e-global-color-vamtam_accent_1);
+    background-color: #fc522000
+}
+
+.elementor-17 .elementor-element.elementor-element-09ee913 .elementor-button:hover svg,
+.elementor-17 .elementor-element.elementor-element-09ee913 .elementor-button:focus svg {
+    fill: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-09ee913>.elementor-widget-container {
+    margin: 0 130px 0 0
+}
+
+.elementor-17 .elementor-element.elementor-element-624ea75 .elementor-button-icon {
+    font-size: 13px
+}
+
+.elementor-17 .elementor-element.elementor-element-624ea75 .elementor-button .elementor-align-icon-right {
+    margin-left: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-624ea75 .elementor-button .elementor-align-icon-left {
+    margin-right: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-624ea75 .elementor-button {
+    font-family: var( --e-global-typography-vamtam_h6-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_h6-font-size);
+    font-weight: var( --e-global-typography-vamtam_h6-font-weight);
+    text-transform: var( --e-global-typography-vamtam_h6-text-transform);
+    font-style: var( --e-global-typography-vamtam_h6-font-style);
+    line-height: var( --e-global-typography-vamtam_h6-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing);
+    fill: var( --e-global-color-vamtam_accent_6);
+    color: var( --e-global-color-vamtam_accent_6);
+    background-color: #02010100;
+    --vamtam-bg-color: #02010100;
+    --vamtam-bg-color-hover: #FC522000;
+    border-style: none;
+    border-radius: 0 0 0 0;
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-624ea75 .elementor-button:hover,
+.elementor-17 .elementor-element.elementor-element-624ea75 .elementor-button:focus {
+    color: var( --e-global-color-vamtam_accent_1);
+    background-color: #fc522000
+}
+
+.elementor-17 .elementor-element.elementor-element-624ea75 .elementor-button:hover svg,
+.elementor-17 .elementor-element.elementor-element-624ea75 .elementor-button:focus svg {
+    fill: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-624ea75>.elementor-widget-container {
+    margin: 0 130px 0 0
+}
+
+.elementor-17 .elementor-element.elementor-element-590cfe6 .elementor-button-icon {
+    font-size: 13px
+}
+
+.elementor-17 .elementor-element.elementor-element-590cfe6 .elementor-button .elementor-align-icon-right {
+    margin-left: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-590cfe6 .elementor-button .elementor-align-icon-left {
+    margin-right: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-590cfe6 .elementor-button {
+    font-family: var( --e-global-typography-vamtam_h6-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_h6-font-size);
+    font-weight: var( --e-global-typography-vamtam_h6-font-weight);
+    text-transform: var( --e-global-typography-vamtam_h6-text-transform);
+    font-style: var( --e-global-typography-vamtam_h6-font-style);
+    line-height: var( --e-global-typography-vamtam_h6-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing);
+    fill: var( --e-global-color-vamtam_accent_6);
+    color: var( --e-global-color-vamtam_accent_6);
+    background-color: #02010100;
+    --vamtam-bg-color: #02010100;
+    --vamtam-bg-color-hover: #FC522000;
+    border-style: none;
+    border-radius: 0 0 0 0;
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-590cfe6 .elementor-button:hover,
+.elementor-17 .elementor-element.elementor-element-590cfe6 .elementor-button:focus {
+    color: var( --e-global-color-vamtam_accent_1);
+    background-color: #fc522000
+}
+
+.elementor-17 .elementor-element.elementor-element-590cfe6 .elementor-button:hover svg,
+.elementor-17 .elementor-element.elementor-element-590cfe6 .elementor-button:focus svg {
+    fill: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-590cfe6>.elementor-widget-container {
+    margin: 0 130px 0 0
+}
+
+.elementor-17 .elementor-element.elementor-element-be3003a {
+    overflow: hidden;
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 130px 30px
+}
+
+.elementor-17 .elementor-element.elementor-element-be3003a:not(.elementor-motion-effects-element-type-background),
+.elementor-17 .elementor-element.elementor-element-be3003a>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var( --e-global-color-vamtam_accent_4)
+}
+
+.elementor-17 .elementor-element.elementor-element-be3003a>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-1add89d>.elementor-element-populated {
+    padding: 0 15px 0 0
+}
+
+.elementor-17 .elementor-element.elementor-element-8fac36e .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+    padding-bottom: calc(0px/2)
+}
+
+.elementor-17 .elementor-element.elementor-element-8fac36e .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+    margin-top: calc(0px/2)
+}
+
+.elementor-17 .elementor-element.elementor-element-8fac36e .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+    margin-right: calc(0px/2);
+    margin-left: calc(0px/2)
+}
+
+.elementor-17 .elementor-element.elementor-element-8fac36e .elementor-icon-list-items.elementor-inline-items {
+    margin-right: calc(-0px/2);
+    margin-left: calc(-0px/2)
+}
+
+body.rtl .elementor-17 .elementor-element.elementor-element-8fac36e .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    left: calc(-0px/2)
+}
+
+body:not(.rtl) .elementor-17 .elementor-element.elementor-element-8fac36e .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    right: calc(-0px/2)
+}
+
+.elementor-17 .elementor-element.elementor-element-8fac36e .elementor-icon-list-icon i {
+    color: var( --e-global-color-vamtam_accent_1);
+    transition: color .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-8fac36e .elementor-icon-list-icon svg {
+    fill: var( --e-global-color-vamtam_accent_1);
+    transition: fill .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-8fac36e {
+    --e-icon-list-icon-size: 13px;
+    --e-icon-list-icon-align: right;
+    --e-icon-list-icon-margin: 0 0 0 calc(var(--e-icon-list-icon-size, 1em) * 0.25);
+    --icon-vertical-align: flex-start;
+    --icon-vertical-offset: 4px
+}
+
+.elementor-17 .elementor-element.elementor-element-8fac36e .elementor-icon-list-icon {
+    padding-right: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-8fac36e .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-17 .elementor-element.elementor-element-8fac36e .elementor-icon-list-item>a {
+    font-family: var( --e-global-typography-vamtam_primary_font-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+    font-weight: var( --e-global-typography-vamtam_primary_font-font-weight);
+    text-transform: var( --e-global-typography-vamtam_primary_font-text-transform);
+    font-style: var( --e-global-typography-vamtam_primary_font-font-style);
+    line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+    word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+}
+
+.elementor-17 .elementor-element.elementor-element-8fac36e .elementor-icon-list-text {
+    color: var( --e-global-color-vamtam_accent_5);
+    transition: color .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-8fac36e>.elementor-widget-container {
+    margin: 0 0 0 -13px;
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-fdd5cf8 .elementor-heading-title {
+    color: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-17 .elementor-element.elementor-element-fdd5cf8>.elementor-widget-container {
+    margin: 0 0 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-5177ac0 .elementor-button-icon {
+    font-size: 13px
+}
+
+.elementor-17 .elementor-element.elementor-element-5177ac0 .elementor-button .elementor-align-icon-right {
+    margin-left: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-5177ac0 .elementor-button .elementor-align-icon-left {
+    margin-right: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-5177ac0 .elementor-button {
+    fill: var( --e-global-color-vamtam_accent_5);
+    color: var( --e-global-color-vamtam_accent_5);
+    background-color: #02010100;
+    --vamtam-bg-color: #02010100;
+    --vamtam-bg-color-hover: #02010100;
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-5177ac0 .elementor-button:hover,
+.elementor-17 .elementor-element.elementor-element-5177ac0 .elementor-button:focus {
+    color: var( --e-global-color-vamtam_accent_5);
+    background-color: #02010100
+}
+
+.elementor-17 .elementor-element.elementor-element-5177ac0 .elementor-button:hover svg,
+.elementor-17 .elementor-element.elementor-element-5177ac0 .elementor-button:focus svg {
+    fill: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-17 .elementor-element.elementor-element-5177ac0>.elementor-widget-container {
+    margin: 0% 0% 9%
+}
+
+.elementor-17 .elementor-element.elementor-element-7437d39 .elementor-tab-title {
+    border-width: 1px;
+    border-color: #e6e9eb30;
+    padding: 30px 10px
+}
+
+.elementor-17 .elementor-element.elementor-element-7437d39 .elementor-tab-content {
+    border-width: 1px;
+    border-bottom-color: #e6e9eb30;
+    color: var( --e-global-color-vamtam_accent_5);
+    padding: 0 10px 30px
+}
+
+.elementor-17 .elementor-element.elementor-element-7437d39 .elementor-toggle-title,
+.elementor-17 .elementor-element.elementor-element-7437d39 .elementor-toggle-icon {
+    color: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-17 .elementor-element.elementor-element-7437d39 .elementor-toggle-icon svg {
+    fill: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-17 .elementor-element.elementor-element-7437d39 .elementor-toggle-title {
+    font-family: var( --e-global-typography-vamtam_h6-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_h6-font-size);
+    font-weight: var( --e-global-typography-vamtam_h6-font-weight);
+    text-transform: var( --e-global-typography-vamtam_h6-text-transform);
+    font-style: var( --e-global-typography-vamtam_h6-font-style);
+    line-height: var( --e-global-typography-vamtam_h6-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+}
+
+.elementor-17 .elementor-element.elementor-element-7437d39 .elementor-tab-title .elementor-toggle-icon i:before {
+    color: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-17 .elementor-element.elementor-element-7437d39 .elementor-tab-title .elementor-toggle-icon svg {
+    fill: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-17 .elementor-element.elementor-element-7437d39 .elementor-tab-title.elementor-active .elementor-toggle-icon i:before {
+    color: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-17 .elementor-element.elementor-element-7437d39 .elementor-tab-title.elementor-active .elementor-toggle-icon svg {
+    fill: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-17 .elementor-element.elementor-element-7437d39 .elementor-toggle-icon.elementor-toggle-icon-left {
+    margin-right: 30px
+}
+
+.elementor-17 .elementor-element.elementor-element-7437d39 .elementor-toggle-icon.elementor-toggle-icon-right {
+    margin-left: 30px
+}
+
+.elementor-17 .elementor-element.elementor-element-7437d39>.elementor-widget-container {
+    margin: 0% 30% 0% 0%;
+    padding: 0%;
+    border-style: solid;
+    border-width: 1px 0 0;
+    border-color: #e6e9eb30
+}
+
+.elementor-bc-flex-widget .elementor-17 .elementor-element.elementor-element-d805aa1.elementor-column .elementor-widget-wrap {
+    align-items: center
+}
+
+.elementor-17 .elementor-element.elementor-element-d805aa1.elementor-column.elementor-element[data-element_type=column]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center
+}
+
+.elementor-17 .elementor-element.elementor-element-d805aa1>.elementor-element-populated {
+    padding: 0 0 0 15px
+}
+
+.elementor-17 .elementor-element.elementor-element-fd1b6af img {
+    width: 330px;
+    max-width: 48%
+}
+
+.elementor-17 .elementor-element.elementor-element-fd1b6af>.elementor-widget-container {
+    --e-transform-origin-x: center;
+    --e-transform-origin-y: center;
+    --e-transform-rotateZ: 30deg
+}
+
+.elementor-17 .elementor-element.elementor-element-38e6977 {
+    margin-top: 0;
+    margin-bottom: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-609a67f>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-609a67f>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 0 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 130px 30px 60px
+}
+
+.elementor-17 .elementor-element.elementor-element-609a67f>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-a5d4ae4 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+    padding-bottom: calc(0px/2)
+}
+
+.elementor-17 .elementor-element.elementor-element-a5d4ae4 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+    margin-top: calc(0px/2)
+}
+
+.elementor-17 .elementor-element.elementor-element-a5d4ae4 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+    margin-right: calc(0px/2);
+    margin-left: calc(0px/2)
+}
+
+.elementor-17 .elementor-element.elementor-element-a5d4ae4 .elementor-icon-list-items.elementor-inline-items {
+    margin-right: calc(-0px/2);
+    margin-left: calc(-0px/2)
+}
+
+body.rtl .elementor-17 .elementor-element.elementor-element-a5d4ae4 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    left: calc(-0px/2)
+}
+
+body:not(.rtl) .elementor-17 .elementor-element.elementor-element-a5d4ae4 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    right: calc(-0px/2)
+}
+
+.elementor-17 .elementor-element.elementor-element-a5d4ae4 .elementor-icon-list-icon i {
+    color: var( --e-global-color-vamtam_accent_1);
+    transition: color .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-a5d4ae4 .elementor-icon-list-icon svg {
+    fill: var( --e-global-color-vamtam_accent_1);
+    transition: fill .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-a5d4ae4 {
+    --e-icon-list-icon-size: 13px;
+    --e-icon-list-icon-align: right;
+    --e-icon-list-icon-margin: 0 0 0 calc(var(--e-icon-list-icon-size, 1em) * 0.25);
+    --icon-vertical-align: flex-start;
+    --icon-vertical-offset: 4px
+}
+
+.elementor-17 .elementor-element.elementor-element-a5d4ae4 .elementor-icon-list-icon {
+    padding-right: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-a5d4ae4 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-17 .elementor-element.elementor-element-a5d4ae4 .elementor-icon-list-item>a {
+    font-family: var( --e-global-typography-vamtam_primary_font-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+    font-weight: var( --e-global-typography-vamtam_primary_font-font-weight);
+    text-transform: var( --e-global-typography-vamtam_primary_font-text-transform);
+    font-style: var( --e-global-typography-vamtam_primary_font-font-style);
+    line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+    word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+}
+
+.elementor-17 .elementor-element.elementor-element-a5d4ae4 .elementor-icon-list-text {
+    transition: color .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-a5d4ae4>.elementor-widget-container {
+    margin: 0 0 20px -13px;
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-6d05d22 {
+    z-index: 5
+}
+
+.elementor-bc-flex-widget .elementor-17 .elementor-element.elementor-element-34ce6ec.elementor-column .elementor-widget-wrap {
+    align-items: flex-start
+}
+
+.elementor-17 .elementor-element.elementor-element-34ce6ec.elementor-column.elementor-element[data-element_type=column]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: flex-start;
+    align-items: flex-start
+}
+
+.elementor-17 .elementor-element.elementor-element-34ce6ec>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 0 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 130px 30px 60px
+}
+
+.elementor-17 .elementor-element.elementor-element-34ce6ec>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-9670725 {
+    --spacer-size: 50px
+}
+
+.elementor-17 .elementor-element.elementor-element-017b80b>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 130px 30px 60px
+}
+
+.elementor-17 .elementor-element.elementor-element-017b80b>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-e2b1acf {
+    --spacer-size: 50px
+}
+
+.elementor-17 .elementor-element.elementor-element-d104599.elementor-column>.elementor-widget-wrap {
+    justify-content: center
+}
+
+.elementor-17 .elementor-element.elementor-element-d104599>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-d104599>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 0 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 0 30px 120px
+}
+
+.elementor-17 .elementor-element.elementor-element-d104599>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-de7e00c>.elementor-container {
+    max-width: 250px
+}
+
+.elementor-17 .elementor-element.elementor-element-de7e00c {
+    overflow: hidden;
+    margin-top: 0;
+    margin-bottom: 20px;
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-9127513>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-5f918e2 img {
+    width: 100%
+}
+
+.elementor-17 .elementor-element.elementor-element-e8ab6a4 .elementor-button-icon {
+    font-size: 13px
+}
+
+.elementor-17 .elementor-element.elementor-element-e8ab6a4 .elementor-button .elementor-align-icon-right {
+    margin-left: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-e8ab6a4 .elementor-button .elementor-align-icon-left {
+    margin-right: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-e8ab6a4 .elementor-button {
+    fill: var( --e-global-color-vamtam_accent_1);
+    color: var( --e-global-color-vamtam_accent_1);
+    background-color: var( --e-global-color-vamtam_accent_5);
+    --vamtam-bg-color: var( --e-global-color-vamtam_accent_5);
+    --vamtam-bg-color-hover: var( --e-global-color-vamtam_accent_1);
+    padding: 23px 23px 23px 55px
+}
+
+.elementor-17 .elementor-element.elementor-element-e8ab6a4 .elementor-button:hover,
+.elementor-17 .elementor-element.elementor-element-e8ab6a4 .elementor-button:focus {
+    color: var( --e-global-color-vamtam_accent_5);
+    background-color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-e8ab6a4 .elementor-button:hover svg,
+.elementor-17 .elementor-element.elementor-element-e8ab6a4 .elementor-button:focus svg {
+    fill: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-17 .elementor-element.elementor-element-e8ab6a4>.elementor-widget-container {
+    margin: 0
+}
+
+body:not(.rtl) .elementor-17 .elementor-element.elementor-element-e8ab6a4 {
+    left: 0
+}
+
+body.rtl .elementor-17 .elementor-element.elementor-element-e8ab6a4 {
+    right: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-e8ab6a4 {
+    bottom: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-8e438a7 .elementor-cta__content {
+    text-align: left;
+    padding: 0;
+    background-color: #02010100
+}
+
+.elementor-17 .elementor-element.elementor-element-8e438a7 .elementor-cta__title {
+    font-family: var( --e-global-typography-vamtam_h5-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_h5-font-size);
+    font-weight: var( --e-global-typography-vamtam_h5-font-weight);
+    text-transform: var( --e-global-typography-vamtam_h5-text-transform);
+    font-style: var( --e-global-typography-vamtam_h5-font-style);
+    line-height: var( --e-global-typography-vamtam_h5-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_h5-letter-spacing);
+    color: var( --e-global-color-vamtam_accent_6)
+}
+
+.elementor-17 .elementor-element.elementor-element-8e438a7 .elementor-cta__title:not(:last-child) {
+    margin-bottom: 15px
+}
+
+.elementor-17 .elementor-element.elementor-element-8e438a7 .elementor-cta:hover .elementor-cta__title {
+    color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-8e438a7 .elementor-cta .elementor-cta__bg,
+.elementor-17 .elementor-element.elementor-element-8e438a7 .elementor-cta .elementor-cta__bg-overlay {
+    transition-duration: 1500ms
+}
+
+.elementor-17 .elementor-element.elementor-element-8e438a7 {
+    width: var( --container-widget-width, 250px);
+    max-width: 250px;
+    --container-widget-width: 250px;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-bc-flex-widget .elementor-17 .elementor-element.elementor-element-818e1fc.elementor-column .elementor-widget-wrap {
+    align-items: flex-start
+}
+
+.elementor-17 .elementor-element.elementor-element-818e1fc.elementor-column.elementor-element[data-element_type=column]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: flex-start;
+    align-items: flex-start
+}
+
+.elementor-17 .elementor-element.elementor-element-818e1fc.elementor-column>.elementor-widget-wrap {
+    justify-content: center
+}
+
+.elementor-17 .elementor-element.elementor-element-818e1fc>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 0 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    margin: -140px 0 0;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    padding: 0 30px 120px
+}
+
+.elementor-17 .elementor-element.elementor-element-818e1fc>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-132af63>.elementor-container {
+    max-width: 250px
+}
+
+.elementor-17 .elementor-element.elementor-element-132af63 {
+    overflow: hidden;
+    margin-top: 0;
+    margin-bottom: 20px;
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-e0907ee>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-9daa8ad .elementor-button-icon {
+    font-size: 13px
+}
+
+.elementor-17 .elementor-element.elementor-element-9daa8ad .elementor-button .elementor-align-icon-right {
+    margin-left: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-9daa8ad .elementor-button .elementor-align-icon-left {
+    margin-right: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-9daa8ad .elementor-button {
+    fill: var( --e-global-color-vamtam_accent_1);
+    color: var( --e-global-color-vamtam_accent_1);
+    background-color: var( --e-global-color-vamtam_accent_5);
+    --vamtam-bg-color: var( --e-global-color-vamtam_accent_5);
+    --vamtam-bg-color-hover: var( --e-global-color-vamtam_accent_1);
+    padding: 23px 23px 23px 55px
+}
+
+.elementor-17 .elementor-element.elementor-element-9daa8ad .elementor-button:hover,
+.elementor-17 .elementor-element.elementor-element-9daa8ad .elementor-button:focus {
+    color: var( --e-global-color-vamtam_accent_5);
+    background-color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-9daa8ad .elementor-button:hover svg,
+.elementor-17 .elementor-element.elementor-element-9daa8ad .elementor-button:focus svg {
+    fill: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-17 .elementor-element.elementor-element-9daa8ad>.elementor-widget-container {
+    margin: 0
+}
+
+body:not(.rtl) .elementor-17 .elementor-element.elementor-element-9daa8ad {
+    left: 0
+}
+
+body.rtl .elementor-17 .elementor-element.elementor-element-9daa8ad {
+    right: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-9daa8ad {
+    bottom: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-099b1ee img {
+    width: 100%
+}
+
+.elementor-17 .elementor-element.elementor-element-57ee598 .elementor-cta__content {
+    text-align: left;
+    padding: 0;
+    background-color: #02010100
+}
+
+.elementor-17 .elementor-element.elementor-element-57ee598 .elementor-cta__title {
+    font-family: var( --e-global-typography-vamtam_h5-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_h5-font-size);
+    font-weight: var( --e-global-typography-vamtam_h5-font-weight);
+    text-transform: var( --e-global-typography-vamtam_h5-text-transform);
+    font-style: var( --e-global-typography-vamtam_h5-font-style);
+    line-height: var( --e-global-typography-vamtam_h5-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_h5-letter-spacing);
+    color: var( --e-global-color-vamtam_accent_6)
+}
+
+.elementor-17 .elementor-element.elementor-element-57ee598 .elementor-cta__title:not(:last-child) {
+    margin-bottom: 15px
+}
+
+.elementor-17 .elementor-element.elementor-element-57ee598 .elementor-cta:hover .elementor-cta__title {
+    color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-57ee598 .elementor-cta .elementor-cta__bg,
+.elementor-17 .elementor-element.elementor-element-57ee598 .elementor-cta .elementor-cta__bg-overlay {
+    transition-duration: 1500ms
+}
+
+.elementor-17 .elementor-element.elementor-element-57ee598 {
+    width: var( --container-widget-width, 250px);
+    max-width: 250px;
+    --container-widget-width: 250px;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-311d60d.elementor-column>.elementor-widget-wrap {
+    justify-content: center
+}
+
+.elementor-17 .elementor-element.elementor-element-311d60d>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 0 30px 120px
+}
+
+.elementor-17 .elementor-element.elementor-element-311d60d>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-7379e22>.elementor-container {
+    max-width: 250px
+}
+
+.elementor-17 .elementor-element.elementor-element-7379e22 {
+    overflow: hidden;
+    margin-top: 0;
+    margin-bottom: 20px;
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-a85789d>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-2fb865e .elementor-button-icon {
+    font-size: 13px
+}
+
+.elementor-17 .elementor-element.elementor-element-2fb865e .elementor-button .elementor-align-icon-right {
+    margin-left: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-2fb865e .elementor-button .elementor-align-icon-left {
+    margin-right: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-2fb865e .elementor-button {
+    fill: var( --e-global-color-vamtam_accent_1);
+    color: var( --e-global-color-vamtam_accent_1);
+    background-color: var( --e-global-color-vamtam_accent_5);
+    --vamtam-bg-color: var( --e-global-color-vamtam_accent_5);
+    --vamtam-bg-color-hover: var( --e-global-color-vamtam_accent_1);
+    padding: 23px 23px 23px 55px
+}
+
+.elementor-17 .elementor-element.elementor-element-2fb865e .elementor-button:hover,
+.elementor-17 .elementor-element.elementor-element-2fb865e .elementor-button:focus {
+    color: var( --e-global-color-vamtam_accent_5);
+    background-color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-2fb865e .elementor-button:hover svg,
+.elementor-17 .elementor-element.elementor-element-2fb865e .elementor-button:focus svg {
+    fill: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-17 .elementor-element.elementor-element-2fb865e>.elementor-widget-container {
+    margin: 0
+}
+
+body:not(.rtl) .elementor-17 .elementor-element.elementor-element-2fb865e {
+    left: 0
+}
+
+body.rtl .elementor-17 .elementor-element.elementor-element-2fb865e {
+    right: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-2fb865e {
+    bottom: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-c59b5a8 img {
+    width: 100%
+}
+
+.elementor-17 .elementor-element.elementor-element-b35ca4b .elementor-cta__content {
+    text-align: left;
+    padding: 0;
+    background-color: #02010100
+}
+
+.elementor-17 .elementor-element.elementor-element-b35ca4b .elementor-cta__title {
+    font-family: var( --e-global-typography-vamtam_h5-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_h5-font-size);
+    font-weight: var( --e-global-typography-vamtam_h5-font-weight);
+    text-transform: var( --e-global-typography-vamtam_h5-text-transform);
+    font-style: var( --e-global-typography-vamtam_h5-font-style);
+    line-height: var( --e-global-typography-vamtam_h5-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_h5-letter-spacing);
+    color: var( --e-global-color-vamtam_accent_6)
+}
+
+.elementor-17 .elementor-element.elementor-element-b35ca4b .elementor-cta__title:not(:last-child) {
+    margin-bottom: 15px
+}
+
+.elementor-17 .elementor-element.elementor-element-b35ca4b .elementor-cta:hover .elementor-cta__title {
+    color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-b35ca4b .elementor-cta .elementor-cta__bg,
+.elementor-17 .elementor-element.elementor-element-b35ca4b .elementor-cta .elementor-cta__bg-overlay {
+    transition-duration: 1500ms
+}
+
+.elementor-17 .elementor-element.elementor-element-b35ca4b {
+    width: var( --container-widget-width, 250px);
+    max-width: 250px;
+    --container-widget-width: 250px;
+    --container-widget-flex-grow: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-9eb0a61 {
+    overflow: hidden;
+    margin-top: 0;
+    margin-bottom: 0
+}
+
+.elementor-bc-flex-widget .elementor-17 .elementor-element.elementor-element-b2523ef.elementor-column .elementor-widget-wrap {
+    align-items: center
+}
+
+.elementor-17 .elementor-element.elementor-element-b2523ef.elementor-column.elementor-element[data-element_type=column]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center
+}
+
+.elementor-17 .elementor-element.elementor-element-b2523ef:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-17 .elementor-element.elementor-element-b2523ef>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: var(--e-bg-lazyload-loaded);
+    --e-bg-lazyload: url("https://www.pennarindia.com/img/people-1.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.elementor-17 .elementor-element.elementor-element-b2523ef>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 0 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-b2523ef>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-a4d3d71 {
+    --spacer-size: 55vh
+}
+
+.elementor-bc-flex-widget .elementor-17 .elementor-element.elementor-element-f98489d.elementor-column .elementor-widget-wrap {
+    align-items: space-between
+}
+
+.elementor-17 .elementor-element.elementor-element-f98489d.elementor-column.elementor-element[data-element_type=column]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: space-between;
+    align-items: space-between
+}
+
+.elementor-17 .elementor-element.elementor-element-f98489d:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-17 .elementor-element.elementor-element-f98489d>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-f98489d>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 1px 0 0;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-f98489d>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-e32d457 {
+    padding: 19% 16% 15%
+}
+
+.elementor-17 .elementor-element.elementor-element-0694e75 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+    padding-bottom: calc(0px/2)
+}
+
+.elementor-17 .elementor-element.elementor-element-0694e75 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+    margin-top: calc(0px/2)
+}
+
+.elementor-17 .elementor-element.elementor-element-0694e75 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+    margin-right: calc(0px/2);
+    margin-left: calc(0px/2)
+}
+
+.elementor-17 .elementor-element.elementor-element-0694e75 .elementor-icon-list-items.elementor-inline-items {
+    margin-right: calc(-0px/2);
+    margin-left: calc(-0px/2)
+}
+
+body.rtl .elementor-17 .elementor-element.elementor-element-0694e75 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    left: calc(-0px/2)
+}
+
+body:not(.rtl) .elementor-17 .elementor-element.elementor-element-0694e75 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    right: calc(-0px/2)
+}
+
+.elementor-17 .elementor-element.elementor-element-0694e75 .elementor-icon-list-icon i {
+    color: var( --e-global-color-vamtam_accent_5);
+    transition: color .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-0694e75 .elementor-icon-list-icon svg {
+    fill: var( --e-global-color-vamtam_accent_5);
+    transition: fill .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-0694e75 {
+    --e-icon-list-icon-size: 13px;
+    --e-icon-list-icon-align: right;
+    --e-icon-list-icon-margin: 0 0 0 calc(var(--e-icon-list-icon-size, 1em) * 0.25);
+    --icon-vertical-align: flex-start;
+    --icon-vertical-offset: 4px
+}
+
+.elementor-17 .elementor-element.elementor-element-0694e75 .elementor-icon-list-icon {
+    padding-right: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-0694e75 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-17 .elementor-element.elementor-element-0694e75 .elementor-icon-list-item>a {
+    font-family: var( --e-global-typography-vamtam_primary_font-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+    font-weight: var( --e-global-typography-vamtam_primary_font-font-weight);
+    text-transform: var( --e-global-typography-vamtam_primary_font-text-transform);
+    font-style: var( --e-global-typography-vamtam_primary_font-font-style);
+    line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+    word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+}
+
+.elementor-17 .elementor-element.elementor-element-0694e75 .elementor-icon-list-text {
+    color: var( --e-global-color-vamtam_accent_5);
+    transition: color .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-0694e75>.elementor-widget-container {
+    margin: 0 0 0 -13px;
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-9be037a .elementor-heading-title {
+    color: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-17 .elementor-element.elementor-element-9be037a>.elementor-widget-container {
+    margin: 0 0 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-7fe483c {
+    color: var( --e-global-color-vamtam_accent_5);
+    font-family: var( --e-global-typography-vamtam_primary_font-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+    font-weight: var( --e-global-typography-vamtam_primary_font-font-weight);
+    text-transform: var( --e-global-typography-vamtam_primary_font-text-transform);
+    font-style: var( --e-global-typography-vamtam_primary_font-font-style);
+    line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+    word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+}
+
+.elementor-17 .elementor-element.elementor-element-7fe483c>.elementor-widget-container {
+    margin: 0 30px 0 0
+}
+
+.elementor-17 .elementor-element.elementor-element-f086a42 .elementor-button-icon {
+    font-size: 13px
+}
+
+.elementor-17 .elementor-element.elementor-element-f086a42 .elementor-button .elementor-align-icon-right {
+    margin-left: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-f086a42 .elementor-button .elementor-align-icon-left {
+    margin-right: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-f086a42 .elementor-button {
+    background-color: var( --e-global-color-vamtam_accent_4);
+    --vamtam-bg-color: var( --e-global-color-vamtam_accent_4);
+    --vamtam-bg-color-hover: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-17 .elementor-element.elementor-element-f086a42 .elementor-button:hover,
+.elementor-17 .elementor-element.elementor-element-f086a42 .elementor-button:focus {
+    color: var( --e-global-color-vamtam_accent_1);
+    background-color: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-17 .elementor-element.elementor-element-f086a42 .elementor-button:hover svg,
+.elementor-17 .elementor-element.elementor-element-f086a42 .elementor-button:focus svg {
+    fill: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-f086a42>.elementor-widget-container {
+    margin: 0% 0% 0% 33.333%
+}
+
+.elementor-17 .elementor-element.elementor-element-57e8f53 {
+    overflow: hidden
+}
+
+.elementor-17 .elementor-element.elementor-element-e005e9c>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 130px 30px
+}
+
+.elementor-17 .elementor-element.elementor-element-e005e9c>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-9e31683 {
+    --divider-border-style: solid;
+    --divider-color: var( --e-global-color-vamtam_accent_7);
+    --divider-border-width: 1px;
+    top: 50%;
+    --e-transform-origin-x: center;
+    --e-transform-origin-y: top
+}
+
+.elementor-17 .elementor-element.elementor-element-9e31683 .elementor-divider-separator {
+    width: 500%
+}
+
+.elementor-17 .elementor-element.elementor-element-9e31683 .elementor-divider {
+    padding-top: 0;
+    padding-bottom: 0
+}
+
+body:not(.rtl) .elementor-17 .elementor-element.elementor-element-9e31683 {
+    left: 16.666%
+}
+
+body.rtl .elementor-17 .elementor-element.elementor-element-9e31683 {
+    right: 16.666%
+}
+
+.elementor-17 .elementor-element.elementor-element-9e31683>.elementor-widget-container {
+    --e-transform-rotateZ: 90deg
+}
+
+.elementor-17 .elementor-element.elementor-element-e402230 {
+    --divider-border-style: solid;
+    --divider-color: var( --e-global-color-vamtam_accent_7);
+    --divider-border-width: 1px;
+    top: 50%;
+    --e-transform-origin-x: center;
+    --e-transform-origin-y: top
+}
+
+.elementor-17 .elementor-element.elementor-element-e402230 .elementor-divider-separator {
+    width: 500%
+}
+
+.elementor-17 .elementor-element.elementor-element-e402230 .elementor-divider {
+    padding-top: 0;
+    padding-bottom: 0
+}
+
+body:not(.rtl) .elementor-17 .elementor-element.elementor-element-e402230 {
+    left: -16.666%
+}
+
+body.rtl .elementor-17 .elementor-element.elementor-element-e402230 {
+    right: -16.666%
+}
+
+.elementor-17 .elementor-element.elementor-element-e402230>.elementor-widget-container {
+    --e-transform-rotateZ: 90deg
+}
+
+.elementor-17 .elementor-element.elementor-element-4f8a69f {
+    z-index: 1
+}
+
+.elementor-17 .elementor-element.elementor-element-6784348 {
+    --spacer-size: 1vh
+}
+
+.elementor-17 .elementor-element.elementor-element-1b9698d {
+    --swiper-slides-to-display: 3;
+    --swiper-slides-gap: 60px;
+    --dots-normal-color: var( --e-global-color-vamtam_accent_1);
+    --dots-horizontal-position: 50%;
+    --dots-horizontal-transform: -50%;
+    --dots-horizontal-offset: 0px;
+    --dots-vertical-position: 100%;
+    --dots-vertical-transform: -100%;
+    --dots-vertical-offset: 0px
+}
+
+.elementor-17 .elementor-element.elementor-element-34e5d39 {
+    overflow: hidden
+}
+
+.elementor-17 .elementor-element.elementor-element-769e399>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 50px 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-769e399>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-ccee83b {
+    text-align: center
+}
+
+.elementor-17 .elementor-element.elementor-element-7adaabe>.elementor-container {
+    min-height: 65vh
+}
+
+.elementor-17 .elementor-element.elementor-element-7adaabe>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center
+}
+
+.elementor-bc-flex-widget .elementor-17 .elementor-element.elementor-element-c5f1b99.elementor-column .elementor-widget-wrap {
+    align-items: center
+}
+
+.elementor-17 .elementor-element.elementor-element-c5f1b99.elementor-column.elementor-element[data-element_type=column]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center
+}
+
+.elementor-17 .elementor-element.elementor-element-c5f1b99.elementor-column>.elementor-widget-wrap {
+    justify-content: center
+}
+
+.elementor-17 .elementor-element.elementor-element-c5f1b99:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-17 .elementor-element.elementor-element-c5f1b99>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: var(--e-bg-lazyload-loaded);
+    --e-bg-lazyload: url("https://fabrik.vamtam.com/wp-content/uploads/2023/07/GettyImages-1165170443.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.elementor-17 .elementor-element.elementor-element-c5f1b99>.elementor-element-populated>.elementor-background-overlay {
+    background-color: var( --e-global-color-vamtam_accent_6);
+    opacity: .25
+}
+
+.elementor-17 .elementor-element.elementor-element-c5f1b99>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 140px 30px
+}
+
+.elementor-17 .elementor-element.elementor-element-c5f1b99>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-61c1411 .elementor-button .elementor-align-icon-right {
+    margin-left: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-61c1411 .elementor-button .elementor-align-icon-left {
+    margin-right: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-61c1411 .elementor-button {
+    font-size: 25px;
+    line-height: 1em;
+    background-color: var( --e-global-color-vamtam_accent_1);
+    --vamtam-bg-color: var( --e-global-color-vamtam_accent_1);
+    --vamtam-bg-color-hover: var( --e-global-color-vamtam_accent_5);
+    border-radius: 100px 100px 100px 100px;
+    padding: 50px
+}
+
+.elementor-17 .elementor-element.elementor-element-61c1411 .elementor-button:hover,
+.elementor-17 .elementor-element.elementor-element-61c1411 .elementor-button:focus {
+    color: var( --e-global-color-vamtam_accent_1);
+    background-color: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-17 .elementor-element.elementor-element-61c1411 .elementor-button:hover svg,
+.elementor-17 .elementor-element.elementor-element-61c1411 .elementor-button:focus svg {
+    fill: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-90e7e75>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-90e7e75>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 0 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 110px 70px 120px 30px
+}
+
+.elementor-17 .elementor-element.elementor-element-90e7e75>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-b2d2b8f {
+    --spacer-size: 3vh
+}
+
+.elementor-17 .elementor-element.elementor-element-9068c8a>.elementor-widget-container {
+    margin: 0 0 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-c98bcf3>.elementor-widget-container {
+    margin: 0 0 30px
+}
+
+.elementor-17 .elementor-element.elementor-element-79c665e .elementor-button-icon {
+    font-size: 13px
+}
+
+.elementor-17 .elementor-element.elementor-element-79c665e .elementor-button .elementor-align-icon-right {
+    margin-left: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-79c665e .elementor-button .elementor-align-icon-left {
+    margin-right: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-79c665e .elementor-button {
+    fill: var( --e-global-color-vamtam_accent_6);
+    color: var( --e-global-color-vamtam_accent_6);
+    background-color: #02010100;
+    --vamtam-bg-color: #02010100;
+    border-style: none;
+    border-radius: 0 0 0 0;
+    padding: 0
+}
+
+.elementor-bc-flex-widget .elementor-17 .elementor-element.elementor-element-e83d3fe.elementor-column .elementor-widget-wrap {
+    align-items: flex-start
+}
+
+.elementor-17 .elementor-element.elementor-element-e83d3fe.elementor-column.elementor-element[data-element_type=column]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: flex-start;
+    align-items: flex-start
+}
+
+.elementor-17 .elementor-element.elementor-element-e83d3fe>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 0 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 110px 60px 0
+}
+
+.elementor-17 .elementor-element.elementor-element-e83d3fe>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-db8eecd {
+    --lottie-container-max-width: 220px
+}
+
+.elementor-17 .elementor-element.elementor-element-a7c0be7>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-a7c0be7>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 110px 30px 110px 70px
+}
+
+.elementor-17 .elementor-element.elementor-element-a7c0be7>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-197befd {
+    --spacer-size: 3vh
+}
+
+.elementor-17 .elementor-element.elementor-element-aa39284>.elementor-widget-container {
+    margin: 0 0 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-0bf4ab4>.elementor-widget-container {
+    margin: 0 0 30px
+}
+
+.elementor-17 .elementor-element.elementor-global-8386 .elementor-button-icon {
+    font-size: 13px
+}
+
+.elementor-17 .elementor-element.elementor-global-8386 .elementor-button .elementor-align-icon-right {
+    margin-left: 20px
+}
+
+.elementor-17 .elementor-element.elementor-global-8386 .elementor-button .elementor-align-icon-left {
+    margin-right: 20px
+}
+
+.elementor-17 .elementor-element.elementor-global-8386 .elementor-button {
+    fill: var( --e-global-color-vamtam_accent_6);
+    color: var( --e-global-color-vamtam_accent_6);
+    background-color: #02010100;
+    --vamtam-bg-color: #02010100;
+    border-style: none;
+    border-radius: 0 0 0 0;
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-fde7926>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 25px
+}
+
+.elementor-17 .elementor-element.elementor-element-fde7926>.elementor-element-populated {
+    border-style: solid;
+    border-width: 1px 0 1px 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 25px 30px
+}
+
+.elementor-17 .elementor-element.elementor-element-fde7926>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-711d2d3 {
+    color: var( --e-global-color-vamtam_accent_6);
+    font-family: var( --e-global-typography-vamtam_h6-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_h6-font-size);
+    font-weight: var( --e-global-typography-vamtam_h6-font-weight);
+    text-transform: var( --e-global-typography-vamtam_h6-text-transform);
+    font-style: var( --e-global-typography-vamtam_h6-font-style);
+    line-height: var( --e-global-typography-vamtam_h6-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+}
+
+.elementor-17 .elementor-element.elementor-element-711d2d3>.elementor-widget-container {
+    margin: 0 0 -1em
+}
+
+.elementor-bc-flex-widget .elementor-17 .elementor-element.elementor-element-fa54661.elementor-column .elementor-widget-wrap {
+    align-items: flex-start
+}
+
+.elementor-17 .elementor-element.elementor-element-fa54661.elementor-column.elementor-element[data-element_type=column]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: flex-start;
+    align-items: flex-start
+}
+
+.elementor-17 .elementor-element.elementor-element-fa54661.elementor-column>.elementor-widget-wrap {
+    justify-content: space-between
+}
+
+.elementor-17 .elementor-element.elementor-element-fa54661>.elementor-element-populated {
+    border-style: solid;
+    border-width: 1px 0 1px 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 25px 40px
+}
+
+.elementor-17 .elementor-element.elementor-element-fa54661>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-a50c39d>.elementor-widget-container {
+    margin: 0;
+    padding: 0 10px
+}
+
+.elementor-17 .elementor-element.elementor-element-a50c39d {
+    width: auto;
+    max-width: auto
+}
+
+.elementor-17 .elementor-element.elementor-element-ddddac2>.elementor-widget-container {
+    padding: 0 10px
+}
+
+.elementor-17 .elementor-element.elementor-element-ddddac2 {
+    width: auto;
+    max-width: auto
+}
+
+.elementor-17 .elementor-element.elementor-element-9d70988.elementor-view-stacked .elementor-icon {
+    background-color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-9d70988.elementor-view-framed .elementor-icon,
+.elementor-17 .elementor-element.elementor-element-9d70988.elementor-view-default .elementor-icon {
+    fill: var( --e-global-color-vamtam_accent_1);
+    color: var( --e-global-color-vamtam_accent_1);
+    border-color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-9d70988 {
+    --icon-box-icon-margin: 6px;
+    width: auto;
+    max-width: auto
+}
+
+.elementor-17 .elementor-element.elementor-element-9d70988 .elementor-icon {
+    font-size: 10px
+}
+
+.elementor-17 .elementor-element.elementor-element-9d70988>.elementor-widget-container {
+    padding: 0 10px 0 0
+}
+
+.elementor-17 .elementor-element.elementor-element-16ace44>.elementor-element-populated {
+    border-style: solid;
+    border-width: 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 25px 30px 25px 70px
+}
+
+.elementor-17 .elementor-element.elementor-element-16ace44>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-f761678 {
+    font-size: var( --e-global-typography-d572226-font-size);
+    font-weight: var( --e-global-typography-d572226-font-weight);
+    text-transform: var( --e-global-typography-d572226-text-transform);
+    line-height: var( --e-global-typography-d572226-line-height);
+    letter-spacing: var( --e-global-typography-d572226-letter-spacing);
+    word-spacing: var( --e-global-typography-d572226-word-spacing)
+}
+
+.elementor-17 .elementor-element.elementor-element-f761678>.elementor-widget-container {
+    margin: 0 0 -1em
+}
+
+.elementor-17 .elementor-element.elementor-element-6f9c1fd>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-6f9c1fd>.elementor-element-populated,
+.elementor-17 .elementor-element.elementor-element-6f9c1fd>.elementor-element-populated>.elementor-background-overlay,
+.elementor-17 .elementor-element.elementor-element-6f9c1fd>.elementor-background-slideshow {
+    border-radius: 0 0 0 0
+}
+
+.elementor-17 .elementor-element.elementor-element-6f9c1fd>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-7df1426 {
+    --spacer-size: 110px
+}
+
+.elementor-17 .elementor-element.elementor-element-01c1d7d>.elementor-container {
+    min-height: 65vh
+}
+
+.elementor-17 .elementor-element.elementor-element-01c1d7d {
+    margin-top: 0;
+    margin-bottom: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-ea40315:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-17 .elementor-element.elementor-element-ea40315>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: var(--e-bg-lazyload-loaded);
+    --e-bg-lazyload: url("https://www.pennarindia.com/img/business/services.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.elementor-17 .elementor-element.elementor-element-ea40315>.elementor-element-populated {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-ea40315>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-03e7e4e {
+    --spacer-size: 50px
+}
+
+.elementor-17 .elementor-element.elementor-element-e6d5252>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 50px 60% 50px 30px
+}
+
+.elementor-17 .elementor-element.elementor-element-e6d5252>.elementor-element-populated,
+.elementor-17 .elementor-element.elementor-element-e6d5252>.elementor-element-populated>.elementor-background-overlay,
+.elementor-17 .elementor-element.elementor-element-e6d5252>.elementor-background-slideshow {
+    border-radius: 0 0 0 0
+}
+
+.elementor-17 .elementor-element.elementor-element-e6d5252>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-739ae2e .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+    padding-bottom: calc(0px/2)
+}
+
+.elementor-17 .elementor-element.elementor-element-739ae2e .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+    margin-top: calc(0px/2)
+}
+
+.elementor-17 .elementor-element.elementor-element-739ae2e .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+    margin-right: calc(0px/2);
+    margin-left: calc(0px/2)
+}
+
+.elementor-17 .elementor-element.elementor-element-739ae2e .elementor-icon-list-items.elementor-inline-items {
+    margin-right: calc(-0px/2);
+    margin-left: calc(-0px/2)
+}
+
+body.rtl .elementor-17 .elementor-element.elementor-element-739ae2e .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    left: calc(-0px/2)
+}
+
+body:not(.rtl) .elementor-17 .elementor-element.elementor-element-739ae2e .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    right: calc(-0px/2)
+}
+
+.elementor-17 .elementor-element.elementor-element-739ae2e .elementor-icon-list-icon i {
+    color: var( --e-global-color-vamtam_accent_1);
+    transition: color .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-739ae2e .elementor-icon-list-icon svg {
+    fill: var( --e-global-color-vamtam_accent_1);
+    transition: fill .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-739ae2e {
+    --e-icon-list-icon-size: 13px;
+    --e-icon-list-icon-align: right;
+    --e-icon-list-icon-margin: 0 0 0 calc(var(--e-icon-list-icon-size, 1em) * 0.25);
+    --icon-vertical-align: flex-start;
+    --icon-vertical-offset: 4px
+}
+
+.elementor-17 .elementor-element.elementor-element-739ae2e .elementor-icon-list-icon {
+    padding-right: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-739ae2e .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-17 .elementor-element.elementor-element-739ae2e .elementor-icon-list-item>a {
+    font-family: var( --e-global-typography-vamtam_primary_font-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+    font-weight: var( --e-global-typography-vamtam_primary_font-font-weight);
+    text-transform: var( --e-global-typography-vamtam_primary_font-text-transform);
+    font-style: var( --e-global-typography-vamtam_primary_font-font-style);
+    line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+    word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+}
+
+.elementor-17 .elementor-element.elementor-element-739ae2e .elementor-icon-list-text {
+    transition: color .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-739ae2e>.elementor-widget-container {
+    margin: 0 0 0 -13px;
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-bba57e7 {
+    border-style: solid;
+    border-width: 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-bba57e7>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-929b15d>.elementor-element-populated {
+    border-style: solid;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-929b15d>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-82f452f .elementor-button-icon {
+    font-size: 15px
+}
+
+.elementor-17 .elementor-element.elementor-element-82f452f .elementor-button .elementor-align-icon-right {
+    margin-left: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-82f452f .elementor-button .elementor-align-icon-left {
+    margin-right: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-82f452f .elementor-button {
+    font-family: var( --e-global-typography-vamtam_h6-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_h6-font-size);
+    font-weight: var( --e-global-typography-vamtam_h6-font-weight);
+    text-transform: var( --e-global-typography-vamtam_h6-text-transform);
+    font-style: var( --e-global-typography-vamtam_h6-font-style);
+    line-height: var( --e-global-typography-vamtam_h6-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing);
+    fill: var( --e-global-color-vamtam_accent_6);
+    color: var( --e-global-color-vamtam_accent_6);
+    background-color: var( --e-global-color-vamtam_accent_5);
+    --vamtam-bg-color: var( --e-global-color-vamtam_accent_5);
+    --vamtam-bg-color-hover: var( --e-global-color-vamtam_accent_1);
+    border-style: none;
+    border-radius: 0 0 0 0;
+    padding: 45px
+}
+
+.elementor-17 .elementor-element.elementor-element-82f452f .elementor-button:hover,
+.elementor-17 .elementor-element.elementor-element-82f452f .elementor-button:focus {
+    color: var( --e-global-color-vamtam_accent_5);
+    background-color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-82f452f .elementor-button:hover svg,
+.elementor-17 .elementor-element.elementor-element-82f452f .elementor-button:focus svg {
+    fill: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-17 .elementor-element.elementor-element-a79c8b3>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-a79c8b3>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-12ebdee .elementor-button-icon {
+    font-size: 15px
+}
+
+.elementor-17 .elementor-element.elementor-element-12ebdee .elementor-button .elementor-align-icon-right {
+    margin-left: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-12ebdee .elementor-button .elementor-align-icon-left {
+    margin-right: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-12ebdee .elementor-button {
+    font-family: var( --e-global-typography-vamtam_h6-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_h6-font-size);
+    font-weight: var( --e-global-typography-vamtam_h6-font-weight);
+    text-transform: var( --e-global-typography-vamtam_h6-text-transform);
+    font-style: var( --e-global-typography-vamtam_h6-font-style);
+    line-height: var( --e-global-typography-vamtam_h6-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing);
+    fill: var( --e-global-color-vamtam_accent_6);
+    color: var( --e-global-color-vamtam_accent_6);
+    background-color: var( --e-global-color-vamtam_accent_5);
+    --vamtam-bg-color: var( --e-global-color-vamtam_accent_5);
+    --vamtam-bg-color-hover: var( --e-global-color-vamtam_accent_1);
+    border-style: none;
+    border-radius: 0 0 0 0;
+    padding: 45px
+}
+
+.elementor-17 .elementor-element.elementor-element-12ebdee .elementor-button:hover,
+.elementor-17 .elementor-element.elementor-element-12ebdee .elementor-button:focus {
+    color: var( --e-global-color-vamtam_accent_5);
+    background-color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-12ebdee .elementor-button:hover svg,
+.elementor-17 .elementor-element.elementor-element-12ebdee .elementor-button:focus svg {
+    fill: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-17 .elementor-element.elementor-element-2f1871a .elementor-button-icon {
+    font-size: 15px
+}
+
+.elementor-17 .elementor-element.elementor-element-2f1871a .elementor-button .elementor-align-icon-right {
+    margin-left: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-2f1871a .elementor-button .elementor-align-icon-left {
+    margin-right: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-2f1871a .elementor-button {
+    font-family: var( --e-global-typography-vamtam_h6-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_h6-font-size);
+    font-weight: var( --e-global-typography-vamtam_h6-font-weight);
+    text-transform: var( --e-global-typography-vamtam_h6-text-transform);
+    font-style: var( --e-global-typography-vamtam_h6-font-style);
+    line-height: var( --e-global-typography-vamtam_h6-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing);
+    fill: var( --e-global-color-vamtam_accent_6);
+    color: var( --e-global-color-vamtam_accent_6);
+    background-color: var( --e-global-color-vamtam_accent_5);
+    --vamtam-bg-color: var( --e-global-color-vamtam_accent_5);
+    --vamtam-bg-color-hover: var( --e-global-color-vamtam_accent_1);
+    border-style: none;
+    border-radius: 0 0 0 0;
+    padding: 45px
+}
+
+.elementor-17 .elementor-element.elementor-element-2f1871a .elementor-button:hover,
+.elementor-17 .elementor-element.elementor-element-2f1871a .elementor-button:focus {
+    color: var( --e-global-color-vamtam_accent_5);
+    background-color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-17 .elementor-element.elementor-element-2f1871a .elementor-button:hover svg,
+.elementor-17 .elementor-element.elementor-element-2f1871a .elementor-button:focus svg {
+    fill: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-17 .elementor-element.elementor-element-212a10f {
+    margin-top: 0;
+    margin-bottom: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-751c68f>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-751c68f>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 0 30px
+}
+
+.elementor-17 .elementor-element.elementor-element-751c68f>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-6b8eaa4 {
+    --spacer-size: 130px
+}
+
+.elementor-17 .elementor-element.elementor-element-013fb6e>.elementor-container {
+    min-height: 30vh
+}
+
+.elementor-17 .elementor-element.elementor-element-013fb6e {
+    margin-top: 0;
+    margin-bottom: 0
+}
+
+.elementor-bc-flex-widget .elementor-17 .elementor-element.elementor-element-832328b.elementor-column .elementor-widget-wrap {
+    align-items: center
+}
+
+.elementor-17 .elementor-element.elementor-element-832328b.elementor-column.elementor-element[data-element_type=column]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center
+}
+
+.elementor-17 .elementor-element.elementor-element-832328b:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-17 .elementor-element.elementor-element-832328b>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: var(--e-bg-lazyload-loaded);
+    --e-bg-lazyload: url("https://www.pennarindia.com/img/slider/slide-4.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.elementor-17 .elementor-element.elementor-element-832328b>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 0 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-832328b>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-11c5412 {
+    --spacer-size: 50px
+}
+
+.elementor-17 .elementor-element.elementor-element-cd6492b:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-17 .elementor-element.elementor-element-cd6492b>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-17 .elementor-element.elementor-element-cd6492b>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 1px 0 0;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 13% 15%
+}
+
+.elementor-17 .elementor-element.elementor-element-cd6492b>.elementor-element-populated,
+.elementor-17 .elementor-element.elementor-element-cd6492b>.elementor-element-populated>.elementor-background-overlay,
+.elementor-17 .elementor-element.elementor-element-cd6492b>.elementor-background-slideshow {
+    border-radius: 0 0 0 0
+}
+
+.elementor-17 .elementor-element.elementor-element-cd6492b>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-6ca67d6 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+    padding-bottom: calc(0px/2)
+}
+
+.elementor-17 .elementor-element.elementor-element-6ca67d6 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+    margin-top: calc(0px/2)
+}
+
+.elementor-17 .elementor-element.elementor-element-6ca67d6 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+    margin-right: calc(0px/2);
+    margin-left: calc(0px/2)
+}
+
+.elementor-17 .elementor-element.elementor-element-6ca67d6 .elementor-icon-list-items.elementor-inline-items {
+    margin-right: calc(-0px/2);
+    margin-left: calc(-0px/2)
+}
+
+body.rtl .elementor-17 .elementor-element.elementor-element-6ca67d6 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    left: calc(-0px/2)
+}
+
+body:not(.rtl) .elementor-17 .elementor-element.elementor-element-6ca67d6 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    right: calc(-0px/2)
+}
+
+.elementor-17 .elementor-element.elementor-element-6ca67d6 .elementor-icon-list-icon i {
+    color: var( --e-global-color-vamtam_accent_1);
+    transition: color .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-6ca67d6 .elementor-icon-list-icon svg {
+    fill: var( --e-global-color-vamtam_accent_1);
+    transition: fill .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-6ca67d6 {
+    --e-icon-list-icon-size: 13px;
+    --e-icon-list-icon-align: right;
+    --e-icon-list-icon-margin: 0 0 0 calc(var(--e-icon-list-icon-size, 1em) * 0.25);
+    --icon-vertical-align: flex-start;
+    --icon-vertical-offset: 4px
+}
+
+.elementor-17 .elementor-element.elementor-element-6ca67d6 .elementor-icon-list-icon {
+    padding-right: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-6ca67d6 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-17 .elementor-element.elementor-element-6ca67d6 .elementor-icon-list-item>a {
+    font-family: var( --e-global-typography-vamtam_primary_font-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+    font-weight: var( --e-global-typography-vamtam_primary_font-font-weight);
+    text-transform: var( --e-global-typography-vamtam_primary_font-text-transform);
+    font-style: var( --e-global-typography-vamtam_primary_font-font-style);
+    line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+    word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+}
+
+.elementor-17 .elementor-element.elementor-element-6ca67d6 .elementor-icon-list-text {
+    transition: color .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-6ca67d6>.elementor-widget-container {
+    margin: 0 0 0 -13px;
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-2ed9cb1>.elementor-widget-container {
+    margin: 0 0 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-4e13481 .elementor-button-icon {
+    font-size: 13px
+}
+
+.elementor-17 .elementor-element.elementor-element-4e13481 .elementor-button .elementor-align-icon-right {
+    margin-left: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-4e13481 .elementor-button .elementor-align-icon-left {
+    margin-right: 20px
+}
+
+.elementor-17 .elementor-element.elementor-element-4e13481 .elementor-button {
+    fill: var( --e-global-color-vamtam_accent_6);
+    color: var( --e-global-color-vamtam_accent_6);
+    background-color: #02010100;
+    --vamtam-bg-color: #02010100;
+    border-style: none;
+    border-radius: 0 0 0 0;
+    padding: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-6bb798e {
+    margin-top: 0;
+    margin-bottom: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-2cb500d>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0
+}
+
+.elementor-17 .elementor-element.elementor-element-2cb500d>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0 1px;
+    border-color: var( --e-global-color-vamtam_accent_7);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 0 30px
+}
+
+.elementor-17 .elementor-element.elementor-element-2cb500d>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-17 .elementor-element.elementor-element-a86c11d {
+    --spacer-size: 130px
+}
+
+:root {
+    --page-title-display: none
+}
+
+@media(max-width:1024px) and (min-width:768px) {
+    .elementor-17 .elementor-element.elementor-element-fde7926 {
+        width: 100%
+    }
+    .elementor-17 .elementor-element.elementor-element-fa54661 {
+        width: 50%
+    }
+    .elementor-17 .elementor-element.elementor-element-16ace44 {
+        width: 50%
+    }
+    .elementor-17 .elementor-element.elementor-element-929b15d {
+        width: 100%
+    }
+    .elementor-17 .elementor-element.elementor-element-a79c8b3 {
+        width: 100%
+    }
+    .elementor-17 .elementor-element.elementor-element-df0b19e {
+        width: 100%
+    }
+}
+
+@media(max-width:1024px) {
+    .elementor-17 .elementor-element.elementor-element-7b13ec0>.elementor-element-populated {
+        padding: 0 20px 30px
+    }
+    .elementor-17 .elementor-element.elementor-element-575411f {
+        --spacer-size: 60px
+    }
+    .elementor-17 .elementor-element.elementor-element-30919cb .elementor-icon-list-item>.elementor-icon-list-text,
+    .elementor-17 .elementor-element.elementor-element-30919cb .elementor-icon-list-item>a {
+        font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+        line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+        word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-4d5a904 {
+        z-index: 1
+    }
+    .elementor-17 .elementor-element.elementor-element-5c6e2e9>.elementor-container {
+        min-height: 40vh
+    }
+    .elementor-17 .elementor-element.elementor-element-1ed395b:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+    .elementor-17 .elementor-element.elementor-element-1ed395b>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-position: 0% 0%
+    }
+    .elementor-17 .elementor-element.elementor-element-141ab11>.elementor-container {
+        min-height: 200px
+    }
+    .elementor-17 .elementor-element.elementor-element-eda2995>.elementor-element-populated {
+        padding: 60px 20px 40px
+    }
+    .elementor-17 .elementor-element.elementor-element-9cec01d {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-fddaee9>.elementor-element-populated {
+        padding: 60px 20px 40px
+    }
+    .elementor-17 .elementor-element.elementor-element-3e2bfc0>.elementor-element-populated {
+        padding: 60px 20px 40px
+    }
+    .elementor-17 .elementor-element.elementor-element-2d965cc .elementor-flip-box {
+        height: 287px
+    }
+    .elementor-17 .elementor-element.elementor-element-2d965cc .elementor-flip-box__front {
+        border-width: 30px 0 0
+    }
+    .elementor-17 .elementor-element.elementor-element-fd1c66a .elementor-flip-box__front {
+        background-size: 60px auto
+    }
+    .elementor-17 .elementor-element.elementor-element-fd1c66a .elementor-flip-box__back {
+        background-size: 60px auto
+    }
+    .elementor-17 .elementor-element.elementor-element-fd1c66a .elementor-flip-box {
+        height: 287px
+    }
+    .elementor-17 .elementor-element.elementor-element-5a36e1c .elementor-flip-box {
+        height: 287px
+    }
+    .elementor-17 .elementor-element.elementor-element-5a36e1c .elementor-flip-box__front {
+        border-width: 30px 0 0
+    }
+    .elementor-17 .elementor-element.elementor-element-3309a68>.elementor-container {
+        min-height: 200px
+    }
+    .elementor-17 .elementor-element.elementor-element-5c9c653>.elementor-element-populated {
+        padding: 85px 20px 30px
+    }
+    .elementor-17 .elementor-element.elementor-element-dae75c9>.elementor-widget-container {
+        margin: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-608bf14>.elementor-element-populated {
+        padding: 60px 20px 40px
+    }
+    .elementor-17 .elementor-element.elementor-element-f09537a>.elementor-element-populated {
+        padding: 85px 20px 15px
+    }
+    .elementor-17 .elementor-element.elementor-element-c1e1c51>.elementor-container {
+        min-height: 40vh
+    }
+    .elementor-17 .elementor-element.elementor-element-c1e1c51 {
+        margin-top: 0;
+        margin-bottom: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-f86ec14:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+    .elementor-17 .elementor-element.elementor-element-f86ec14>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-position: 0% 0%
+    }
+    .elementor-17 .elementor-element.elementor-element-e6f6281>.elementor-element-populated {
+        padding: 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-25121e7 .elementor-icon-list-item>.elementor-icon-list-text,
+    .elementor-17 .elementor-element.elementor-element-25121e7 .elementor-icon-list-item>a {
+        font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+        line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+        word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-8e179ae>.elementor-element-populated {
+        padding: 40px 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-5beb111>.elementor-container {
+        min-height: 135px
+    }
+    .elementor-17 .elementor-element.elementor-element-5beb111>.elementor-background-overlay {
+        background-size: 0 auto
+    }
+    .elementor-17 .elementor-element.elementor-element-807d94b .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-807d94b>.elementor-widget-container {
+        margin: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-b013f16 .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-b013f16>.elementor-widget-container {
+        margin: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-867dbd6 .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-867dbd6>.elementor-widget-container {
+        margin: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-c56689e .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-c56689e>.elementor-widget-container {
+        margin: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-2d666a5>.elementor-element-populated {
+        padding: 40px 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-825e883>.elementor-container {
+        min-height: 135px
+    }
+    .elementor-17 .elementor-element.elementor-element-825e883>.elementor-background-overlay {
+        background-size: 0 auto
+    }
+    .elementor-17 .elementor-element.elementor-element-b1ef08b .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-b1ef08b>.elementor-widget-container {
+        margin: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-d2c3a41 .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-d2c3a41>.elementor-widget-container {
+        margin: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-389d1cb .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-389d1cb>.elementor-widget-container {
+        margin: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-ce674c4 .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-ce674c4>.elementor-widget-container {
+        margin: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-74c290d>.elementor-element-populated {
+        padding: 40px 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-515b89b>.elementor-container {
+        min-height: 135px
+    }
+    .elementor-17 .elementor-element.elementor-element-515b89b>.elementor-background-overlay {
+        background-size: 0 auto
+    }
+    .elementor-17 .elementor-element.elementor-element-09ee913 .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-09ee913>.elementor-widget-container {
+        margin: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-624ea75 .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-624ea75>.elementor-widget-container {
+        margin: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-590cfe6 .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-590cfe6>.elementor-widget-container {
+        margin: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-be3003a {
+        padding: 90px 30px
+    }
+    .elementor-17 .elementor-element.elementor-element-8fac36e .elementor-icon-list-item>.elementor-icon-list-text,
+    .elementor-17 .elementor-element.elementor-element-8fac36e .elementor-icon-list-item>a {
+        font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+        line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+        word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-fdd5cf8>.elementor-widget-container {
+        margin: 0 0 10px
+    }
+    .elementor-17 .elementor-element.elementor-element-5177ac0>.elementor-widget-container {
+        margin: 0 0 10px
+    }
+    .elementor-17 .elementor-element.elementor-element-7437d39 .elementor-toggle-title {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-7437d39>.elementor-widget-container {
+        margin: 0%
+    }
+    .elementor-17 .elementor-element.elementor-element-609a67f>.elementor-element-populated {
+        border-width: 0 0 0 1px;
+        padding: 85px 20px 30px
+    }
+    .elementor-17 .elementor-element.elementor-element-a5d4ae4 .elementor-icon-list-item>.elementor-icon-list-text,
+    .elementor-17 .elementor-element.elementor-element-a5d4ae4 .elementor-icon-list-item>a {
+        font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+        line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+        word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-34ce6ec>.elementor-element-populated {
+        padding: 85px 20px 30px
+    }
+    .elementor-17 .elementor-element.elementor-element-017b80b>.elementor-element-populated {
+        padding: 85px 20px 30px
+    }
+    .elementor-17 .elementor-element.elementor-element-d104599>.elementor-element-populated {
+        padding: 60px 20px 90px
+    }
+    .elementor-17 .elementor-element.elementor-element-e8ab6a4 .elementor-button {
+        padding: 20px 20px 20px 50px
+    }
+    .elementor-17 .elementor-element.elementor-element-8e438a7 .elementor-cta__title {
+        font-size: var( --e-global-typography-vamtam_h5-font-size);
+        line-height: var( --e-global-typography-vamtam_h5-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h5-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-818e1fc>.elementor-element-populated {
+        margin: 0;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+        padding: 0 20px 90px
+    }
+    .elementor-17 .elementor-element.elementor-element-9daa8ad .elementor-button {
+        padding: 20px 20px 20px 50px
+    }
+    .elementor-17 .elementor-element.elementor-element-57ee598 .elementor-cta__title {
+        font-size: var( --e-global-typography-vamtam_h5-font-size);
+        line-height: var( --e-global-typography-vamtam_h5-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h5-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-311d60d>.elementor-element-populated {
+        border-width: 0 1px;
+        padding: 60px 20px 90px
+    }
+    .elementor-17 .elementor-element.elementor-element-2fb865e .elementor-button {
+        padding: 20px 20px 20px 50px
+    }
+    .elementor-17 .elementor-element.elementor-element-b35ca4b .elementor-cta__title {
+        font-size: var( --e-global-typography-vamtam_h5-font-size);
+        line-height: var( --e-global-typography-vamtam_h5-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h5-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-e32d457 {
+        padding: 85px 30px
+    }
+    .elementor-17 .elementor-element.elementor-element-0694e75 .elementor-icon-list-item>.elementor-icon-list-text,
+    .elementor-17 .elementor-element.elementor-element-0694e75 .elementor-icon-list-item>a {
+        font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+        line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+        word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-9be037a>.elementor-widget-container {
+        margin: 0 0 10px
+    }
+    .elementor-17 .elementor-element.elementor-element-7fe483c {
+        font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+        line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+        word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-7fe483c>.elementor-widget-container {
+        margin: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-f086a42>.elementor-widget-container {
+        margin: 0 0 0 30px
+    }
+    .elementor-17 .elementor-element.elementor-element-e005e9c>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+        margin-bottom: 15px
+    }
+    .elementor-17 .elementor-element.elementor-element-e005e9c>.elementor-element-populated {
+        padding: 85px 20px 80px
+    }
+    body:not(.rtl) .elementor-17 .elementor-element.elementor-element-9e31683 {
+        left: 16.444%
+    }
+    body.rtl .elementor-17 .elementor-element.elementor-element-9e31683 {
+        right: 16.444%
+    }
+    .elementor-17 .elementor-element.elementor-element-9e31683 {
+        top: 50%
+    }
+    body:not(.rtl) .elementor-17 .elementor-element.elementor-element-e402230 {
+        left: -16.444%
+    }
+    body.rtl .elementor-17 .elementor-element.elementor-element-e402230 {
+        right: -16.444%
+    }
+    .elementor-17 .elementor-element.elementor-element-e402230 {
+        top: 50%
+    }
+    .elementor-17 .elementor-element.elementor-element-6784348 {
+        --spacer-size: 0vh
+    }
+    .elementor-17 .elementor-element.elementor-element-1b9698d {
+        --swiper-slides-to-display: 3;
+        --swiper-slides-gap: 30px;
+        --dots-horizontal-position: 50%;
+        --dots-horizontal-transform: -50%;
+        --swiper-pagination-spacing: 0px
+    }
+    .elementor-17 .elementor-element.elementor-element-769e399>.elementor-element-populated {
+        padding: 30px 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-7adaabe>.elementor-container {
+        min-height: 40vh
+    }
+    .elementor-17 .elementor-element.elementor-element-c5f1b99>.elementor-element-populated {
+        padding: 90px 30px
+    }
+    .elementor-17 .elementor-element.elementor-element-61c1411 .elementor-button {
+        font-size: 20px;
+        padding: 30px
+    }
+    .elementor-17 .elementor-element.elementor-element-90e7e75>.elementor-element-populated {
+        padding: 85px 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-b2d2b8f {
+        --spacer-size: 0px
+    }
+    .elementor-bc-flex-widget .elementor-17 .elementor-element.elementor-element-e83d3fe.elementor-column .elementor-widget-wrap {
+        align-items: center
+    }
+    .elementor-17 .elementor-element.elementor-element-e83d3fe.elementor-column.elementor-element[data-element_type=column]>.elementor-widget-wrap.elementor-element-populated {
+        align-content: center;
+        align-items: center
+    }
+    .elementor-17 .elementor-element.elementor-element-e83d3fe>.elementor-element-populated {
+        padding: 60px 20px 0
+    }
+    .elementor-17 .elementor-element.elementor-element-db8eecd {
+        --lottie-container-max-width: 100%
+    }
+    .elementor-17 .elementor-element.elementor-element-db8eecd>.elementor-widget-container {
+        margin: 0;
+        padding: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-a7c0be7>.elementor-element-populated {
+        padding: 85px 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-197befd {
+        --spacer-size: 0vh
+    }
+    .elementor-17 .elementor-element.elementor-element-fde7926>.elementor-element-populated {
+        border-width: 1px;
+        padding: 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-711d2d3 {
+        text-align: center;
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-fa54661>.elementor-element-populated {
+        border-width: 0 0 1px 1px;
+        padding: 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-16ace44>.elementor-element-populated {
+        border-width: 0 1px 1px;
+        padding: 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-f761678 {
+        font-size: var( --e-global-typography-d572226-font-size);
+        line-height: var( --e-global-typography-d572226-line-height);
+        letter-spacing: var( --e-global-typography-d572226-letter-spacing);
+        word-spacing: var( --e-global-typography-d572226-word-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-7df1426 {
+        --spacer-size: 90px
+    }
+    .elementor-17 .elementor-element.elementor-element-01c1d7d>.elementor-container {
+        min-height: 45vh
+    }
+    .elementor-17 .elementor-element.elementor-element-e6d5252>.elementor-element-populated {
+        padding: 30px 50% 30px 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-739ae2e .elementor-icon-list-item>.elementor-icon-list-text,
+    .elementor-17 .elementor-element.elementor-element-739ae2e .elementor-icon-list-item>a {
+        font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+        line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+        word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-929b15d>.elementor-element-populated {
+        border-width: 0 0 1px
+    }
+    .elementor-17 .elementor-element.elementor-element-82f452f .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing);
+        padding: 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-a79c8b3>.elementor-element-populated {
+        border-width: 0 0 1px
+    }
+    .elementor-17 .elementor-element.elementor-element-12ebdee .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing);
+        padding: 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-2f1871a .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing);
+        padding: 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-212a10f {
+        margin-top: 0;
+        margin-bottom: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-751c68f>.elementor-element-populated {
+        border-width: 0 1px
+    }
+    .elementor-17 .elementor-element.elementor-element-6b8eaa4 {
+        --spacer-size: 90px
+    }
+    .elementor-17 .elementor-element.elementor-element-013fb6e {
+        margin-top: 0;
+        margin-bottom: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-cd6492b>.elementor-element-populated {
+        padding: 85px 30px
+    }
+    .elementor-17 .elementor-element.elementor-element-6ca67d6 .elementor-icon-list-item>.elementor-icon-list-text,
+    .elementor-17 .elementor-element.elementor-element-6ca67d6 .elementor-icon-list-item>a {
+        font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+        line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+        word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-6bb798e {
+        margin-top: 0;
+        margin-bottom: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-2cb500d>.elementor-element-populated {
+        border-width: 0 1px
+    }
+    .elementor-17 .elementor-element.elementor-element-a86c11d {
+        --spacer-size: 90px
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-17 .elementor-element.elementor-element-575411f {
+        --spacer-size: 40px
+    }
+    .elementor-17 .elementor-element.elementor-element-30919cb .elementor-icon-list-item>.elementor-icon-list-text,
+    .elementor-17 .elementor-element.elementor-element-30919cb .elementor-icon-list-item>a {
+        font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+        line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+        word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-5c6e2e9>.elementor-container {
+        min-height: 45vh
+    }
+    .elementor-17 .elementor-element.elementor-element-1ed395b:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+    .elementor-17 .elementor-element.elementor-element-1ed395b>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-position: 50% 50%
+    }
+    .elementor-17 .elementor-element.elementor-element-d42bb6d>.elementor-element-populated {
+        margin: -1px 0 0;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px
+    }
+    .elementor-17 .elementor-element.elementor-element-141ab11 {
+        margin-top: 0;
+        margin-bottom: 60px
+    }
+    .elementor-17 .elementor-element.elementor-element-eda2995>.elementor-element-populated {
+        border-width: 0 1px 1px;
+        padding: 30px 20px 15px
+    }
+    .elementor-17 .elementor-element.elementor-element-9cec01d {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-9cec01d>.elementor-widget-container {
+        padding: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-fddaee9>.elementor-element-populated {
+        border-width: 0 1px 1px;
+        padding: 30px 20px 15px
+    }
+    .elementor-17 .elementor-element.elementor-element-3e2bfc0>.elementor-element-populated {
+        border-width: 0 1px 1px;
+        padding: 30px 20px 15px
+    }
+    .elementor-17 .elementor-element.elementor-element-4b32643 {
+        margin-top: 0;
+        margin-bottom: 60px
+    }
+    .elementor-17 .elementor-element.elementor-element-a429069>.elementor-element-populated {
+        border-width: 1px;
+        margin: 0;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+        padding: 30px 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-2d965cc .elementor-flip-box {
+        height: 287px
+    }
+    .elementor-17 .elementor-element.elementor-element-1b15476>.elementor-element-populated {
+        border-width: 0 1px 1px;
+        margin: 0;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+        padding: 30px 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-fd1c66a .elementor-flip-box {
+        height: 287px
+    }
+    .elementor-17 .elementor-element.elementor-element-ab8fca0>.elementor-element-populated {
+        border-width: 0 1px 1px;
+        padding: 30px 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-5a36e1c .elementor-flip-box {
+        height: 287px
+    }
+    .elementor-17 .elementor-element.elementor-element-5c9c653>.elementor-element-populated {
+        border-width: 1px;
+        padding: 30px 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-608bf14>.elementor-element-populated {
+        border-width: 0 1px 1px
+    }
+    .elementor-17 .elementor-element.elementor-element-f09537a>.elementor-element-populated {
+        padding: 30px 20px 10px
+    }
+    .elementor-17 .elementor-element.elementor-element-c1e1c51>.elementor-container {
+        min-height: 40vh
+    }
+    .elementor-17 .elementor-element.elementor-element-c1e1c51 {
+        margin-top: 0;
+        margin-bottom: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-f86ec14:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+    .elementor-17 .elementor-element.elementor-element-f86ec14>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-position: initial
+    }
+    .elementor-17 .elementor-element.elementor-element-eb5b784>.elementor-widget-container {
+        padding: 0%
+    }
+    .elementor-17 .elementor-element.elementor-element-e6f6281>.elementor-element-populated {
+        border-width: 0 1px
+    }
+    .elementor-17 .elementor-element.elementor-element-25121e7 .elementor-icon-list-item>.elementor-icon-list-text,
+    .elementor-17 .elementor-element.elementor-element-25121e7 .elementor-icon-list-item>a {
+        font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+        line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+        word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-8e179ae>.elementor-element-populated {
+        border-width: 1px;
+        padding: 30px 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-5beb111>.elementor-container {
+        min-height: 100px
+    }
+    .elementor-17 .elementor-element.elementor-element-5beb111>.elementor-background-overlay {
+        background-position: top right;
+        background-size: 0 auto
+    }
+    .elementor-17 .elementor-element.elementor-element-86a0caa>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+        margin-bottom: 10px
+    }
+    .elementor-17 .elementor-element.elementor-element-807d94b .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-b013f16 .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-867dbd6 .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-c56689e .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-2d666a5>.elementor-element-populated {
+        border-width: 0 1px 1px;
+        padding: 30px 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-825e883>.elementor-container {
+        min-height: 100px
+    }
+    .elementor-17 .elementor-element.elementor-element-825e883>.elementor-background-overlay {
+        background-position: top right;
+        background-size: 0 auto
+    }
+    .elementor-17 .elementor-element.elementor-element-6ad1838>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+        margin-bottom: 10px
+    }
+    .elementor-17 .elementor-element.elementor-element-b1ef08b .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-d2c3a41 .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-389d1cb .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-ce674c4 .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-74c290d>.elementor-element-populated {
+        border-width: 0 1px 1px;
+        padding: 30px 20px 0
+    }
+    .elementor-17 .elementor-element.elementor-element-515b89b>.elementor-container {
+        min-height: 100px
+    }
+    .elementor-17 .elementor-element.elementor-element-515b89b>.elementor-background-overlay {
+        background-position: top right;
+        background-size: 0 auto
+    }
+    .elementor-17 .elementor-element.elementor-element-515b89b {
+        margin-top: 0;
+        margin-bottom: 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-c50879c>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+        margin-bottom: 10px
+    }
+    .elementor-17 .elementor-element.elementor-element-c50879c>.elementor-element-populated {
+        margin: 0;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+        padding: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-09ee913 .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-624ea75 .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-590cfe6 .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-be3003a {
+        padding: 60px 20px 0
+    }
+    .elementor-17 .elementor-element.elementor-element-1add89d>.elementor-element-populated {
+        margin: 0 0 10px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+        padding: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-8fac36e .elementor-icon-list-item>.elementor-icon-list-text,
+    .elementor-17 .elementor-element.elementor-element-8fac36e .elementor-icon-list-item>a {
+        font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+        line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+        word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-fdd5cf8>.elementor-widget-container {
+        margin: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-7437d39 .elementor-toggle-title {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-7437d39 .elementor-tab-title {
+        padding: 20px 0
+    }
+    .elementor-17 .elementor-element.elementor-element-7437d39 .elementor-tab-content {
+        padding: 0 0 10px
+    }
+    .elementor-17 .elementor-element.elementor-element-7437d39>.elementor-widget-container {
+        padding: 0%
+    }
+    .elementor-17 .elementor-element.elementor-element-d805aa1>.elementor-element-populated {
+        margin: 0 0 10px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+        padding: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-fd1b6af img {
+        width: 200px
+    }
+    .elementor-17 .elementor-element.elementor-element-609a67f>.elementor-element-populated {
+        border-width: 0 1px 1px;
+        padding: 55px 20px 25px
+    }
+    .elementor-17 .elementor-element.elementor-element-a5d4ae4 .elementor-icon-list-item>.elementor-icon-list-text,
+    .elementor-17 .elementor-element.elementor-element-a5d4ae4 .elementor-icon-list-item>a {
+        font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+        line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+        word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-d104599.elementor-column>.elementor-widget-wrap {
+        justify-content: flex-start
+    }
+    .elementor-17 .elementor-element.elementor-element-d104599>.elementor-element-populated {
+        border-width: 0 1px 1px;
+        padding: 30px 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-de7e00c>.elementor-container {
+        max-width: 760px
+    }
+    .elementor-17 .elementor-element.elementor-element-9127513.elementor-column>.elementor-widget-wrap {
+        justify-content: flex-start
+    }
+    .elementor-17 .elementor-element.elementor-element-5f918e2 {
+        text-align: left
+    }
+    .elementor-17 .elementor-element.elementor-element-5f918e2 img {
+        width: 199vw
+    }
+    .elementor-17 .elementor-element.elementor-element-8e438a7 .elementor-cta__title {
+        font-size: var( --e-global-typography-vamtam_h5-font-size);
+        line-height: var( --e-global-typography-vamtam_h5-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h5-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-8e438a7 {
+        --container-widget-width: 90%;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 90%);
+        max-width: 90%
+    }
+    .elementor-17 .elementor-element.elementor-element-818e1fc.elementor-column>.elementor-widget-wrap {
+        justify-content: flex-start
+    }
+    .elementor-17 .elementor-element.elementor-element-818e1fc>.elementor-element-populated {
+        border-width: 0 1px 1px;
+        padding: 30px 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-132af63>.elementor-container {
+        max-width: 760px
+    }
+    .elementor-17 .elementor-element.elementor-element-e0907ee.elementor-column>.elementor-widget-wrap {
+        justify-content: flex-start
+    }
+    .elementor-17 .elementor-element.elementor-element-099b1ee {
+        text-align: left
+    }
+    .elementor-17 .elementor-element.elementor-element-099b1ee img {
+        width: 100vw
+    }
+    .elementor-17 .elementor-element.elementor-element-57ee598 .elementor-cta__title {
+        font-size: var( --e-global-typography-vamtam_h5-font-size);
+        line-height: var( --e-global-typography-vamtam_h5-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h5-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-57ee598 {
+        --container-widget-width: 90%;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 90%);
+        max-width: 90%
+    }
+    .elementor-17 .elementor-element.elementor-element-311d60d.elementor-column>.elementor-widget-wrap {
+        justify-content: flex-start
+    }
+    .elementor-17 .elementor-element.elementor-element-311d60d>.elementor-element-populated {
+        padding: 30px 20px 60px
+    }
+    .elementor-17 .elementor-element.elementor-element-7379e22>.elementor-container {
+        max-width: 760px
+    }
+    .elementor-17 .elementor-element.elementor-element-a85789d.elementor-column>.elementor-widget-wrap {
+        justify-content: flex-start
+    }
+    .elementor-17 .elementor-element.elementor-element-c59b5a8 {
+        text-align: left
+    }
+    .elementor-17 .elementor-element.elementor-element-c59b5a8 img {
+        width: 100vw
+    }
+    .elementor-17 .elementor-element.elementor-element-b35ca4b .elementor-cta__title {
+        font-size: var( --e-global-typography-vamtam_h5-font-size);
+        line-height: var( --e-global-typography-vamtam_h5-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h5-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-b35ca4b {
+        --container-widget-width: 90%;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 90%);
+        max-width: 90%
+    }
+    .elementor-17 .elementor-element.elementor-element-a4d3d71 {
+        --spacer-size: 70vw
+    }
+    .elementor-17 .elementor-element.elementor-element-e32d457 {
+        padding: 30px 20px 15px
+    }
+    .elementor-17 .elementor-element.elementor-element-0694e75 .elementor-icon-list-item>.elementor-icon-list-text,
+    .elementor-17 .elementor-element.elementor-element-0694e75 .elementor-icon-list-item>a {
+        font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+        line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+        word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-9be037a>.elementor-widget-container {
+        margin: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-7fe483c {
+        font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+        line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+        word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-7fe483c>.elementor-widget-container {
+        margin: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-f086a42>.elementor-widget-container {
+        margin: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-e005e9c>.elementor-element-populated {
+        padding: 55px 20px 30px
+    }
+    .elementor-17 .elementor-element.elementor-element-6784348 {
+        --spacer-size: 0vh
+    }
+    .elementor-17 .elementor-element.elementor-element-1b9698d {
+        --swiper-slides-to-display: 1;
+        --swiper-pagination-spacing: 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-7adaabe>.elementor-container {
+        min-height: 40vh
+    }
+    .elementor-17 .elementor-element.elementor-element-c5f1b99>.elementor-element-populated {
+        padding: 60px 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-61c1411 .elementor-button {
+        font-size: 16px
+    }
+    .elementor-17 .elementor-element.elementor-element-90e7e75>.elementor-element-populated {
+        border-width: 0 1px 1px;
+        padding: 30px 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-c98bcf3>.elementor-widget-container {
+        margin: 0 0 20px
+    }
+    .elementor-bc-flex-widget .elementor-17 .elementor-element.elementor-element-e83d3fe.elementor-column .elementor-widget-wrap {
+        align-items: center
+    }
+    .elementor-17 .elementor-element.elementor-element-e83d3fe.elementor-column.elementor-element[data-element_type=column]>.elementor-widget-wrap.elementor-element-populated {
+        align-content: center;
+        align-items: center
+    }
+    .elementor-17 .elementor-element.elementor-element-e83d3fe>.elementor-element-populated {
+        border-width: 0 1px 1px;
+        padding: 60px 20px 0
+    }
+    .elementor-17 .elementor-element.elementor-element-a7c0be7>.elementor-element-populated {
+        border-width: 0 1px;
+        padding: 30px 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-0bf4ab4>.elementor-widget-container {
+        margin: 0 0 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-fde7926>.elementor-element-populated {
+        border-width: 1px
+    }
+    .elementor-17 .elementor-element.elementor-element-711d2d3 {
+        text-align: left;
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-fa54661.elementor-column>.elementor-widget-wrap {
+        justify-content: flex-start
+    }
+    .elementor-17 .elementor-element.elementor-element-fa54661>.elementor-element-populated {
+        border-width: 0 1px 1px;
+        padding: 30px 20px 25px
+    }
+    .elementor-17 .elementor-element.elementor-element-a50c39d .elementor-icon-box-wrapper {
+        text-align: left
+    }
+    .elementor-17 .elementor-element.elementor-element-a50c39d>.elementor-widget-container {
+        margin: 0 0 15px;
+        padding: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-a50c39d {
+        width: 100%;
+        max-width: 100%
+    }
+    .elementor-17 .elementor-element.elementor-element-ddddac2 .elementor-icon-box-wrapper {
+        text-align: left
+    }
+    .elementor-17 .elementor-element.elementor-element-ddddac2>.elementor-widget-container {
+        margin: 0 0 15px;
+        padding: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-ddddac2 {
+        width: 100%;
+        max-width: 100%
+    }
+    .elementor-17 .elementor-element.elementor-element-9d70988 .elementor-icon-box-wrapper {
+        text-align: left
+    }
+    .elementor-17 .elementor-element.elementor-element-9d70988 {
+        width: 100%;
+        max-width: 100%
+    }
+    .elementor-17 .elementor-element.elementor-element-16ace44>.elementor-element-populated {
+        padding: 30px 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-f761678 {
+        font-size: var( --e-global-typography-d572226-font-size);
+        line-height: var( --e-global-typography-d572226-line-height);
+        letter-spacing: var( --e-global-typography-d572226-letter-spacing);
+        word-spacing: var( --e-global-typography-d572226-word-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-7df1426 {
+        --spacer-size: 60px
+    }
+    .elementor-17 .elementor-element.elementor-element-01c1d7d>.elementor-container {
+        min-height: 40vh
+    }
+    .elementor-17 .elementor-element.elementor-element-e6d5252>.elementor-element-populated {
+        padding: 30px 20px
+    }
+    .elementor-17 .elementor-element.elementor-element-739ae2e .elementor-icon-list-item>.elementor-icon-list-text,
+    .elementor-17 .elementor-element.elementor-element-739ae2e .elementor-icon-list-item>a {
+        font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+        line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+        word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-82f452f .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing);
+        padding: 25px 15px
+    }
+    .elementor-17 .elementor-element.elementor-element-12ebdee .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing);
+        padding: 25px 15px
+    }
+    .elementor-17 .elementor-element.elementor-element-2f1871a .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing);
+        padding: 25px 15px
+    }
+    .elementor-17 .elementor-element.elementor-element-751c68f>.elementor-element-populated {
+        border-width: 0 1px 1px
+    }
+    .elementor-17 .elementor-element.elementor-element-6b8eaa4 {
+        --spacer-size: 60px
+    }
+    .elementor-17 .elementor-element.elementor-element-013fb6e {
+        margin-top: 0;
+        margin-bottom: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-832328b>.elementor-element-populated {
+        border-width: 0 1px
+    }
+    .elementor-17 .elementor-element.elementor-element-11c5412 {
+        --spacer-size: 60vw
+    }
+    .elementor-17 .elementor-element.elementor-element-cd6492b>.elementor-element-populated {
+        border-width: 0 1px;
+        padding: 30px 20px 0
+    }
+    .elementor-17 .elementor-element.elementor-element-6ca67d6 .elementor-icon-list-item>.elementor-icon-list-text,
+    .elementor-17 .elementor-element.elementor-element-6ca67d6 .elementor-icon-list-item>a {
+        font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+        line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+        word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+    }
+    .elementor-17 .elementor-element.elementor-element-2ed9cb1>.elementor-widget-container {
+        margin: 0
+    }
+    .elementor-17 .elementor-element.elementor-element-2cb500d>.elementor-element-populated {
+        border-width: 0 1px 1px
+    }
+    .elementor-17 .elementor-element.elementor-element-a86c11d {
+        --spacer-size: 60px
+    }
+}

@@ -1,0 +1,133 @@
+@font-face {
+    font-family: theme-icons;
+    src: url(../../../../../../../../uploads/elementor/custom-icons/theme-icons/fonts/theme-icons.eot?98x87p);
+    src: url(../../../../../../../../uploads/elementor/custom-icons/theme-icons/fonts/theme-icons.eot?98x87p#iefix) format('embedded-opentype'), url(../../../../../../../../uploads/elementor/custom-icons/theme-icons/fonts/theme-icons.ttf?98x87p) format('truetype'), url(../../../../../../../../uploads/elementor/custom-icons/theme-icons/fonts/theme-icons.woff?98x87p) format('woff'), url(../../../../../../../../uploads/elementor/custom-icons/theme-icons/fonts/theme-icons.svg?98x87p#theme-icons) format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+[class^=vamtam-theme-],
+[class*=" vamtam-theme-"] {
+    font-family: theme-icons !important;
+    speak: never;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+.vamtam-theme-Leaf:before {
+    content: "\e91b"
+}
+
+.vamtam-theme-cone:before {
+    content: "\e91a"
+}
+
+.vamtam-theme-aloy-material:before {
+    content: "\e914"
+}
+
+.vamtam-theme-hard-hat:before {
+    content: "\e915"
+}
+
+.vamtam-theme-steel-beam:before {
+    content: "\e916"
+}
+
+.vamtam-theme-steel-cubs:before {
+    content: "\e917"
+}
+
+.vamtam-theme-steel-girder:before {
+    content: "\e918"
+}
+
+.vamtam-theme-steel-wall:before {
+    content: "\e919"
+}
+
+.vamtam-theme-download:before {
+    content: "\e913"
+}
+
+.vamtam-theme-bulb:before {
+    content: "\e90f"
+}
+
+.vamtam-theme-dustbin:before {
+    content: "\e910"
+}
+
+.vamtam-theme-light:before {
+    content: "\e911"
+}
+
+.vamtam-theme-steel-part:before {
+    content: "\e912"
+}
+
+.vamtam-theme-Line:before {
+    content: "\e90e"
+}
+
+.vamtam-theme-check:before {
+    content: "\e90d"
+}
+
+.vamtam-theme-arrow-down:before {
+    content: "\e900"
+}
+
+.vamtam-theme-arrow-left:before {
+    content: "\e901"
+}
+
+.vamtam-theme-arrow-right:before {
+    content: "\e902"
+}
+
+.vamtam-theme-close:before {
+    content: "\e903"
+}
+
+.vamtam-theme-menu:before {
+    content: "\e904"
+}
+
+.vamtam-theme-plus:before {
+    content: "\e905"
+}
+
+.vamtam-theme-search:before {
+    content: "\e906"
+}
+
+.vamtam-theme-minus:before {
+    content: "\e907"
+}
+
+.vamtam-theme-Play:before {
+    content: "\e908"
+}
+
+.vamtam-theme-cnc:before {
+    content: "\e909"
+}
+
+.vamtam-theme-Iso:before {
+    content: "\e90a"
+}
+
+.vamtam-theme-mask:before {
+    content: "\e90b"
+}
+
+.vamtam-theme-steel:before {
+    content: "\e90c"
+}

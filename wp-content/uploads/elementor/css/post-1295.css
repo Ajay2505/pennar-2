@@ -1,0 +1,936 @@
+.elementor-1295 .elementor-element.elementor-element-d67a499 .elementor-heading-title {
+    color: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-1295 .elementor-element.elementor-element-d67a499 {
+    padding: 100px 30px 60px
+}
+
+.elementor-1295 .elementor-element.elementor-element-c5d0aff>.elementor-element-populated {
+    padding: 0% 0% 0% 33%
+}
+
+.elementor-1295 .elementor-element.elementor-element-e99f048 {
+    color: var( --e-global-color-vamtam_accent_5);
+    font-size: var( --e-global-typography-7115e92-font-size);
+    font-weight: var( --e-global-typography-7115e92-font-weight);
+    text-transform: var( --e-global-typography-7115e92-text-transform);
+    line-height: var( --e-global-typography-7115e92-line-height);
+    letter-spacing: var( --e-global-typography-7115e92-letter-spacing);
+    word-spacing: var( --e-global-typography-7115e92-word-spacing)
+}
+
+.elementor-1295 .elementor-element.elementor-element-e99f048>.elementor-widget-container {
+    margin: 0 0 -1em
+}
+
+.elementor-1295 .elementor-element.elementor-element-86d20b5 .elementor-field-group {
+    padding-right: calc( 0px/2);
+    padding-left: calc( 0px/2);
+    margin-bottom: 10px
+}
+
+.elementor-1295 .elementor-element.elementor-element-86d20b5 .elementor-form-fields-wrapper {
+    margin-left: calc( -0px/2);
+    margin-right: calc( -0px/2);
+    margin-bottom: -10px
+}
+
+.elementor-1295 .elementor-element.elementor-element-86d20b5 .elementor-field-group.recaptcha_v3-bottomleft,
+.elementor-1295 .elementor-element.elementor-element-86d20b5 .elementor-field-group.recaptcha_v3-bottomright {
+    margin-bottom: 0
+}
+
+body.rtl .elementor-1295 .elementor-element.elementor-element-86d20b5 .elementor-labels-inline .elementor-field-group>label {
+    padding-left: 0
+}
+
+body:not(.rtl) .elementor-1295 .elementor-element.elementor-element-86d20b5 .elementor-labels-inline .elementor-field-group>label {
+    padding-right: 0
+}
+
+body .elementor-1295 .elementor-element.elementor-element-86d20b5 .elementor-labels-above .elementor-field-group>label {
+    padding-bottom: 0
+}
+
+.elementor-1295 .elementor-element.elementor-element-86d20b5 .elementor-field-type-html {
+    padding-bottom: 0
+}
+
+.elementor-1295 .elementor-element.elementor-element-86d20b5 .elementor-field-group .elementor-field,
+.elementor-1295 .elementor-element.elementor-element-86d20b5 .elementor-field-group .elementor-field::placeholder {
+    color: var( --e-global-color-vamtam_accent_5);
+    caret-color: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-1295 .elementor-element.elementor-element-86d20b5 .elementor-field-group:not(.elementor-field-type-upload) .elementor-field:not(.elementor-select-wrapper),
+.elementor-1295 .elementor-element.elementor-element-86d20b5 .elementor-field-group .elementor-select-wrapper select {
+    background-color: #18246c;
+    border-radius: 1px 1px 1px 1px
+}
+
+.elementor-1295 .elementor-element.elementor-element-86d20b5 input:not([type=button]):not([type=submit]),
+.elementor-1295 .elementor-element.elementor-element-86d20b5 textarea,
+.elementor-1295 .elementor-element.elementor-element-86d20b5 .elementor-field-textual {
+    border-style: solid
+}
+
+.elementor-1295 .elementor-element.elementor-element-86d20b5 .elementor-field-group:not(.elementor-field-type-upload) .elementor-field:not(.elementor-select-wrapper),
+.elementor-1295 .elementor-element.elementor-element-86d20b5 .elementor-field-group .elementor-select-wrapper select {
+    border-width: 1px;
+    border-color: var( --e-global-color-vamtam_accent_7)
+}
+
+.elementor-1295 .elementor-element.elementor-element-86d20b5 .elementor-field-group .elementor-select-wrapper::before {
+    color: var( --e-global-color-vamtam_accent_7)
+}
+
+.elementor-1295 .elementor-element.elementor-element-86d20b5 .elementor-button {
+    border-style: solid;
+    border-width: 1px 1px 1px 0;
+    border-radius: 0 0 0 0;
+    padding: 12px
+}
+
+.elementor-1295 .elementor-element.elementor-element-86d20b5 .e-form__buttons__wrapper__button-next {
+    background-color: var( --e-global-color-vamtam_accent_6);
+    color: #fff;
+    border-color: var( --e-global-color-vamtam_accent_7)
+}
+
+@media (pointer: fine){
+.elementor-widget-form.vamtam-has-theme-widget-styles.vamtam-has-btn-bg-hover-anim .elementor-button:is(.e-form__buttons__wrapper__button-next,.elementor-button[type=submit]) {
+    background-image: linear-gradient(to right,var(--vamtam-next-btn-bg-color-hover,var(--vamtam-btn-hover-bg-color)) 50%,#253d97 50%) !important;
+}
+}
+
+.elementor-1295 .elementor-element.elementor-element-86d20b5 .elementor-button[type=submit] {
+    background-color: var( --e-global-color-vamtam_accent_6);
+    color: #fff;
+    border-color: var( --e-global-color-vamtam_accent_7)
+}
+
+.elementor-1295 .elementor-element.elementor-element-86d20b5 {
+    --vamtam-next-btn-bg-color: var( --e-global-color-vamtam_accent_6);
+    --vamtam-prev-btn-bg-color: var( --e-global-color-vamtam_accent_6);
+    --vamtam-next-btn-bg-color-hover: var( --e-global-color-vamtam_accent_1);
+    --vamtam-prev-btn-bg-color-hover: var( --e-global-color-vamtam_accent_1);
+    --e-form-steps-indicators-spacing: 20px;
+    --e-form-steps-indicator-padding: 30px;
+    --e-form-steps-indicator-inactive-secondary-color: #ffffff;
+    --e-form-steps-indicator-active-secondary-color: #ffffff;
+    --e-form-steps-indicator-completed-secondary-color: #ffffff;
+    --e-form-steps-divider-width: 1px;
+    --e-form-steps-divider-gap: 10px
+}
+
+.elementor-1295 .elementor-element.elementor-element-86d20b5 .elementor-button[type=submit] svg * {
+    fill: #fff
+}
+
+.elementor-1295 .elementor-element.elementor-element-86d20b5 .e-form__buttons__wrapper__button-previous {
+    background-color: var( --e-global-color-vamtam_accent_6);
+    color: #fff
+}
+
+.elementor-1295 .elementor-element.elementor-element-86d20b5 .e-form__buttons__wrapper__button-next:hover {
+    background-color: var( --e-global-color-vamtam_accent_1);
+    color: #fff
+}
+
+.elementor-1295 .elementor-element.elementor-element-86d20b5 .elementor-button[type=submit]:hover {
+    background-color: var( --e-global-color-vamtam_accent_1);
+    color: #fff
+}
+
+.elementor-1295 .elementor-element.elementor-element-86d20b5 .elementor-button[type=submit]:hover svg * {
+    fill: #fff
+}
+
+.elementor-1295 .elementor-element.elementor-element-86d20b5 .e-form__buttons__wrapper__button-previous:hover {
+    background-color: var( --e-global-color-vamtam_accent_1);
+    color: #fff
+}
+
+.elementor-1295 .elementor-element.elementor-element-86d20b5 .elementor-message {
+    font-size: var( --e-global-typography-67058b2-font-size);
+    text-transform: var( --e-global-typography-67058b2-text-transform);
+    line-height: var( --e-global-typography-67058b2-line-height);
+    letter-spacing: var( --e-global-typography-67058b2-letter-spacing);
+    word-spacing: var( --e-global-typography-67058b2-word-spacing)
+}
+
+.elementor-1295 .elementor-element.elementor-element-86d20b5 .elementor-message.elementor-message-success {
+    color: #619f39
+}
+
+.elementor-1295 .elementor-element.elementor-element-86d20b5 .elementor-message.elementor-message-danger {
+    color: red
+}
+
+.elementor-1295 .elementor-element.elementor-element-0683ca0>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center
+}
+
+.elementor-1295 .elementor-element.elementor-element-0683ca0 {
+    color: var( --e-global-color-vamtam_accent_5);
+    margin-top: 0;
+    margin-bottom: 65px
+}
+
+.elementor-1295 .elementor-element.elementor-element-0683ca0 a {
+    color: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-1295 .elementor-element.elementor-element-8e7544c>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 25px
+}
+
+.elementor-1295 .elementor-element.elementor-element-8e7544c>.elementor-element-populated {
+    border-style: solid;
+    border-width: 1px 0 1px 1px;
+    border-color: var( --e-global-color-vamtam_accent_8);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 60px
+}
+
+.elementor-1295 .elementor-element.elementor-element-8e7544c>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-1295 .elementor-element.elementor-element-86bc440 {
+    padding: 0
+}
+
+.elementor-1295 .elementor-element.elementor-element-153fb8e .elementor-element-populated a:hover {
+    color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-1295 .elementor-element.elementor-element-936f143 {
+    color: var( --e-global-color-vamtam_accent_5);
+    font-family: var( --e-global-typography-vamtam_h6-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_h6-font-size);
+    font-weight: var( --e-global-typography-vamtam_h6-font-weight);
+    text-transform: var( --e-global-typography-vamtam_h6-text-transform);
+    font-style: var( --e-global-typography-vamtam_h6-font-style);
+    line-height: var( --e-global-typography-vamtam_h6-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+}
+
+.elementor-1295 .elementor-element.elementor-element-936f143>.elementor-widget-container {
+    margin: 0 0 20px
+}
+
+.elementor-1295 .elementor-element.elementor-element-b8a41a0 .elementor-button-icon {
+    font-size: 13px
+}
+
+.elementor-1295 .elementor-element.elementor-element-b8a41a0 .elementor-button .elementor-align-icon-right {
+    margin-left: 20px
+}
+
+.elementor-1295 .elementor-element.elementor-element-b8a41a0 .elementor-button .elementor-align-icon-left {
+    margin-right: 20px
+}
+
+.elementor-1295 .elementor-element.elementor-element-b8a41a0 .elementor-button {
+    fill: var( --e-global-color-vamtam_accent_5);
+    color: var( --e-global-color-vamtam_accent_5);
+    background-color: #02010100;
+    --vamtam-bg-color: #02010100;
+    border-style: none;
+    border-radius: 0 0 0 0;
+    padding: 0
+}
+
+.elementor-1295 .elementor-element.elementor-element-b8a41a0 .elementor-button:hover,
+.elementor-1295 .elementor-element.elementor-element-b8a41a0 .elementor-button:focus {
+    color: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-1295 .elementor-element.elementor-element-b8a41a0 .elementor-button:hover svg,
+.elementor-1295 .elementor-element.elementor-element-b8a41a0 .elementor-button:focus svg {
+    fill: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-1295 .elementor-element.elementor-element-5000089>.elementor-element-populated {
+    border-style: solid;
+    border-width: 1px 0 1px 1px;
+    border-color: var( --e-global-color-vamtam_accent_8);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 60px
+}
+
+.elementor-1295 .elementor-element.elementor-element-5000089>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-1295 .elementor-element.elementor-element-65fb8c5 .elementor-button .elementor-align-icon-right {
+    margin-left: 0
+}
+
+.elementor-1295 .elementor-element.elementor-element-65fb8c5 .elementor-button .elementor-align-icon-left {
+    margin-right: 0
+}
+
+.elementor-1295 .elementor-element.elementor-element-65fb8c5 .elementor-button {
+    font-family: var( --e-global-typography-vamtam_h5-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_h5-font-size);
+    font-weight: var( --e-global-typography-vamtam_h5-font-weight);
+    text-transform: var( --e-global-typography-vamtam_h5-text-transform);
+    font-style: var( --e-global-typography-vamtam_h5-font-style);
+    line-height: var( --e-global-typography-vamtam_h5-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_h5-letter-spacing);
+    fill: var( --e-global-color-vamtam_accent_5);
+    color: var( --e-global-color-vamtam_accent_5);
+    background-color: #02010100;
+    --vamtam-bg-color: #02010100;
+    border-style: none;
+    border-radius: 0 0 0 0;
+    padding: 0
+}
+
+.elementor-1295 .elementor-element.elementor-element-65fb8c5 .elementor-button:hover,
+.elementor-1295 .elementor-element.elementor-element-65fb8c5 .elementor-button:focus {
+    color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-1295 .elementor-element.elementor-element-65fb8c5 .elementor-button:hover svg,
+.elementor-1295 .elementor-element.elementor-element-65fb8c5 .elementor-button:focus svg {
+    fill: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-1295 .elementor-element.elementor-element-9f44803>.elementor-element-populated {
+    border-style: solid;
+    border-width: 1px;
+    border-color: var( --e-global-color-vamtam_accent_8);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 60px
+}
+
+.elementor-1295 .elementor-element.elementor-element-9f44803>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-1295 .elementor-element.elementor-element-950b6ff .elementor-button .elementor-align-icon-right {
+    margin-left: 0
+}
+
+.elementor-1295 .elementor-element.elementor-element-950b6ff .elementor-button .elementor-align-icon-left {
+    margin-right: 0
+}
+
+.elementor-1295 .elementor-element.elementor-element-950b6ff .elementor-button {
+    font-family: var( --e-global-typography-vamtam_h5-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_h5-font-size);
+    font-weight: var( --e-global-typography-vamtam_h5-font-weight);
+    text-transform: var( --e-global-typography-vamtam_h5-text-transform);
+    font-style: var( --e-global-typography-vamtam_h5-font-style);
+    line-height: var( --e-global-typography-vamtam_h5-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_h5-letter-spacing);
+    fill: var( --e-global-color-vamtam_accent_5);
+    color: var( --e-global-color-vamtam_accent_5);
+    background-color: #02010100;
+    --vamtam-bg-color: #02010100;
+    border-style: none;
+    border-radius: 0 0 0 0;
+    padding: 0
+}
+
+.elementor-1295 .elementor-element.elementor-element-950b6ff .elementor-button:hover,
+.elementor-1295 .elementor-element.elementor-element-950b6ff .elementor-button:focus {
+    color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-1295 .elementor-element.elementor-element-950b6ff .elementor-button:hover svg,
+.elementor-1295 .elementor-element.elementor-element-950b6ff .elementor-button:focus svg {
+    fill: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-1295 .elementor-element.elementor-element-27c2a3c .elementor-heading-title {
+    color: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-1295 .elementor-element.elementor-element-27c2a3c {
+    margin-top: 0;
+    margin-bottom: 90px
+}
+
+.elementor-1295 .elementor-element.elementor-element-17c32cd>.elementor-element-populated {
+    padding: 0 15px 0 0
+}
+
+.elementor-1295 .elementor-element.elementor-element-be6287f .elementor-nav-menu .elementor-item {
+    font-size: var( --e-global-typography-67058b2-font-size);
+    text-transform: var( --e-global-typography-67058b2-text-transform);
+    line-height: var( --e-global-typography-67058b2-line-height);
+    letter-spacing: var( --e-global-typography-67058b2-letter-spacing);
+    word-spacing: var( --e-global-typography-67058b2-word-spacing)
+}
+
+.elementor-1295 .elementor-element.elementor-element-be6287f .elementor-nav-menu--main .elementor-item {
+    color: var( --e-global-color-vamtam_accent_7);
+    fill: var( --e-global-color-vamtam_accent_7);
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 8px;
+    padding-bottom: 8px
+}
+
+.elementor-1295 .elementor-element.elementor-element-be6287f {
+    --vamtam-menu-color: var( --e-global-color-vamtam_accent_7);
+    --vamtam-menu-color-hover: var( --e-global-color-vamtam_accent_1);
+    --vamtam-menu-color-active: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-1295 .elementor-element.elementor-element-be6287f .elementor-nav-menu--main .elementor-item:hover,
+.elementor-1295 .elementor-element.elementor-element-be6287f .elementor-nav-menu--main .elementor-item.elementor-item-active,
+.elementor-1295 .elementor-element.elementor-element-be6287f .elementor-nav-menu--main .elementor-item.highlighted,
+.elementor-1295 .elementor-element.elementor-element-be6287f .elementor-nav-menu--main .elementor-item:focus {
+    color: var( --e-global-color-vamtam_accent_1);
+    fill: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-1295 .elementor-element.elementor-element-be6287f .elementor-nav-menu--main .elementor-item.elementor-item-active {
+    color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-1295 .elementor-element.elementor-element-2422c44>.elementor-element-populated {
+    padding: 0 15px
+}
+
+.elementor-1295 .elementor-element.elementor-element-3cf833d .elementor-nav-menu .elementor-item {
+    font-size: var( --e-global-typography-67058b2-font-size);
+    text-transform: var( --e-global-typography-67058b2-text-transform);
+    line-height: var( --e-global-typography-67058b2-line-height);
+    letter-spacing: var( --e-global-typography-67058b2-letter-spacing);
+    word-spacing: var( --e-global-typography-67058b2-word-spacing)
+}
+
+.elementor-1295 .elementor-element.elementor-element-3cf833d .elementor-nav-menu--main .elementor-item {
+    color: var( --e-global-color-vamtam_accent_7);
+    fill: var( --e-global-color-vamtam_accent_7);
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 8px;
+    padding-bottom: 8px
+}
+
+.elementor-1295 .elementor-element.elementor-element-3cf833d {
+    --vamtam-menu-color: var( --e-global-color-vamtam_accent_7);
+    --vamtam-menu-color-hover: var( --e-global-color-vamtam_accent_1);
+    --vamtam-menu-color-active: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-1295 .elementor-element.elementor-element-3cf833d .elementor-nav-menu--main .elementor-item:hover,
+.elementor-1295 .elementor-element.elementor-element-3cf833d .elementor-nav-menu--main .elementor-item.elementor-item-active,
+.elementor-1295 .elementor-element.elementor-element-3cf833d .elementor-nav-menu--main .elementor-item.highlighted,
+.elementor-1295 .elementor-element.elementor-element-3cf833d .elementor-nav-menu--main .elementor-item:focus {
+    color: var( --e-global-color-vamtam_accent_1);
+    fill: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-1295 .elementor-element.elementor-element-3cf833d .elementor-nav-menu--main .elementor-item.elementor-item-active {
+    color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-1295 .elementor-element.elementor-element-55ccd6f>.elementor-element-populated {
+    padding: 0 15px
+}
+
+.elementor-1295 .elementor-element.elementor-element-b8b7dc7 .elementor-nav-menu .elementor-item {
+    font-size: var( --e-global-typography-67058b2-font-size);
+    text-transform: var( --e-global-typography-67058b2-text-transform);
+    line-height: var( --e-global-typography-67058b2-line-height);
+    letter-spacing: var( --e-global-typography-67058b2-letter-spacing);
+    word-spacing: var( --e-global-typography-67058b2-word-spacing)
+}
+
+.elementor-1295 .elementor-element.elementor-element-b8b7dc7 .elementor-nav-menu--main .elementor-item {
+    color: var( --e-global-color-vamtam_accent_7);
+    fill: var( --e-global-color-vamtam_accent_7);
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 8px;
+    padding-bottom: 8px
+}
+
+.elementor-1295 .elementor-element.elementor-element-b8b7dc7 {
+    --vamtam-menu-color: var( --e-global-color-vamtam_accent_7);
+    --vamtam-menu-color-hover: var( --e-global-color-vamtam_accent_1);
+    --vamtam-menu-color-active: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-1295 .elementor-element.elementor-element-b8b7dc7 .elementor-nav-menu--main .elementor-item:hover,
+.elementor-1295 .elementor-element.elementor-element-b8b7dc7 .elementor-nav-menu--main .elementor-item.elementor-item-active,
+.elementor-1295 .elementor-element.elementor-element-b8b7dc7 .elementor-nav-menu--main .elementor-item.highlighted,
+.elementor-1295 .elementor-element.elementor-element-b8b7dc7 .elementor-nav-menu--main .elementor-item:focus {
+    color: var( --e-global-color-vamtam_accent_1);
+    fill: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-1295 .elementor-element.elementor-element-b8b7dc7 .elementor-nav-menu--main .elementor-item.elementor-item-active {
+    color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-1295 .elementor-element.elementor-element-ec1a64d>.elementor-element-populated {
+    padding: 0 0 0 15px
+}
+
+.elementor-1295 .elementor-element.elementor-element-2e25ef5 .elementor-nav-menu .elementor-item {
+    font-size: var( --e-global-typography-67058b2-font-size);
+    text-transform: var( --e-global-typography-67058b2-text-transform);
+    line-height: var( --e-global-typography-67058b2-line-height);
+    letter-spacing: var( --e-global-typography-67058b2-letter-spacing);
+    word-spacing: var( --e-global-typography-67058b2-word-spacing)
+}
+
+.elementor-1295 .elementor-element.elementor-element-2e25ef5 .elementor-nav-menu--main .elementor-item {
+    color: var( --e-global-color-vamtam_accent_7);
+    fill: var( --e-global-color-vamtam_accent_7);
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 8px;
+    padding-bottom: 8px
+}
+
+.elementor-1295 .elementor-element.elementor-element-2e25ef5 {
+    --vamtam-menu-color: var( --e-global-color-vamtam_accent_7);
+    --vamtam-menu-color-hover: var( --e-global-color-vamtam_accent_1);
+    --vamtam-menu-color-active: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-1295 .elementor-element.elementor-element-2e25ef5 .elementor-nav-menu--main .elementor-item:hover,
+.elementor-1295 .elementor-element.elementor-element-2e25ef5 .elementor-nav-menu--main .elementor-item.elementor-item-active,
+.elementor-1295 .elementor-element.elementor-element-2e25ef5 .elementor-nav-menu--main .elementor-item.highlighted,
+.elementor-1295 .elementor-element.elementor-element-2e25ef5 .elementor-nav-menu--main .elementor-item:focus {
+    color: var( --e-global-color-vamtam_accent_1);
+    fill: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-1295 .elementor-element.elementor-element-2e25ef5 .elementor-nav-menu--main .elementor-item.elementor-item-active {
+    color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-1295 .elementor-element.elementor-element-66b2e04 {
+    border-style: solid;
+    border-width: 1px 0 0;
+    border-color: var( --e-global-color-vamtam_accent_8);
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 40px 30px 70px
+}
+
+.elementor-1295 .elementor-element.elementor-element-66b2e04,
+.elementor-1295 .elementor-element.elementor-element-66b2e04>.elementor-background-overlay {
+    border-radius: 0 0 0 0
+}
+
+.elementor-1295 .elementor-element.elementor-element-66b2e04>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-1295 .elementor-element.elementor-element-0fde7a2 .elementor-element-populated a:hover {
+    color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-1295 .elementor-element.elementor-element-1d8070e .elementor-heading-title {
+    color: var( --e-global-color-vamtam_accent_5);
+    font-size: var( --e-global-typography-67058b2-font-size);
+    text-transform: var( --e-global-typography-67058b2-text-transform);
+    line-height: var( --e-global-typography-67058b2-line-height);
+    letter-spacing: var( --e-global-typography-67058b2-letter-spacing);
+    word-spacing: var( --e-global-typography-67058b2-word-spacing)
+}
+
+.elementor-1295 .elementor-element.elementor-element-1d8070e {
+    width: auto;
+    max-width: auto
+}
+
+.elementor-1295 .elementor-element.elementor-element-2bcc938 .elementor-heading-title {
+    color: var( --e-global-color-vamtam_accent_5);
+    font-size: var( --e-global-typography-67058b2-font-size);
+    text-transform: var( --e-global-typography-67058b2-text-transform);
+    line-height: var( --e-global-typography-67058b2-line-height);
+    letter-spacing: var( --e-global-typography-67058b2-letter-spacing);
+    word-spacing: var( --e-global-typography-67058b2-word-spacing)
+}
+
+.elementor-1295 .elementor-element.elementor-element-2bcc938>.elementor-widget-container {
+    margin: 0 20px 0 5px
+}
+
+.elementor-1295 .elementor-element.elementor-element-2bcc938 {
+    width: auto;
+    max-width: auto
+}
+
+.elementor-1295 .elementor-element.elementor-element-e52a31d .elementor-nav-menu .elementor-item {
+    font-size: var( --e-global-typography-67058b2-font-size);
+    text-transform: var( --e-global-typography-67058b2-text-transform);
+    line-height: var( --e-global-typography-67058b2-line-height);
+    letter-spacing: var( --e-global-typography-67058b2-letter-spacing);
+    word-spacing: var( --e-global-typography-67058b2-word-spacing)
+}
+
+.elementor-1295 .elementor-element.elementor-element-e52a31d .elementor-nav-menu--main .elementor-item {
+    color: var( --e-global-color-vamtam_accent_7);
+    fill: var( --e-global-color-vamtam_accent_7);
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0
+}
+
+.elementor-1295 .elementor-element.elementor-element-e52a31d {
+    --vamtam-menu-color: var( --e-global-color-vamtam_accent_7);
+    --vamtam-menu-color-hover: var( --e-global-color-vamtam_accent_1);
+    --vamtam-menu-color-active: var( --e-global-color-vamtam_accent_1);
+    --e-nav-menu-horizontal-menu-item-margin: calc( 20px / 2);
+    width: auto;
+    max-width: auto
+}
+
+.elementor-1295 .elementor-element.elementor-element-e52a31d .elementor-nav-menu--main .elementor-item:hover,
+.elementor-1295 .elementor-element.elementor-element-e52a31d .elementor-nav-menu--main .elementor-item.elementor-item-active,
+.elementor-1295 .elementor-element.elementor-element-e52a31d .elementor-nav-menu--main .elementor-item.highlighted,
+.elementor-1295 .elementor-element.elementor-element-e52a31d .elementor-nav-menu--main .elementor-item:focus {
+    color: var( --e-global-color-vamtam_accent_1);
+    fill: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-1295 .elementor-element.elementor-element-e52a31d .elementor-nav-menu--main .elementor-item.elementor-item-active {
+    color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-1295 .elementor-element.elementor-element-e52a31d .elementor-nav-menu--main:not(.elementor-nav-menu--layout-horizontal) .elementor-nav-menu>li:not(:last-child) {
+    margin-bottom: 20px
+}
+
+.elementor-1295 .elementor-element.elementor-element-cfb259a {
+    --grid-template-columns: repeat(4, auto);
+    --icon-size: 19px;
+    --grid-column-gap: 50px
+}
+
+.elementor-1295 .elementor-element.elementor-element-cfb259a .elementor-widget-container {
+    text-align: right
+}
+
+.elementor-1295 .elementor-element.elementor-element-cfb259a .elementor-social-icon {
+    background-color: #8fd29900;
+    --icon-padding: 0em
+}
+
+.elementor-1295 .elementor-element.elementor-element-cfb259a .elementor-social-icon i {
+    color: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-1295 .elementor-element.elementor-element-cfb259a .elementor-social-icon svg {
+    fill: var( --e-global-color-vamtam_accent_5)
+}
+
+.elementor-1295 .elementor-element.elementor-element-cfb259a .elementor-social-icon:hover i {
+    color: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-1295 .elementor-element.elementor-element-cfb259a .elementor-social-icon:hover svg {
+    fill: var( --e-global-color-vamtam_accent_1)
+}
+
+.elementor-1295 .elementor-element.elementor-element-cfb259a>.elementor-widget-container {
+    margin: 0
+}
+
+.elementor-1295:not(.elementor-motion-effects-element-type-background),
+.elementor-1295>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #18246c;
+}
+
+@media(max-width:1024px) {
+    .elementor-1295 .elementor-element.elementor-element-d67a499 {
+        padding: 85px 30px 40px
+    }
+    .elementor-1295 .elementor-element.elementor-element-93dcad2>.elementor-element-populated {
+        padding: 0 15px 0 0
+    }
+    .elementor-1295 .elementor-element.elementor-element-c5d0aff>.elementor-element-populated {
+        padding: 0 0 0 15px
+    }
+    .elementor-1295 .elementor-element.elementor-element-e99f048 {
+        font-size: var( --e-global-typography-7115e92-font-size);
+        line-height: var( --e-global-typography-7115e92-line-height);
+        letter-spacing: var( --e-global-typography-7115e92-letter-spacing);
+        word-spacing: var( --e-global-typography-7115e92-word-spacing)
+    }
+    .elementor-1295 .elementor-element.elementor-element-86d20b5 .elementor-message {
+        font-size: var( --e-global-typography-67058b2-font-size);
+        line-height: var( --e-global-typography-67058b2-line-height);
+        letter-spacing: var( --e-global-typography-67058b2-letter-spacing);
+        word-spacing: var( --e-global-typography-67058b2-word-spacing)
+    }
+    .elementor-1295 .elementor-element.elementor-element-0683ca0 {
+        margin-top: 0;
+        margin-bottom: 45px
+    }
+    .elementor-1295 .elementor-element.elementor-element-8e7544c>.elementor-element-populated {
+        padding: 30px 20px
+    }
+    .elementor-1295 .elementor-element.elementor-element-936f143 {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-1295 .elementor-element.elementor-element-5000089>.elementor-element-populated {
+        padding: 30px 20px
+    }
+    .elementor-1295 .elementor-element.elementor-element-65fb8c5 .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h5-font-size);
+        line-height: var( --e-global-typography-vamtam_h5-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h5-letter-spacing)
+    }
+    .elementor-1295 .elementor-element.elementor-element-9f44803>.elementor-element-populated {
+        padding: 30px 20px
+    }
+    .elementor-1295 .elementor-element.elementor-element-950b6ff .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h5-font-size);
+        line-height: var( --e-global-typography-vamtam_h5-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h5-letter-spacing)
+    }
+    .elementor-1295 .elementor-element.elementor-element-27c2a3c {
+        margin-top: 0;
+        margin-bottom: 60px
+    }
+    .elementor-1295 .elementor-element.elementor-element-be6287f .elementor-nav-menu .elementor-item {
+        font-size: var( --e-global-typography-67058b2-font-size);
+        line-height: var( --e-global-typography-67058b2-line-height);
+        letter-spacing: var( --e-global-typography-67058b2-letter-spacing);
+        word-spacing: var( --e-global-typography-67058b2-word-spacing)
+    }
+    .elementor-1295 .elementor-element.elementor-element-3cf833d .elementor-nav-menu .elementor-item {
+        font-size: var( --e-global-typography-67058b2-font-size);
+        line-height: var( --e-global-typography-67058b2-line-height);
+        letter-spacing: var( --e-global-typography-67058b2-letter-spacing);
+        word-spacing: var( --e-global-typography-67058b2-word-spacing)
+    }
+    .elementor-1295 .elementor-element.elementor-element-b8b7dc7 .elementor-nav-menu .elementor-item {
+        font-size: var( --e-global-typography-67058b2-font-size);
+        line-height: var( --e-global-typography-67058b2-line-height);
+        letter-spacing: var( --e-global-typography-67058b2-letter-spacing);
+        word-spacing: var( --e-global-typography-67058b2-word-spacing)
+    }
+    .elementor-1295 .elementor-element.elementor-element-2e25ef5 .elementor-nav-menu .elementor-item {
+        font-size: var( --e-global-typography-67058b2-font-size);
+        line-height: var( --e-global-typography-67058b2-line-height);
+        letter-spacing: var( --e-global-typography-67058b2-letter-spacing);
+        word-spacing: var( --e-global-typography-67058b2-word-spacing)
+    }
+    .elementor-1295 .elementor-element.elementor-element-66b2e04 {
+        padding: 30px 30px 60px
+    }
+    .elementor-1295 .elementor-element.elementor-element-1d8070e .elementor-heading-title {
+        font-size: var( --e-global-typography-67058b2-font-size);
+        line-height: var( --e-global-typography-67058b2-line-height);
+        letter-spacing: var( --e-global-typography-67058b2-letter-spacing);
+        word-spacing: var( --e-global-typography-67058b2-word-spacing)
+    }
+    .elementor-1295 .elementor-element.elementor-element-2bcc938 .elementor-heading-title {
+        font-size: var( --e-global-typography-67058b2-font-size);
+        line-height: var( --e-global-typography-67058b2-line-height);
+        letter-spacing: var( --e-global-typography-67058b2-letter-spacing);
+        word-spacing: var( --e-global-typography-67058b2-word-spacing)
+    }
+    .elementor-1295 .elementor-element.elementor-element-e52a31d .elementor-nav-menu .elementor-item {
+        font-size: var( --e-global-typography-67058b2-font-size);
+        line-height: var( --e-global-typography-67058b2-line-height);
+        letter-spacing: var( --e-global-typography-67058b2-letter-spacing);
+        word-spacing: var( --e-global-typography-67058b2-word-spacing)
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-1295 .elementor-element.elementor-element-d67a499 {
+        padding: 55px 20px 30px
+    }
+    .elementor-1295 .elementor-element.elementor-element-5057f8c>.elementor-widget-container {
+        margin: 0 0 20px
+    }
+    .elementor-1295 .elementor-element.elementor-element-c5d0aff>.elementor-element-populated {
+        padding: 0
+    }
+    .elementor-1295 .elementor-element.elementor-element-e99f048 {
+        font-size: var( --e-global-typography-7115e92-font-size);
+        line-height: var( --e-global-typography-7115e92-line-height);
+        letter-spacing: var( --e-global-typography-7115e92-letter-spacing);
+        word-spacing: var( --e-global-typography-7115e92-word-spacing)
+    }
+    .elementor-1295 .elementor-element.elementor-element-86d20b5 .elementor-field-group:not(.elementor-field-type-upload) .elementor-field:not(.elementor-select-wrapper),
+    .elementor-1295 .elementor-element.elementor-element-86d20b5 .elementor-field-group .elementor-select-wrapper select {
+        border-width: 1px
+    }
+    .elementor-1295 .elementor-element.elementor-element-86d20b5 .elementor-button {
+        border-width: 1px
+    }
+    .elementor-1295 .elementor-element.elementor-element-86d20b5 .elementor-message {
+        font-size: var( --e-global-typography-67058b2-font-size);
+        line-height: var( --e-global-typography-67058b2-line-height);
+        letter-spacing: var( --e-global-typography-67058b2-letter-spacing);
+        word-spacing: var( --e-global-typography-67058b2-word-spacing)
+    }
+    .elementor-1295 .elementor-element.elementor-element-8e7544c>.elementor-element-populated {
+        border-width: 1px;
+        padding: 25px 20px
+    }
+    .elementor-1295 .elementor-element.elementor-element-936f143 {
+        font-size: var( --e-global-typography-vamtam_h6-font-size);
+        line-height: var( --e-global-typography-vamtam_h6-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h6-letter-spacing)
+    }
+    .elementor-1295 .elementor-element.elementor-element-5000089>.elementor-element-populated {
+        border-width: 0 1px 1px;
+        padding: 25px 20px
+    }
+    .elementor-1295 .elementor-element.elementor-element-65fb8c5 .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h5-font-size);
+        line-height: var( --e-global-typography-vamtam_h5-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h5-letter-spacing)
+    }
+    .elementor-1295 .elementor-element.elementor-element-9f44803>.elementor-element-populated {
+        border-width: 0 1px 1px;
+        padding: 25px 20px
+    }
+    .elementor-1295 .elementor-element.elementor-element-950b6ff .elementor-button {
+        font-size: var( --e-global-typography-vamtam_h5-font-size);
+        line-height: var( --e-global-typography-vamtam_h5-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_h5-letter-spacing)
+    }
+    .elementor-1295 .elementor-element.elementor-element-27c2a3c {
+        margin-top: 0;
+        margin-bottom: 50px
+    }
+    .elementor-1295 .elementor-element.elementor-element-17c32cd {
+        width: 50%
+    }
+    .elementor-1295 .elementor-element.elementor-element-17c32cd>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+        margin-bottom: 10px
+    }
+    .elementor-1295 .elementor-element.elementor-element-17c32cd>.elementor-element-populated {
+        margin: 0 0 30px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+        padding: 0 10px 0 0
+    }
+    .elementor-1295 .elementor-element.elementor-element-be6287f .elementor-nav-menu .elementor-item {
+        font-size: var( --e-global-typography-67058b2-font-size);
+        line-height: var( --e-global-typography-67058b2-line-height);
+        letter-spacing: var( --e-global-typography-67058b2-letter-spacing);
+        word-spacing: var( --e-global-typography-67058b2-word-spacing)
+    }
+    .elementor-1295 .elementor-element.elementor-element-be6287f .elementor-nav-menu--main .elementor-item {
+        padding-top: 6px;
+        padding-bottom: 6px
+    }
+    .elementor-1295 .elementor-element.elementor-element-2422c44 {
+        width: 50%
+    }
+    .elementor-1295 .elementor-element.elementor-element-2422c44>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+        margin-bottom: 10px
+    }
+    .elementor-1295 .elementor-element.elementor-element-2422c44>.elementor-element-populated {
+        margin: 0 0 30px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+        padding: 0 0 0 10px
+    }
+    .elementor-1295 .elementor-element.elementor-element-3cf833d .elementor-nav-menu .elementor-item {
+        font-size: var( --e-global-typography-67058b2-font-size);
+        line-height: var( --e-global-typography-67058b2-line-height);
+        letter-spacing: var( --e-global-typography-67058b2-letter-spacing);
+        word-spacing: var( --e-global-typography-67058b2-word-spacing)
+    }
+    .elementor-1295 .elementor-element.elementor-element-3cf833d .elementor-nav-menu--main .elementor-item {
+        padding-top: 6px;
+        padding-bottom: 6px
+    }
+    .elementor-1295 .elementor-element.elementor-element-55ccd6f {
+        width: 50%
+    }
+    .elementor-1295 .elementor-element.elementor-element-55ccd6f>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+        margin-bottom: 10px
+    }
+    .elementor-1295 .elementor-element.elementor-element-55ccd6f>.elementor-element-populated {
+        margin: 0;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+        padding: 0 10px 0 0
+    }
+    .elementor-1295 .elementor-element.elementor-element-b8b7dc7 .elementor-nav-menu .elementor-item {
+        font-size: var( --e-global-typography-67058b2-font-size);
+        line-height: var( --e-global-typography-67058b2-line-height);
+        letter-spacing: var( --e-global-typography-67058b2-letter-spacing);
+        word-spacing: var( --e-global-typography-67058b2-word-spacing)
+    }
+    .elementor-1295 .elementor-element.elementor-element-b8b7dc7 .elementor-nav-menu--main .elementor-item {
+        padding-top: 6px;
+        padding-bottom: 6px
+    }
+    .elementor-1295 .elementor-element.elementor-element-ec1a64d {
+        width: 50%
+    }
+    .elementor-1295 .elementor-element.elementor-element-ec1a64d>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+        margin-bottom: 10px
+    }
+    .elementor-1295 .elementor-element.elementor-element-ec1a64d>.elementor-element-populated {
+        padding: 0 0 0 10px
+    }
+    .elementor-1295 .elementor-element.elementor-element-2e25ef5 .elementor-nav-menu .elementor-item {
+        font-size: var( --e-global-typography-67058b2-font-size);
+        line-height: var( --e-global-typography-67058b2-line-height);
+        letter-spacing: var( --e-global-typography-67058b2-letter-spacing);
+        word-spacing: var( --e-global-typography-67058b2-word-spacing)
+    }
+    .elementor-1295 .elementor-element.elementor-element-2e25ef5 .elementor-nav-menu--main .elementor-item {
+        padding-top: 6px;
+        padding-bottom: 6px
+    }
+    .elementor-1295 .elementor-element.elementor-element-66b2e04 {
+        padding: 30px 20px 40px
+    }
+    .elementor-1295 .elementor-element.elementor-element-1d8070e .elementor-heading-title {
+        font-size: var( --e-global-typography-67058b2-font-size);
+        line-height: var( --e-global-typography-67058b2-line-height);
+        letter-spacing: var( --e-global-typography-67058b2-letter-spacing);
+        word-spacing: var( --e-global-typography-67058b2-word-spacing)
+    }
+    .elementor-1295 .elementor-element.elementor-element-2bcc938 .elementor-heading-title {
+        font-size: var( --e-global-typography-67058b2-font-size);
+        line-height: var( --e-global-typography-67058b2-line-height);
+        letter-spacing: var( --e-global-typography-67058b2-letter-spacing);
+        word-spacing: var( --e-global-typography-67058b2-word-spacing)
+    }
+    .elementor-1295 .elementor-element.elementor-element-2bcc938>.elementor-widget-container {
+        margin: 0 5px 15px
+    }
+    .elementor-1295 .elementor-element.elementor-element-e52a31d .elementor-nav-menu .elementor-item {
+        font-size: var( --e-global-typography-67058b2-font-size);
+        line-height: var( --e-global-typography-67058b2-line-height);
+        letter-spacing: var( --e-global-typography-67058b2-letter-spacing);
+        word-spacing: var( --e-global-typography-67058b2-word-spacing)
+    }
+    .elementor-1295 .elementor-element.elementor-element-e52a31d {
+        width: 100%;
+        max-width: 100%
+    }
+    .elementor-1295 .elementor-element.elementor-element-95570d8>.elementor-element-populated {
+        margin: 0 0 20px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px
+    }
+    .elementor-1295 .elementor-element.elementor-element-cfb259a .elementor-widget-container {
+        text-align: left
+    }
+    .elementor-1295 .elementor-element.elementor-element-cfb259a {
+        --grid-column-gap: 30px
+    }
+}

@@ -1,0 +1,152 @@
+.elementor-521 .elementor-element.elementor-element-91b1a82 {
+    overflow: hidden;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0
+}
+
+.elementor-521 .elementor-element.elementor-element-362c2e4>.elementor-container {
+    min-height: 245px
+}
+
+.elementor-521 .elementor-element.elementor-element-362c2e4>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: space-between;
+    align-items: space-between
+}
+
+.elementor-521 .elementor-element.elementor-element-362c2e4 {
+    margin-top: 0;
+    margin-bottom: 40px
+}
+
+.elementor-521 .elementor-element.elementor-element-800bca6>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 30px
+}
+
+.elementor-521 .elementor-element.elementor-element-800bca6>.elementor-element-populated {
+    padding: 0% 33% 0% 0%
+}
+
+.elementor-521 .elementor-element.elementor-element-5b8273d .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+    padding-bottom: calc(0px/2)
+}
+
+.elementor-521 .elementor-element.elementor-element-5b8273d .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+    margin-top: calc(0px/2)
+}
+
+.elementor-521 .elementor-element.elementor-element-5b8273d .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+    margin-right: calc(0px/2);
+    margin-left: calc(0px/2)
+}
+
+.elementor-521 .elementor-element.elementor-element-5b8273d .elementor-icon-list-items.elementor-inline-items {
+    margin-right: calc(-0px/2);
+    margin-left: calc(-0px/2)
+}
+
+body.rtl .elementor-521 .elementor-element.elementor-element-5b8273d .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    left: calc(-0px/2)
+}
+
+body:not(.rtl) .elementor-521 .elementor-element.elementor-element-5b8273d .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    right: calc(-0px/2)
+}
+
+.elementor-521 .elementor-element.elementor-element-5b8273d .elementor-icon-list-icon i {
+    color: var( --e-global-color-vamtam_accent_1);
+    transition: color .3s
+}
+
+.elementor-521 .elementor-element.elementor-element-5b8273d .elementor-icon-list-icon svg {
+    fill: var( --e-global-color-vamtam_accent_1);
+    transition: fill .3s
+}
+
+.elementor-521 .elementor-element.elementor-element-5b8273d {
+    --e-icon-list-icon-size: 13px;
+    --e-icon-list-icon-align: right;
+    --e-icon-list-icon-margin: 0 0 0 calc(var(--e-icon-list-icon-size, 1em) * 0.25);
+    --icon-vertical-align: flex-start;
+    --icon-vertical-offset: 4.5px
+}
+
+.elementor-521 .elementor-element.elementor-element-5b8273d .elementor-icon-list-icon {
+    padding-right: 0
+}
+
+.elementor-521 .elementor-element.elementor-element-5b8273d .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-521 .elementor-element.elementor-element-5b8273d .elementor-icon-list-item>a {
+    font-family: var( --e-global-typography-vamtam_primary_font-font-family), Sans-serif;
+    font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+    font-weight: var( --e-global-typography-vamtam_primary_font-font-weight);
+    text-transform: var( --e-global-typography-vamtam_primary_font-text-transform);
+    font-style: var( --e-global-typography-vamtam_primary_font-font-style);
+    line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+    letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+    word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+}
+
+.elementor-521 .elementor-element.elementor-element-5b8273d .elementor-icon-list-text {
+    color: var( --e-global-color-vamtam_accent_3);
+    transition: color .3s
+}
+
+.elementor-521 .elementor-element.elementor-element-5b8273d>.elementor-widget-container {
+    margin: 0 0 0 -13px;
+    padding: 0
+}
+
+.elementor-521 .elementor-element.elementor-element-264f40c .elementor-button-icon {
+    font-size: 13px
+}
+
+.elementor-521 .elementor-element.elementor-element-264f40c .elementor-button .elementor-align-icon-right {
+    margin-left: 0
+}
+
+.elementor-521 .elementor-element.elementor-element-264f40c .elementor-button .elementor-align-icon-left {
+    margin-right: 0
+}
+
+.elementor-521 .elementor-element.elementor-element-264f40c .elementor-button {
+    fill: var( --e-global-color-vamtam_accent_5);
+    color: var( --e-global-color-vamtam_accent_5);
+    background-color: var( --e-global-color-vamtam_accent_1);
+    --vamtam-bg-color: var( --e-global-color-vamtam_accent_1);
+    padding: 23px 23px 23px 55px
+}
+
+@media(max-width:1024px) {
+    .elementor-521 .elementor-element.elementor-element-362c2e4>.elementor-container {
+        min-height: 170px
+    }
+    .elementor-521 .elementor-element.elementor-element-362c2e4 {
+        margin-top: 0;
+        margin-bottom: 30px;
+        padding: 0 20px
+    }
+    .elementor-521 .elementor-element.elementor-element-800bca6>.elementor-element-populated {
+        padding: 0%
+    }
+    .elementor-521 .elementor-element.elementor-element-5b8273d .elementor-icon-list-item>.elementor-icon-list-text,
+    .elementor-521 .elementor-element.elementor-element-5b8273d .elementor-icon-list-item>a {
+        font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+        line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+        word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+    }
+    .elementor-521 .elementor-element.elementor-element-264f40c .elementor-button {
+        padding: 20px 20px 20px 50px
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-521 .elementor-element.elementor-element-5b8273d .elementor-icon-list-item>.elementor-icon-list-text,
+    .elementor-521 .elementor-element.elementor-element-5b8273d .elementor-icon-list-item>a {
+        font-size: var( --e-global-typography-vamtam_primary_font-font-size);
+        line-height: var( --e-global-typography-vamtam_primary_font-line-height);
+        letter-spacing: var( --e-global-typography-vamtam_primary_font-letter-spacing);
+        word-spacing: var( --e-global-typography-vamtam_primary_font-word-spacing)
+    }
+}
