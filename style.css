@@ -1391,3 +1391,61 @@ body .bg_blue {
     place-items: center;
     border-radius: 50%;
 }
+
+#footer {
+    color: #fff;
+    background: var(--e-global-color-vamtam_accent_1);
+}
+
+#footer .footer-widget {
+    color: #fff;
+    padding: 50px 0;
+    /* background-color: var(--e-global-color-vamtam_accent_1); */
+}
+
+#footer .footer-widget h4,
+#footer ul li a,
+#footer .footer-widget h4 a {
+    color: #fff;
+}
+
+#footer .footer-widget h4,
+#footer .footer-widget h4 a {
+    font-size: 25px;
+}
+
+#footer ul li {
+    padding-bottom: 7px;
+}
+
+#footer ul li a {
+    font-weight: 500;
+}
+
+#footer ul {
+    list-style: none;
+    padding-inline-start: 0;
+}
+
+.f-logo img {
+    max-width: 200px;
+}
+
+.f-social ul li a {
+    border: 1px solid #fff;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    padding: 8px;
+}
+
+.footer-copyright {
+    display: flex;
+    padding: 20px 0;
+    align-content: center;
+    align-items: center;
+}
+
+.bg_wrapper {
+    background-color: #18246c;
+}
