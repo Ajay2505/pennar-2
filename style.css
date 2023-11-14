@@ -1110,3 +1110,284 @@ body .is-layout-grid>* {
 .elementor-1295 .elementor-element.elementor-element-5000089>.elementor-element-populated {
     padding: 30px;
 }
+
+.w-full {
+    width: 100%;
+}
+
+.h-full {
+    height: 100%;
+}
+
+.text_wrapper {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.text_wrapper > * {
+    transform: translateY(100%);
+    transform-origin: top;
+    transition: transform .4s ease-in-out;
+}
+
+.main_swiper_css .swiper-slide {
+    width: 100%;
+    height: 100vh;
+    color: #fff;
+}
+
+.main_swiper_css .swiper-slide h1 {
+    color: #fff;
+}
+
+.main_swiper_css .btns_wrapper {
+    position: absolute;
+    left: initial;
+    top: initial;
+    right: 70px;
+    bottom: 120px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.main_swiper_css .swiper-button-next,
+.main_swiper_css .swiper-button-prev  {
+    position: relative;
+    left: auto;
+    right: auto;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background-color: #fff;
+    color: #000;
+    transition: transform .2s ease-in-out;
+}
+
+.main_swiper_css .swiper-button-next:hover,
+.main_swiper_css .swiper-button-prev:hover {
+    transform: scale(1.05);
+}
+
+.main_swiper_css .swiper-button-prev svg {
+    transform: rotate(180deg);
+}
+
+.swiper-button-next svg, .swiper-button-prev svg {
+    width: auto;
+    height: auto;
+}
+
+.main_swiper_css .swiper-button-next::after,
+.main_swiper_css .swiper-button-prev::after {
+    content: none;
+}
+
+.main_swiper_css .swiper-slide .img_wrapper {
+    position: relative;
+}
+
+.main_swiper_css .swiper-slide .img_wrapper::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.main_swiper_css .swiper-slide .img_wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.main_swiper_css .swiper-slide .content_wrapper .container-fluid {
+    opacity: 0;
+    bottom: 100px;
+    transition: opacity .4s ease-in-out;
+}
+
+.main_swiper_css .swiper-slide .content_wrapper .container-fluid hr {
+    border: none;
+    width: 100%;
+    opacity: .4;
+    border-top: 1px solid #fff;
+}
+
+.main_swiper_css .swiper-slide .content_wrapper .container-fluid .dot {
+    display: flex;
+    align-items: start;
+    gap: 0 7px;
+    position: relative;
+}
+
+.main_swiper_css .swiper-slide .content_wrapper .container-fluid .dot::before {
+    content: "";
+    width: 10px;
+    height: 10px;
+    margin-top: 6px;
+    border-radius: 100%;
+    flex-shrink: 0;
+    background-color: #fff;
+}
+
+.main_swiper_css .swiper-slide .content_wrapper .container-fluid button {
+    padding: 10px 30px;
+    border-radius: 24px;
+    position: relative;
+    width: fit-content; 
+    color: #fff;
+    background-color: var( --e-global-color-vamtam_accent_1);
+}
+
+.main_swiper_css .swiper-slide.swiper-slide-active .content_wrapper .container-fluid .text_wrapper > *,
+.main_swiper_css .swiper-slide.swiper-slide-duplicate-active .content_wrapper .container-fluid .text_wrapper > * {
+    transform: translateY(0);
+    transition: transform .4s ease-in-out .5s;
+}
+
+.main_swiper_css .swiper-slide.swiper-slide-active .content_wrapper .container-fluid,
+.main_swiper_css .swiper-slide.swiper-slide-duplicate-active .content_wrapper .container-fluid {
+    opacity: 1;
+    transition: opacity .4s ease-in-out .5s;
+}
+
+
+.hoverTextRepeater, .hoverBgBtn {
+    overflow: hidden;
+    position: relative;
+    color: #fff;
+    padding: 10px 30px;
+    border-radius: 24px;
+    background-color: var( --e-global-color-vamtam_accent_1);
+}
+
+.hoverBgBtn.black {
+    color: #fff;
+}
+
+.hoverTextRepeater > *:first-child,
+.hoverBgBtn > *:first-child {
+    display: inline-block;
+    transition: transform .3s ease-in-out, opacity .3s ease-in-out;
+}
+
+.hoverTextRepeater:hover > *:first-child,
+.hoverBgBtn:hover > *:first-child {
+    transform: translateY(-15px);
+    opacity: 0;
+}
+
+.hoverTextRepeater > *:last-child {
+    position: absolute;
+    top: 40px;
+    left: 0;
+    right: 0;
+    opacity: 0;
+    transition: top .3s ease-in-out, opacity .3s ease-in-out;
+}
+
+.hoverTextRepeater:hover > *:last-child {
+    top: 10px;
+    opacity: 1;
+}
+
+.accordion-header {
+    margin-top: 0;
+}
+
+.accordion-item {
+    border-top: 1px solid #d5d8dc;
+}
+
+.accordion-flush .accordion-item .accordion-body {
+    background-color: #191817;
+    color: #fff;
+}
+
+.accordion-flush .accordion-item .accordion-header button:focus {
+    box-shadow: none;
+    background-color: #191817;
+}
+
+.accordion-button {
+    display: flex;
+    gap: 0 10px;
+    justify-content: space-between;
+}
+
+.accordion-button::after {
+    content: none;
+}
+
+.accordion-button .plus_wrapper {
+    width: 10px;
+    height: 10px;
+    display: grid;
+    place-items: center;
+    position: relative;
+    flex-shrink: 0;
+    /* background-color: #fff; */
+}
+
+.accordion-button .plus_wrapper::before,
+.accordion-button .plus_wrapper::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background-color: #fff;
+    transition: transform .3s ease-in;
+}
+
+.accordion-button .plus_wrapper::after {
+    transform: rotate(-90deg);
+}
+
+
+.accordion-button:not(.collapsed) .plus_wrapper::after {
+    transform: rotate(0);
+}
+
+
+.accordion-button:not(.collapsed) {
+    background-color: #191817;
+    color: #fff;
+    border-bottom: none;
+    box-shadow: none;
+}
+
+.accordion-flush .accordion-item .accordion-header button:hover {
+    background-color: #191817;
+}
+
+.accordion-flush .accordion-item:first-child {
+    border-top: 1px solid #d5d8dc;
+}
+
+.accordion-flush .accordion-item:last-child {
+    border-bottom: 1px solid #d5d8dc;
+}
+
+.accordion-item .accordion-button:focus {
+    border: none;
+    box-shadow: none;
+}
+
+body .blue_color {
+    color: var(--e-global-color-vamtam_accent_1);
+}
+
+body .bg_blue {
+    background-color: var(--e-global-color-vamtam_accent_1);
+}
+
+.sidebar .img_wrapper {
+    width: 70px;
+    height: 70px;
+    display: grid;
+    place-items: center;
+    border-radius: 50%;
+}
