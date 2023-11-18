@@ -1469,7 +1469,7 @@ body .bg_blue {
 }
 
 .invBox {
-    border: 2px solid var(--e-global-color-vamtam_accent_1);
+    /* border: 2px solid var(--e-global-color-vamtam_accent_1); */
     padding: 20px;
     border-radius: 12px;
 }
