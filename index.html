@@ -2680,9 +2680,29 @@ Pennar Industries’ FY2023 Consolidated Net Revenue Report is Out</span>
                                                     </div>
                                                 </div> -->
                                                 <div class="elementor-element d-flex justify-content-center  elementor-element-aa39284 elementor-widget elementor-widget-heading" data-id="aa39284" data-element_type="widget" data-widget_type="heading.default">
-                                                    
-                                                    <div class="img_wrapper client_imgs">
-                                                        <img src="https://www.pennarindia.com/devtest/img/clients/1.png" alt="">
+                                                    <div class="swiper clientImgs">
+                                                        <div class="swiper-wrapper">
+                                                            <div class="swiper-slide d-flex justify-content-center">
+                                                                <div class="img_wrapper client_imgs">
+                                                                    <img src="https://www.pennarindia.com/devtest/img/clients/1.png" alt="">
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide d-flex justify-content-center">
+                                                                <div class="img_wrapper client_imgs">
+                                                                    <img src="https://www.pennarindia.com/devtest/img/clients/2.png" alt="">
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide d-flex justify-content-center">
+                                                                <div class="img_wrapper client_imgs">
+                                                                    <img src="https://www.pennarindia.com/devtest/img/clients/3.png" alt="">
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide d-flex justify-content-center">
+                                                                <div class="img_wrapper client_imgs">
+                                                                    <img src="https://www.pennarindia.com/devtest/img/clients/4.png" alt="">
+                                                                </div>
+                                                            </div>
+                                                        </div>
                                                     </div>
                                                     <!-- <div class="elementor-widget-container">
                                                         <h5 class="elementor-heading-title elementor-size-default">Investors</h5>
@@ -5480,6 +5500,22 @@ $ 20.46 </span>
       },
       loop: true,
       speed: 1000,
+      effect: 'easeIn',
+      allowTouchMove: false
+  });
+  
+  const clientImgs = new Swiper(".clientImgs", {
+    //   navigation: {
+    //     nextEl: ".swiper-button-next",
+    //     prevEl: ".swiper-button-prev",
+    //   },
+      loop: true,
+      speed: 1000,
+      slidesPerView: 1,
+      autoplay: {
+        delay: 2000,
+        disableOnInteraction: false,
+    },
       effect: 'easeIn',
       allowTouchMove: false
   });
