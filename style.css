@@ -1449,3 +1449,27 @@ body .bg_blue {
 .bg_wrapper {
     background-color: #18246c;
 }
+
+.lastChildMargin_0 p {
+    margin: 0;
+    margin-bottom: 7px;
+}
+
+.lastChildMargin_0 p:last-child {
+    margin: 0;
+    margin-bottom: .25rem;
+}
+
+.fs-xs {
+    font-size: 14px !important;
+}
+
+.client_imgs {
+    max-width: 170px;
+}
+
+.invBox {
+    border: 2px solid var(--e-global-color-vamtam_accent_1);
+    padding: 20px;
+    border-radius: 12px;
+}
