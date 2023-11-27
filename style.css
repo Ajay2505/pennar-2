@@ -1473,3 +1473,11 @@ body .bg_blue {
     padding: 20px;
     border-radius: 12px;
 }
+
+.flex-grow-1 {
+    flex-grow: 1;
+}
+
+.clippySwiper .swiper-slide {
+    /* border-right: 1px solid red; */
+}
