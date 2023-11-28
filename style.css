@@ -1478,6 +1478,180 @@ body .bg_blue {
     flex-grow: 1;
 }
 
-.clippySwiper .swiper-slide {
-    /* border-right: 1px solid red; */
+.map-point {
+    outline: none;
+    z-index: 1;
+    position: absolute;
+    opacity: 1;
+    width: 4px;
+    height: 4px;
+    text-align: center;
+    border-radius: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    /* animation: appear 0.3s ease 0.2s 1 normal forwards; */
+    transition: opacity 0.25s ease-in-out 0.25s, width 0.25s ease-in-out 0.25s, height 0.25s ease-in-out 0.25s, z-index 0.25s ease-in-out 0.25s;
+}
+
+.map-point::before,
+.map-point::after {
+    content: "";
+    position: absolute;
+    width: 4px;
+    height: 4px;
+    background-color: #253d97;
+    border-radius: 50%;
+    top: calc(50% - 4px);
+    left: calc(50% - 4px);
+    z-index: 0;
+}
+
+.map-point::before {
+    animation: blip1 2s infinite;
+}
+
+@keyframes blip1 {
+    100% {
+        transform: scale(6);
+        opacity: 0;
+    }
+}
+
+.map-point.marker-0 {
+    top: 29.4%;
+    left: 16.7%;
+}
+
+.map-point.marker-1 {
+    top: 31%;
+    left: 22.8%;
+}
+
+.map-point.marker-2 {
+    top: 46%;
+    left: 17.6%;
+}
+
+.map-point.marker-4 {
+    top: 32.9%;
+    left: 49.2%;
+}
+
+.map-point.marker-6 {
+    top: 48%;
+    left: 74%;
+}
+
+.map-point.marker-7 {
+    top: 50%;
+    left: 73%;
+}
+
+.map-point.marker-8 {
+    top: 51.2%;
+    left: 72.5%;
+}
+
+.map-point.marker-9 {
+    top: 52.1%;
+    left: 72%;
+}
+
+.map-point.marker-10 {
+    top: 53.1%;
+    left: 71.8%;
+}
+
+.map-point.marker-11 {
+    top: 53.9%;
+    left: 71.5%;
+}
+
+.map-point.marker-12 {
+    top: 55%;
+    left: 71.4%;
+}
+
+.map-point.marker-13 {
+    top: 55.5%;
+    left: 71.2%;
+}
+
+.map-point.marker-14 {
+    top: 56%;
+    left: 70.8%;
+}
+
+.map-point.marker-15 {
+    top: 55.5%;
+    left: 70.4%;
+}
+
+.map-point.marker-16 {
+    top: 54%;
+    left: 70.9%;
+}
+
+.map-point.marker-17 {
+    top: 55%;
+    left: 70.8%;
+}
+
+.map-point.marker-18 {
+    top: 53.8%;
+    left: 69.8%;
+}
+
+.map-point.marker-19 {
+    top: 53%;
+    left: 69.4%;
+}
+
+.map-point.marker-20 {
+    top: 52.5%;
+    left: 69.2%;
+}
+
+.map-point.marker-21 {
+    top: 51%;
+    left: 69.5%;
+}
+
+.map-point.marker-22 {
+    top: 51.7%;
+    left: 69.4%;
+}
+
+.map-point.marker-23 {
+    top: 55%;
+    left: 70%;
+}
+
+.map-point.marker-24 {
+    top: 49.8%;
+    left: 69.9%;
+}
+
+.map-point.marker-25 {
+    top: 49.7%;
+    left: 70.4%;
+}
+
+.map-point.marker-26 {
+    top: 49%;
+    left: 71%;
+}
+
+.map-point.marker-27 {
+    top: 50%;
+    left: 69.2%;
+}
+
+
+#stopScale .elementor-motion-effects-container {
+    display: none !important;
+}
+
+#stopScale .contact_us {
+    position: absolute;
 }
