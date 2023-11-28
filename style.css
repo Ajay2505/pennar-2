@@ -1660,9 +1660,35 @@ body .bg_blue {
     height: 440px !important;
 }
 
+.clippySwiperBtns {
+    position: absolute;
+    right: 30px;
+}
+
 .clippy_box_h .elementor-flip-box__layer {
     background-image: none !important;
 }
 .clippy_box_h .elementor-element-populated {
     padding: 0;
+}
+
+.clippySwiperBtns button {
+    width: 48px;
+    height: 48px;
+    padding: 0;
+    background-color: #000;
+    border-radius: 50% !important;
+}
+
+.clippySwiperBtns button:disabled {
+    opacity: .5;
+}
+
+.clippySwiperBtns button:hover,
+.clippySwiperBtns button:active {
+    border-radius: 50%;
+}
+
+.clippySwiperBtns button.clippy-prev {
+    transform: rotate(180deg);
 }
