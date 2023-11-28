@@ -1655,3 +1655,14 @@ body .bg_blue {
 #stopScale .contact_us {
     position: absolute;
 }
+
+.clippy_box_h {
+    height: 470px !important;
+}
+
+.clippy_box_h .elementor-flip-box__layer {
+    background-image: none !important;
+}
+.clippy_box_h .elementor-element-populated {
+    padding: 0;
+}
