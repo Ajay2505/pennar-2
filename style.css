@@ -1742,12 +1742,15 @@ body .bg_blue {
     display: grid;
     place-items: center;
     transform: translateX(-100%);
+    opacity: 0;
     background-color: rgba(0,0,0,0.4);
-    transition: transform .3s ease-in;
+    transition: transform 0s ease-in .3s, background-color .3s ease-in, opacity .2s ease-in;
 }
 
 .customModal.active {
+    opacity: 1;
     transform: translateX(0);
+    transition: background-color .3s ease-in, opacity .3s ease-in;
 }
 
 .customModal .modalBody {
@@ -1755,6 +1758,14 @@ body .bg_blue {
     border-radius: 12px;
     min-width: 50%;
     background-color: #fff;
+    opacity: 0;
+    transform: translateY(-10%);
+    transition: transform .3s ease-in, opacity .2s ease-in;
+}
+
+.customModal.active .modalBody {
+    opacity: 1;
+    transform: translateY(0);
 }
 
 .mainForm {
