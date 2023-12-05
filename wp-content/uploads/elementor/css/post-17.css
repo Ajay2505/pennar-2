@@ -3044,8 +3044,8 @@ body:not(.rtl) .elementor-17 .elementor-element.elementor-element-739ae2e .eleme
 
 .elementor-17 .elementor-element.elementor-element-832328b:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-17 .elementor-element.elementor-element-832328b>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: var(--e-bg-lazyload-loaded);
-    --e-bg-lazyload: url("https://www.pennarindia.com/img/slider/slide-4.jpg");
+    /* --e-bg-lazyload: url("https://www.pennarindia.com/img/slider/slide-4.jpg"); */
+    background-image: url("https://www.pennarindia.com/img/slider/slide-4.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover

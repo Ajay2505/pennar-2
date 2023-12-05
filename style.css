@@ -1708,9 +1708,9 @@ body .bg_blue {
     padding: 14px 10px;
     text-transform: none;
     background-color: #18246c;
-    writing-mode: vertical-lr;
-    -webkit-writing-mode: vertical-lr; /* Safari and Chrome */
-    -ms-writing-mode: tb-lr;
+    writing-mode: vertical-rl;
+    -webkit-writing-mode: vertical-rl; /* Safari and Chrome */
+    -ms-writing-mode: tb-rl;
 }
 
 
@@ -2027,4 +2027,64 @@ body .bg_blue {
 
 .map_section .img_wrapper .content .white {
     color: #333333;
+}
+
+.projectsSwiper .swiper-slide {
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.projectsSwiper .swiper-slide .img_wrapper {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.projectsSwiper .swiper-slide .img_wrapper .absolute_block {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    display: grid;
+    place-items: center;
+    background-color: #fff;
+}
+
+.projectsSwiper .swiper-slide .img_wrapper .absolute_block .icon_wrapper {
+    padding: 23px 23px 23px 55px;
+    position: relative;
+    z-index: 2;
+    transition: color .4s ease-in;
+}
+
+.projectsSwiper .swiper-slide .img_wrapper .absolute_block .icon_wrapper::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    width: 0;
+    background-color: #253d97;
+    transition: width .4s ease-in;
+}
+
+.projectsSwiper .swiper-slide:hover .img_wrapper .absolute_block .icon_wrapper {
+    color: #fff;
+}
+
+.projectsSwiper .swiper-slide:hover .img_wrapper .absolute_block .icon_wrapper::before {
+    width: 100%;
+}
+
+.projectsSwiper .swiper-slide .title {
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+.projectsSwiper .swiper-slide .content p {
+    font-size: 14px;
+    color: #3f444b;
 }
