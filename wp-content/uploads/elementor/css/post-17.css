@@ -2086,7 +2086,8 @@ body.rtl .elementor-17 .elementor-element.elementor-element-2fb865e {
 .elementor-17 .elementor-element.elementor-element-b2523ef:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-17 .elementor-element.elementor-element-b2523ef>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
     background-image: var(--e-bg-lazyload-loaded);
-    --e-bg-lazyload: url("https://www.pennarindia.com/img/people-1.jpg");
+    /* --e-bg-lazyload: url("https://www.pennarindia.com/img/people-1.jpg"); */
+    --e-bg-lazyload: url("/images/people.png");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover
