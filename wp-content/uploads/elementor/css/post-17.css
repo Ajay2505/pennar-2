@@ -187,7 +187,8 @@ body:not(.rtl) .elementor-17 .elementor-element.elementor-element-30919cb .eleme
 .elementor-17 .elementor-element.elementor-element-1ed395b:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-17 .elementor-element.elementor-element-1ed395b>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
     background-image: var(--e-bg-lazyload-loaded);
-    --e-bg-lazyload: url("https://www.pennarindia.com/img/business/projects.jpg");
+    /* --e-bg-lazyload: url("https://www.pennarindia.com/img/business/projects.jpg"); */
+    --e-bg-lazyload: url("https://www.pennarindia.com/devtest/img/slider/slide-14.jpg");
     background-position: 50% 50%;
     background-repeat: no-repeat;
     background-size: cover
