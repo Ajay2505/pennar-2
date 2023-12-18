@@ -2119,3 +2119,14 @@ body .bg_blue {
 #card-2-pennar .elementor-flip-box__layer {
     background-image: url("./images/pennar-card-3.png");
 }
+
+@media only screen and (min-width: 1100px) {
+    div[data-elementor-id="1057"]:nth-child(3) > section {
+        margin-top: 120px !important;
+    }
+
+
+    div[data-elementor-id="1057"]:nth-child(4) > section {
+        margin-top: 240px !important;
+    }
+}
