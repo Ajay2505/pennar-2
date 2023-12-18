@@ -169,6 +169,12 @@
     --vamtam-icon-mask: '\e90b';
     --vamtam-icon-steel: '\e90c';
     --vamtam-loading-animation: url('https://fabrik.vamtam.com/wp-content/themes/fabrik/vamtam/assets/images/loader-ring.gif');
+
+    --pennar-main_heading: clamp(25px, 5vw, 45px);
+    --pennar-sub_heading: 24px;
+    --pennar-text: 16px;
+    --pennar-lg-text: 18px;
+    --pennar-sm-text: 14px;
 }
 
 img.wp-smiley,img.emoji {
@@ -1403,6 +1409,8 @@ body .bg_blue {
     /* background-color: var(--e-global-color-vamtam_accent_1); */
 }
 
+
+
 #footer .footer-widget h4,
 #footer ul li a,
 #footer .footer-widget h4 a {
@@ -1411,7 +1419,7 @@ body .bg_blue {
 
 #footer .footer-widget h4,
 #footer .footer-widget h4 a {
-    font-size: 25px;
+    font-size: var(--pennar-sub_heading);
 }
 
 #footer ul li {
@@ -2080,11 +2088,34 @@ body .bg_blue {
 }
 
 .projectsSwiper .swiper-slide .title {
-    font-size: 24px;
+    font-size: var(--pennar-sub_heading);
     margin-top: 20px;
 }
 
 .projectsSwiper .swiper-slide .content p {
     font-size: 14px;
     color: #3f444b;
+}
+
+.pennar-main_heading {
+    font-weight: bold !important;   
+    font-size: var(--pennar-main_heading) !important;
+}
+
+.pennar-sub_heading {
+    font-size: var(--pennar-sub_heading) !important;
+}
+
+.pennar-text {
+    /* font-weight: 400 !important; */
+    font-size: var(--pennar-text) !important;
+}
+
+#card-1-pennar .elementor-flip-box__layer {
+    background-image: url("./images/pennar-card-1.png");
+}
+
+
+#card-2-pennar .elementor-flip-box__layer {
+    background-image: url("./images/pennar-card-3.png");
 }
