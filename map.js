@@ -188,7 +188,7 @@ function setMap() {
   });
   setAllColors();
 }
-setMap();
+// setMap();
 
 function setAllColors() {
   const paths = document.querySelectorAll("[data-map-pathID]");
