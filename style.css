@@ -2210,6 +2210,9 @@ body .bg_blue {
 }
 
 .elementor-icon-list-items .elementor-icon-list-item .elementor-icon-list-text,
+.elementor-widget-button.vamtam-has-theme-widget-styles.elementor-align-justify .elementor-button-link,
+.elementor-button,
 .accordion-button {
     text-transform: none !important;
 }
+
