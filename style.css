@@ -2106,6 +2106,10 @@ body .bg_blue {
     font-size: var(--pennar-sub_heading) !important;
 }
 
+.pennar-lg-heading {
+    font-size: var(--pennar-lg-text) !important;
+}
+
 .pennar-text {
     /* font-weight: 400 !important; */
     font-size: var(--pennar-text) !important;
@@ -2156,4 +2160,45 @@ body .bg_blue {
 
 .elementor-nav-menu__align-center .elementor-nav-menu {
     margin-left: 0 !important;
+}
+
+.clippySwiper .newCard {
+    height: 500px;
+    display: flex;
+    align-items: flex-end;
+    border-radius: 20px;
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url("./images/factory.png");
+}
+
+.clippySwiper .newCard .text_block {
+    padding: 15px;
+    max-height: 50%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    overflow-y: auto;
+    background-color: #253d97;
+    /* background-color: #465AAC; */
+}
+
+.clippySwiper .newCard .text_block > * {
+    flex-shrink: 0;
+}
+
+.clippySwiper .newCard .text_block * {
+    color: #fff;    
+}
+
+.clippySwiper .newCard .text_block .arrow {
+    transform: rotate(-90deg);
+}
+
+.logosSwiper .swiper-wrapper {
+    transition-timing-function: linear;
 }
