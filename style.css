@@ -2090,6 +2090,7 @@ body .bg_blue {
 .projectsSwiper .swiper-slide .title {
     font-size: var(--pennar-sub_heading);
     margin-top: 20px;
+    text-transform: none;
 }
 
 .projectsSwiper .swiper-slide .content p {
@@ -2196,6 +2197,9 @@ body .bg_blue {
     color: #fff;    
 }
 
+.clippySwiper .newCard .text_block .left * {
+    text-transform: none;
+}
 
 .clippySwiper .newCard .text_block .arrow {
     transform: rotate(-90deg);
@@ -2203,4 +2207,9 @@ body .bg_blue {
 
 .logosSwiper .swiper-wrapper {
     transition-timing-function: linear;
+}
+
+.elementor-icon-list-items .elementor-icon-list-item .elementor-icon-list-text,
+.accordion-button {
+    text-transform: none !important;
 }
