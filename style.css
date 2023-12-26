@@ -2088,7 +2088,7 @@ body .bg_blue {
 }
 
 .projectsSwiper .swiper-slide .title {
-    font-size: var(--pennar-sub_heading);
+    font-size: var(--pennar-text);
     margin-top: 20px;
     text-transform: none;
 }
