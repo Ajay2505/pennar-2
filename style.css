@@ -2189,11 +2189,13 @@ body .bg_blue {
 
 .clippySwiper .newCard .text_block > * {
     flex-shrink: 0;
+    max-width: 80%;
 }
 
 .clippySwiper .newCard .text_block * {
     color: #fff;    
 }
+
 
 .clippySwiper .newCard .text_block .arrow {
     transform: rotate(-90deg);
