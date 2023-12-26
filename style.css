@@ -2134,7 +2134,7 @@ body .bg_blue {
 .projectsSwiper .swiper-slide {
     /* opacity: 0; */
     clip-path: polygon(0% 100%, 100% 150%, 100% 100%, 0% 100%);
-    transition: clip-path 1s ease-in, opacity .1s ease-in;
+    transition: clip-path .7s ease-in-out, opacity .1s ease-in;
 }
 
 .projectsSwiper.animateSlides .swiper-slide {
@@ -2152,4 +2152,8 @@ body .bg_blue {
     max-width: 700px;
     border-radius: 20px;
     overflow: hidden;
+}
+
+.elementor-nav-menu__align-center .elementor-nav-menu {
+    margin-left: 0 !important;
 }

@@ -2740,7 +2740,8 @@ body.rtl .elementor-17 .elementor-element.elementor-element-e402230 {
 .elementor-17 .elementor-element.elementor-element-ea40315:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-17 .elementor-element.elementor-element-ea40315>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
     background-image: var(--e-bg-lazyload-loaded);
-    --e-bg-lazyload: url("https://www.pennarindia.com/img/business/services.jpg");
+    --e-bg-lazyload: url("../../../../images/hydrolics.png");
+    /* --e-bg-lazyload: url("https://www.pennarindia.com/img/business/services.jpg"); */
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover
